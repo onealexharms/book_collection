@@ -11,12 +11,12 @@ class TestBookCollection < Minitest::Test
 
   def test_source_file_exists
     bookCollection = BookCollection.new
-    assert File.exist?(bookCollection.bigFile)
+    assert File.exist?(bookCollection.sourceFile)
   end
 
   def test_source_file_has_expected_stuff
     bookCollection = BookCollection.new
-    contents = IO.read(bookCollection.bigFile)    
+    contents = IO.read(bookCollection.sourceFile)    
     assert contents.include?(".jpg")
     assert contents.include?(".webp")
     assert contents.include?("# ")

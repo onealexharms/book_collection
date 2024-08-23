@@ -1,7 +1,7 @@
 class BookCollection
-  attr_reader :sourceFile
+  attr_reader :sourceFileName
 
   def initialize
-    @sourceFile = "index.md"
+    @sourceFileName = "index.md"
   end
 end

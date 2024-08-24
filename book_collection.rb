@@ -1,14 +1,16 @@
 class BookCollection
   attr_reader :sourceFile
-  attr_reader :header
+  attr_reader :headers
 
   def initialize(sourceFile)
     @sourceFile = sourceFile
-    @header = top_level_header_from(sourceFile)
+    @headers = headers_in(sourceFile) 
   end
 
-  def top_level_header_from(sourceFile)
-    headers_found = sourceFile.match(/[^\#]+\#([^\#].*)/)
-    headers_found.nil? ? "" : headers_found.captures.first 
+  def headers_in(sourceFile)
+    @headers = []
+    line = sourceFile.first
+    header = line.match(/^[\#]([^\#].*)/).to_a[1]
+    @headers << header
   end
 end

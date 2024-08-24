@@ -3,16 +3,20 @@ require 'book_collection'
 require 'minitest/autorun'
 require 'minitest/pride'
 
-class TestBookCollection < Minitest::Test
+class TestBookCollection < Minitest::Spec
 
-  def test_source_file_name_is_passed
-    bookCollection = BookCollection.new("filename")  
-    assert_equal("filename", bookCollection.sourceFileName)
-  end
+  describe "a book collection" do
 
-  def test_sourceFile_is_a_string
-    bookCollection = BookCollection.new("filename")  
-    assert_kind_of(String, bookCollection.sourceFile)
+      it "finds a top level header" do
+        sourceFile = "blah bloo #blee blue"
+        bookCollection = BookCollection.new(sourceFile)
+        _(bookCollection.header).must_equal("blee blue")
+      end
+
+      it "doesn't find lower headers" do
+        sourceFile = "blah bloo ##blee blue"
+        bookCollection = BookCollection.new(sourceFile)
+        _(bookCollection.header).must_equal("")
+      end
   end
-  
 end

@@ -1,16 +1,20 @@
 class BookCollection
   attr_reader :sourceFile
-  attr_reader :headers
 
   def initialize(sourceFile)
     @sourceFile = sourceFile
-    @headers = headers_in(sourceFile) 
   end
 
-  def headers_in(sourceFile)
-    @headers = []
-    line = sourceFile.first
-    header = line.match(/^[\#]([^\#].*)/).to_a[1]
-    @headers << header
+  def headers
+    headers = []
+    @sourceFile.each do |line| 
+      finds = line.match(/^[\#](?<header>[^#].*)/)
+      puts finds.inspect
+
+      if finds && finds[:header]
+         headers << finds[:header]
+      end
+    end
+    headers
   end
 end

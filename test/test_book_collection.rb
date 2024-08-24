@@ -8,9 +8,9 @@ class TestBookCollection < Minitest::Spec
   describe "a book collection" do
 
     it "identifies a top level header when it's top" do
-      sourceFile = ["#blee blue", "froggy foo"]
-      bookCollection = BookCollection.new(sourceFile)
-      _(bookCollection.headers.first).must_equal("blee blue")
+      source_file = ["#blee blue", "froggy foo"]
+      book_collection = BookCollection.new(source_file)
+      _(book_collection.headers.first).must_equal("blee blue")
     end
 
     it "identifies two top-level headers" do
@@ -20,9 +20,9 @@ class TestBookCollection < Minitest::Spec
     end
 
     it "ignores lower headers" do
-      sourceFile = ["##blee blue"]
-      bookCollection = BookCollection.new(sourceFile)
-      _(bookCollection.headers).must_equal([])
+      source_file = ["##blee blue"]
+      book_collection = BookCollection.new(source_file)
+      _(book_collection.headers).must_equal([])
     end
   end
 end

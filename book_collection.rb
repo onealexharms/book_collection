@@ -1,13 +1,13 @@
 class BookCollection
-  attr_reader :sourceFile
+  attr_reader :source_file
 
-  def initialize(sourceFile)
-    @sourceFile = sourceFile
+  def initialize(source_file)
+    @source_file = source_file
   end
 
   def headers
     headers = []
-    @sourceFile.each do |line| 
+    @source_file.each do |line| 
       finds = line.match(/^[\#](?<header>[^#].*)/)
       puts finds.inspect
 

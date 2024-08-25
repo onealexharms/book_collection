@@ -13,7 +13,7 @@ class TestBookCollection < Minitest::Spec
 
       it "can be found" do
         source_file_path = "test/test_data/fake_index.md"
-        _(File.exist?(@@source_file_path)).must_equal(true)
+        _(File.exist?(@@source_file_path)).must_equal true
       end
 
       it "contains a hundred or so authors" do
@@ -27,9 +27,9 @@ class TestBookCollection < Minitest::Spec
 
       it "can be found at the top of the file" do
         source_file = ["#blee blue", "froggy foo"]
-        book_collection = BookCollection.new(source_file)
+        book_collection = BookCollection.new source_file
         _(book_collection.authors.first)
-          .must_equal("blee blue")
+          .must_equal "blee blue"
       end
 
       it "can be found on either side of a non-author" do
@@ -38,9 +38,13 @@ class TestBookCollection < Minitest::Spec
                        "#goopy goo",
                        "betty boo",
                        "#looptie doo"]
-        book_collection = BookCollection.new(source_file)
+        book_collection = BookCollection.new source_file
         _(book_collection.authors)
-          .must_equal(["birdy boo", "goopy goo", "looptie doo"])
+          .must_equal ["birdy boo", "goopy goo", "looptie doo"]
+      end
+
+      it "has books" do
+        book_collection = BookCollection.new @@source_file
       end
     end
   end

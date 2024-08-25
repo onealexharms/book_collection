@@ -5,16 +5,14 @@ class BookCollection
     @source_file = source_file
   end
 
-  def headers
-    headers = []
+  def authors
+    authors = []
     @source_file.each do |line| 
-      finds = line.match(/^[\#](?<header>[^#].*)/)
-      puts finds.inspect
-
-      if finds && finds[:header]
-         headers << finds[:header]
+      found_stuff = line.match(/^[\#](?<header>[^#].*)/)
+      if found_stuff && found_stuff[:header]
+         authors << found_stuff[:header]
       end
     end
-    headers
+    authors
   end
 end

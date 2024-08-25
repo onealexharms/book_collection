@@ -5,25 +5,32 @@ require 'minitest/pride'
 
 class TestBookCollection < Minitest::Spec
 
-  describe "a book collection" do
+  describe "book collection" do
 
-    it "identifies a top level header when it's top" do
+    it "identifies an author at the top" do
       source_file = ["#blee blue", "froggy foo"]
       book_collection = BookCollection.new(source_file)
-      _(book_collection.headers.first).must_equal("blee blue")
+      _(book_collection.authors.first).must_equal("blee blue")
     end
 
-    it "identifies two top-level headers" do
+    it "identifies two authors, ignoring a non-author line" do
       source_file = ["#birdy boo", "##froggy foo", "#goopy goo"] 
       book_collection = BookCollection.new(source_file)
-      _(book_collection.headers).must_equal(["birdy boo", "goopy goo"])
-    end
-
-    it "ignores lower headers" do
-      source_file = ["##blee blue"]
-      book_collection = BookCollection.new(source_file)
-      _(book_collection.headers).must_equal([])
+      _(book_collection.authors).must_equal(["birdy boo", "goopy goo"])
     end
   end
 end
 
+=begin
+[{:author_name => "Ada Palmer", 
+  :books => 
+    [{:title => "Seven Surrenders", :image => seven_surrenders.jpg, :commentary => commentary.md} 
+    {:title => zzz, :image => kljadfg, commentary => sokmehting.md}, 
+    {:title => "Too Like the Lightning", :image => image95.jpg, :commentary => commentary.md],
+{:author_name => "Ursula LeGuin", 
+  :books => 
+  [{:title => "The Left Hand of Darkness", :image => image42.png, :commentary => commentary.md}, 
+  {:title => "The Word for World is Forest", :image => image523.webp, :commentary => commentary.md},
+  {:title => "A Wizard of Earthsea", :image => y.img, :commentary = z.md}]]
+
+=end

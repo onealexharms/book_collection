@@ -9,7 +9,7 @@ class TestBookCollection < Minitest::Spec
 
   describe "book collection" do
 
-    describe "the test data file" do
+    describe "test data file" do
 
       it "can be found" do
         source_file_path = "test/test_data/fake_index.md"
@@ -23,18 +23,25 @@ class TestBookCollection < Minitest::Spec
       end
     end
 
-    it "identifies an author at the top" do
-      source_file = ["#blee blue", "froggy foo"]
-      book_collection = BookCollection.new(source_file)
-      _(book_collection.authors.first)
-        .must_equal("blee blue")
-    end
+    describe "author" do
 
-    it "identifies two authors, ignoring a non-author line" do
-      source_file = ["#birdy boo", "##froggy foo", "#goopy goo"]
-      book_collection = BookCollection.new(source_file)
-      _(book_collection.authors)
-        .must_equal(["birdy boo", "goopy goo"])
+      it "can be found at the top of the file" do
+        source_file = ["#blee blue", "froggy foo"]
+        book_collection = BookCollection.new(source_file)
+        _(book_collection.authors.first)
+          .must_equal("blee blue")
+      end
+
+      it "can be found on either side of a non-author" do
+        source_file = ["#birdy boo",
+                       "##froggy foo",
+                       "#goopy goo",
+                       "betty boo",
+                       "#looptie doo"]
+        book_collection = BookCollection.new(source_file)
+        _(book_collection.authors)
+          .must_equal(["birdy boo", "goopy goo", "looptie doo"])
+      end
     end
   end
-  end
+end

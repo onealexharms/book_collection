@@ -35,6 +35,7 @@ class TestBookCollection < Minitest::Spec
       end
 
       it "knows the author of a book" do
+        
 
         end
 

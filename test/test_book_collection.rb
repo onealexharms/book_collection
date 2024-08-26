@@ -34,9 +34,8 @@ class TestBookCollection < Minitest::Spec
       end
 
       it "knows the author of a book" do
-        
 
-        end
+      end
 
       it "knows what an image is" do
         _(book_collection.images.first).must_equal "1_too_like_the_lightning.jpg"

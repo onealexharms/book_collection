@@ -15,6 +15,14 @@ class BookCollection
       .map {|header_line| header_line[1..-1].strip}
   end
 
+  def author_directory author_name
+    author_name.downcase.gsub(" ", "-")
+  end
+
+  def author_filenames
+    authors.map {|author| author_directory author}
+  end
+
   def is_title? line
     line.start_with? "["
   end
@@ -42,8 +50,5 @@ class BookCollection
       }
   end
   
-  def author_filenames
-    authors.map {|author_name| author_name.downcase.gsub(" ", "-")}
-  end
 end
 

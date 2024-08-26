@@ -54,5 +54,18 @@ class TestBookCollection < Minitest::Spec
       _(book_collection.titles.first)
         .must_equal "I am a title"
     end
+
+    it "knows what an image is" do
+      source_file = ["#birdy boo",
+                     "##froggy foo",
+                     "[I am a title]",
+                     "#goopy goo",
+                     "|  |![](an-image.jpg)  |  |",
+                     "betty boo",
+                     "#looptie doo"]
+      book_collection = BookCollection.new source_file
+      _(book_collection.images.first)
+        .must_equal "an-image.jpg"
+    end
   end
 end

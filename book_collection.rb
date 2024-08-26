@@ -16,4 +16,17 @@ class BookCollection
       .select {|line| line.start_with? "["}
       .map {|book_title_line| book_title_line[1..-2]}
   end
+
+  def images
+    @source_file
+      .select {|line| line.start_with? "|"}
+      .map {|book_title_line| book_title_line
+      .gsub("|","")
+      .gsub("(","")
+      .gsub(")","")
+      .gsub("![]","")
+      .gsub(" ","")
+      }
+  end
 end
+

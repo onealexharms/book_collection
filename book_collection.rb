@@ -33,3 +33,4 @@ class BookCollection
     authors.map {|author_name| author_name.downcase.gsub(" ", "-")}
   end
 end
+

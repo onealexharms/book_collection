@@ -5,6 +5,10 @@ class BookCollection
     @source_file = source_file
   end
 
+  def file_name author_name 
+    author_name.downcase.gsub(" ", "-")
+  end
+  
   def authors
     @source_file
       .select {|line| line.match HEADER_LINE}
@@ -29,4 +33,3 @@ class BookCollection
       }
   end
 end
-

@@ -4,73 +4,59 @@ require 'minitest/autorun'
 require 'minitest/pride'
 
 class TestBookCollection < Minitest::Spec
-  @@SOURCE_FILE_PATH = "test/test_data/fake_index.md"
-  @@DESTINATION_FILE_PATH = "test/test_data/"
-  @@source_file_lines = File.readlines @@SOURCE_FILE_PATH
-  @@fake_source_file = ["#Birdy Boo",
-                        "##froggy foo",
-                        "[I am a title]",
-                        "#goopy goo",
-                        "|  |![](an-image.jpg)  |  |",
-                        "[GG's first title]",
-                        "betty boo",
-                        "|  |![](another-image.jpg)  |  |",
-                        "[GG's second title]",
-                        "#looptie doo",
-                        "[Looptie Doo's title]"]
 
   describe "book collection" do
+    SOURCE_FILE_PATH = "test/test_data/fake_index.md"
+    DESTINATION_FILE_PATH = "test/test_data/"
+    source_file_lines = File.readlines SOURCE_FILE_PATH
+    book_collection = BookCollection.new source_file_lines
 
-    describe "test data file" do
-
-      it "can be found" do
-        SOURCE_FILE_PATH = "test/test_data/fake_index.md"
-        _(File.exist?(@@SOURCE_FILE_PATH)).must_equal true
-      end
-
-      it "contains a hundred or so authors" do
-        book_collection = BookCollection.new @@source_file_lines
+      it "authors are all there" do
         _(book_collection.authors.size)
-          .must_be_close_to 150, 100
+          .must_equal 97
       end
-    end
 
-    it "knows when the first thing is an author" do
-      source_file = ["#blee blue", "froggy foo"]
-      book_collection = BookCollection.new source_file
-      _(book_collection.authors.first)
-        .must_equal "blee blue"
-    end
+      it "knows when the first thing is an author" do
+        source_file = ["#blee blue", "froggy foo"]
+        _(book_collection.authors.first)
+          .must_equal "Ada Palmer"
+      end
 
-    it "knows which things are authors" do
-      book_collection = BookCollection.new @@fake_source_file
-      _(book_collection.authors)
-        .must_equal ["Birdy Boo",
-                     "goopy goo",
-                     "looptie doo"]
-    end
+      it "knows which things are authors" do
+        _(book_collection.authors[0..2])
+          .must_equal ["Ada Palmer",
+                       "Adrian Tchaikovsky",
+                       "Alex White"]
+      end
 
-    it "knows what a book title is" do
-      book_collection = BookCollection.new @@fake_source_file
-      _(book_collection.titles.first)
-        .must_equal "I am a title"
-    end
+      it "knows what a book title is" do
+        _(book_collection.titles.first)
+          .must_equal "Too Like the Lightning"
+      end
 
-    it "knows what images are" do
-      book_collection = BookCollection.new @@fake_source_file
-      _(book_collection.images).must_equal ["an-image.jpg", "another-image.jpg"]
-    end
+      it "knows the author of a book" do
 
-    it "knows author filename" do
-      book_collection = BookCollection.new @@fake_source_file
-      author = book_collection.authors.first
-      _(book_collection.author_filenames.first).must_equal("birdy-boo")
-    end
+        end
 
-    it "knows more author filenames" do
-      book_collection = BookCollection.new @@fake_source_file
-      _(book_collection.author_filenames).must_equal ["birdy-boo","goopy-goo", "looptie-doo"]
-    end
+      it "knows what an image is" do
+        _(book_collection.images.first).must_equal "1_too_like_the_lightning.jpg"
+      end
+
+      it "knows what images are" do
+        _(book_collection.images[0..3])
+          .must_equal ["1_too_like_the_lightning.jpg",
+                       "2_seven_surrenders.jpg",
+                       "3_the_will_to_battle.jpeg",
+                       "4_perhaps_the_stars.jpeg"]
+      end
+
+      it "knows author filename" do
+        author = book_collection.authors.first
+        _(book_collection.author_filenames.first).must_equal("ada-palmer")
+      end
+
+      it "knows more author filenames" do
+        _(book_collection.author_filenames[0..2]).must_equal ["ada-palmer","adrian-tchaikovsky", "alex-white"]
+      end
   end
 end
-

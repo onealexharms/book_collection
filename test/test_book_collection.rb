@@ -50,11 +50,11 @@ class TestBookCollection < Minitest::Spec
 
       it "knows author directory name" do
         author = book_collection.authors.first
-        _(book_collection.author_directory_names.first).must_equal("ada-palmer")
+        _(book_collection.author_to_directories.first).must_equal("ada-palmer")
       end
 
       it "knows more author directory names" do
-        _(book_collection.author_directory_names[0..2]).must_equal ["ada-palmer","adrian-tchaikovsky", "alex-white"]
+        _(book_collection.author_to_directories[0..2]).must_equal ["ada-palmer","adrian-tchaikovsky", "alex-white"]
       end
   end
 end

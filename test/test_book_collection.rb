@@ -33,10 +33,10 @@ class TestBookCollection < Minitest::Spec
 
     it "knows which things are authors" do
       fake_source_file = ["#birdy boo",
-                     "##froggy foo",
-                     "#goopy goo",
-                     "betty boo",
-                     "#looptie doo"]
+                          "##froggy foo",
+                          "#goopy goo",
+                          "betty boo",
+                          "#looptie doo"]
       book_collection = BookCollection.new fake_source_file
       _(book_collection.authors)
         .must_equal ["birdy boo",
@@ -46,11 +46,11 @@ class TestBookCollection < Minitest::Spec
 
     it "knows what a book title is" do
       fake_source_file = ["#birdy boo",
-                     "##froggy foo",
-                     "[I am a title]",
-                     "#goopy goo",
-                     "betty boo",
-                     "#looptie doo"]
+                          "##froggy foo",
+                          "[I am a title]",
+                          "#goopy goo",
+                          "betty boo",
+                          "#looptie doo"]
       book_collection = BookCollection.new fake_source_file
       _(book_collection.titles.first)
         .must_equal "I am a title"
@@ -58,28 +58,40 @@ class TestBookCollection < Minitest::Spec
 
     it "knows what an image is" do
       fake_source_file = ["#birdy boo",
-                     "##froggy foo",
-                     "[I am a title]",
-                     "#goopy goo",
-                     "|  |![](an-image.jpg)  |  |",
-                     "betty boo",
-                     "#looptie doo"]
+                          "##froggy foo",
+                          "[I am a title]",
+                          "#goopy goo",
+                          "|  |![](an-image.jpg)  |  |",
+                          "betty boo",
+                          "#looptie doo"]
       book_collection = BookCollection.new fake_source_file
       _(book_collection.images.first)
         .must_equal "an-image.jpg"
     end
-    
+
     it "knows author filename" do
       fake_source_file = ["#Birdy Boo",
-                     "##froggy foo",
-                     "[I am a title]",
-                     "#goopy goo",
-                     "|  |![](an-image.jpg)  |  |",
-                     "betty boo",
-                     "#looptie doo"]
+                          "##froggy foo",
+                          "[I am a title]",
+                          "#goopy goo",
+                          "|  |![](an-image.jpg)  |  |",
+                          "betty boo",
+                          "#looptie doo"]
       book_collection = BookCollection.new fake_source_file
       author = book_collection.authors.first
       _(book_collection.file_name(author)).must_equal("birdy-boo")
+    end
+
+    it "knows more author filenames" do
+      fake_source_file = ["#Birdy Boo",
+                          "##froggy foo",
+                          "[I am a title]",
+                          "#goopy goo",
+                          "|  |![](an-image.jpg)  |  |",
+                          "betty boo",
+                          "#looptie doo"]
+      book_collection = BookCollection.new fake_source_file
+      _(book_collection.author_filenames).must_equal ["birdy-boo","goopy-goo", "looptie-doo"]
     end
   end
 end

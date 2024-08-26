@@ -32,4 +32,8 @@ class BookCollection
       .gsub(" ","")
       }
   end
+
+  def author_filenames
+    authors.map {|author| author.downcase.gsub(" ","-")}
+  end
 end

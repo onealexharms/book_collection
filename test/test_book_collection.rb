@@ -12,8 +12,9 @@ class TestBookCollection < Minitest::Spec
                         "[I am a title]",
                         "#goopy goo",
                         "|  |![](an-image.jpg)  |  |",
-                        "[GG's first tile]",
+                        "[GG's first title]",
                         "betty boo",
+                        "|  |![](another-image.jpg)  |  |",
                         "[GG's second title]",
                         "#looptie doo",
                         "[Looptie Doo's title]"]
@@ -55,10 +56,9 @@ class TestBookCollection < Minitest::Spec
         .must_equal "I am a title"
     end
 
-    it "knows what an image is" do
+    it "knows what images are" do
       book_collection = BookCollection.new @@fake_source_file
-      _(book_collection.images.first)
-        .must_equal "an-image.jpg"
+      _(book_collection.images).must_equal ["an-image.jpg", "another-image.jpg"]
     end
 
     it "knows author filename" do
@@ -73,3 +73,4 @@ class TestBookCollection < Minitest::Spec
     end
   end
 end
+

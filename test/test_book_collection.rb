@@ -17,7 +17,6 @@ class TestBookCollection < Minitest::Spec
       end
 
       it "knows when the first thing is an author" do
-        source_file = ["#blee blue", "froggy foo"]
         _(book_collection.authors.first)
           .must_equal "Ada Palmer"
       end

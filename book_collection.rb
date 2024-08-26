@@ -1,12 +1,8 @@
+
 class BookCollection
  
-  def initialize source_file
-    @source_file = source_file
-  end
-  
-  def is_author? line
-    author_line = Regexp.new /^[\#][^#].*/
-    line.match? author_line
+  def initialize source_file_path
+    @source_file = File.readlines(source_file_path)
   end
 
   def authors
@@ -19,12 +15,8 @@ class BookCollection
     author_name.downcase.gsub(" ", "-")
   end
 
-  def author_filenames
+  def author_directory_names
     authors.map {|author| author_directory author}
-  end
-
-  def is_title? line
-    line.start_with? "["
   end
 
   def titles
@@ -33,9 +25,18 @@ class BookCollection
       .map {|book_title_line| book_title_line[1..-3]}
   end
 
+  def is_author? line
+    author_line = Regexp.new /^[\#][^#].*/
+    line.match? author_line
+  end
+
   def is_image? line
     image_line  = Regexp.new /!\[\]\(.*\)/
     line.match image_line 
+  end
+
+  def is_title? line
+    line.start_with? "["
   end
 
   def images

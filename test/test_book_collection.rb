@@ -8,8 +8,7 @@ class TestBookCollection < Minitest::Spec
   describe "book collection" do
     SOURCE_FILE_PATH = "test/test_data/fake_index.md"
     DESTINATION_FILE_PATH = "test/test_data/"
-    source_file_lines = File.readlines SOURCE_FILE_PATH
-    book_collection = BookCollection.new source_file_lines
+    book_collection = BookCollection.new SOURCE_FILE_PATH 
 
       it "authors are all there" do
         _(book_collection.authors.size)
@@ -49,13 +48,13 @@ class TestBookCollection < Minitest::Spec
                        "4_perhaps_the_stars.jpeg"]
       end
 
-      it "knows author filename" do
+      it "knows author directory name" do
         author = book_collection.authors.first
-        _(book_collection.author_filenames.first).must_equal("ada-palmer")
+        _(book_collection.author_directory_names.first).must_equal("ada-palmer")
       end
 
-      it "knows more author filenames" do
-        _(book_collection.author_filenames[0..2]).must_equal ["ada-palmer","adrian-tchaikovsky", "alex-white"]
+      it "knows more author directory names" do
+        _(book_collection.author_directory_names[0..2]).must_equal ["ada-palmer","adrian-tchaikovsky", "alex-white"]
       end
   end
 end

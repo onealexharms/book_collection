@@ -79,7 +79,7 @@ class TestBookCollection < Minitest::Spec
                           "#looptie doo"]
       book_collection = BookCollection.new fake_source_file
       author = book_collection.authors.first
-      _(book_collection.file_name(author)).must_equal("birdy-boo")
+      _(book_collection.author_filenames.first).must_equal("birdy-boo")
     end
 
     it "knows more author filenames" do

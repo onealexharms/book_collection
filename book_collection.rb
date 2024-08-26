@@ -4,10 +4,6 @@ class BookCollection
   def initialize source_file
     @source_file = source_file
   end
-
-  def file_name author_name 
-    author_name.downcase.gsub(" ", "-")
-  end
   
   def authors
     @source_file
@@ -32,8 +28,8 @@ class BookCollection
       .gsub(" ","")
       }
   end
-
+  
   def author_filenames
-    authors.map {|author| author.downcase.gsub(" ","-")}
+    authors.map {|author_name| author_name.downcase.gsub(" ", "-")}
   end
 end

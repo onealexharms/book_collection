@@ -29,7 +29,7 @@ class BookCollection
     authors.map {|author| author_to_directory author}
   end
   
-  def images
+  def image_filenames
     @source_file
       .select {|line| is_image? line}
       .map {|image_line| image_line

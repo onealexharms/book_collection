@@ -39,11 +39,11 @@ end
     end
 
     it "knows what an image is" do
-      _(@book_collection.images.first).must_equal "1_too_like_the_lightning.jpg"
+      _(@book_collection.image_filenames.first).must_equal "1_too_like_the_lightning.jpg"
     end
 
     it "knows what images are" do
-      _(@book_collection.images[0..3])
+      _(@book_collection.image_filenames[0..3])
         .must_equal ["1_too_like_the_lightning.jpg",
                      "2_seven_surrenders.jpg",
                      "3_the_will_to_battle.jpeg",

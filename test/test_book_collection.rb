@@ -5,12 +5,12 @@ require 'minitest/pride'
 require 'fileutils'
 
 class TestBookCollection < Minitest::Spec
-  DESTINATION_FILE_PATH = "test/test_data/target/"
-  SOURCE_FILE_PATH = "test/test_data/fake_index.md"
+  DESTINATION_FILE_PATH = "./test/test_data/target/"
+  SOURCE_FILE_PATH = "./test/test_data/fake_index.md"
 
 before do
-  FileUtils.remove_dir "./test/test_data/target" if Dir.exist?(DESTINATION_FILE_PATH)
-  @book_collection = BookCollection.new SOURCE_FILE_PATH 
+  FileUtils.remove_dir DESTINATION_FILE_PATH if Dir.exist?(DESTINATION_FILE_PATH)
+  @book_collection = BookCollection.new SOURCE_FILE_PATH, DESTINATION_FILE_PATH 
   puts "-----------------------------------"
 end
 
@@ -52,16 +52,16 @@ end
 
     it "knows author directory name" do
       author = @book_collection.authors.first
-      _(@book_collection.author_to_directories.first).must_equal("ada-palmer")
+      _(@book_collection.authors_to_directories.first).must_equal("ada-palmer")
     end
 
     it "knows more author directory names" do
-      _(@book_collection.author_to_directories[0..2]).must_equal ["ada-palmer","adrian-tchaikovsky", "alex-white"]
+      _(@book_collection.authors_to_directories[0..2]).must_equal ["ada-palmer","adrian-tchaikovsky", "alex-white"]
     end
 
-#    it "has a file for the first author" do
-#      _(File.exist?("${DESTINATION_FILE_PATH/ada-palmer")).must_equal(true)
-#    end
+    it "has a file for the first author" do
+      _(File.exist?("#{DESTINATION_FILE_PATH}ada-palmer")).must_equal(true)
+    end
   end
 end
 

@@ -27,6 +27,11 @@ GEM
     guard-minitest (2.4.6)
       guard-compat (~> 1.2)
       minitest (>= 3.0)
+    guard-shell (0.7.2)
+      guard (>= 2.0.0)
+      guard-compat (~> 1.0)
+    guard-yield (0.1.0)
+      guard-compat (~> 1.0)
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
@@ -62,6 +67,8 @@ PLATFORMS
 DEPENDENCIES
   guard
   guard-minitest
+  guard-shell
+  guard-yield
 
 BUNDLED WITH
    2.5.14

@@ -7,7 +7,7 @@ class BookCollection
   end
   
   def write_author_directories
-    authors_to_directories.each {|directory_name|
+    author_lines_to_directories.each {|directory_name|
       path = @target_file_path + directory_name
       unless File.directory?(path)
         FileUtils.mkpath(path)
@@ -15,18 +15,18 @@ class BookCollection
     }
   end
 
-  def authors
+  def author_names
     @source_file
       .select {|line| is_author? line}
       .map {|header_line| header_line[1..-1].strip}
   end
 
-  def author_to_directory author_name
+  def directory_name_for author_name
     author_name.downcase.gsub(" ", "-")
   end
 
-  def authors_to_directories
-    authors.map {|author| author_to_directory author}
+  def author_lines_to_directories
+    author_names.map {|author| directory_name_for author}
   end
   
   def image_filenames

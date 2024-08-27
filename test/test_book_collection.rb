@@ -17,17 +17,17 @@ end
   describe "book collection" do
       
     it "test data is vetted" do
-      _(@book_collection.authors.size)
+      _(@book_collection.author_names.size)
         .must_equal 97
     end
 
     it "knows when the first thing is an author" do
-      _(@book_collection.authors.first)
+      _(@book_collection.author_names.first)
         .must_equal "Ada Palmer"
     end
 
     it "knows which things are authors" do
-      _(@book_collection.authors[0..2])
+      _(@book_collection.author_names[0..2])
         .must_equal ["Ada Palmer",
                      "Adrian Tchaikovsky",
                      "Alex White"]
@@ -51,12 +51,12 @@ end
     end
 
     it "knows author directory name" do
-      author = @book_collection.authors.first
-      _(@book_collection.authors_to_directories.first).must_equal("ada-palmer")
+      author = @book_collection.author_names.first
+      _(@book_collection.author_lines_to_directories.first).must_equal("ada-palmer")
     end
 
     it "knows more author directory names" do
-      _(@book_collection.authors_to_directories[0..2]).must_equal ["ada-palmer","adrian-tchaikovsky", "alex-white"]
+      _(@book_collection.author_lines_to_directories[0..2]).must_equal ["ada-palmer","adrian-tchaikovsky", "alex-white"]
     end
 
     it "has a file for the first author" do

@@ -1,5 +1,5 @@
 guard :shell do
-  watch(/.*/) {|modified_files|
+  watch(//) {|modified_files|
   modified_files } 
 end
 

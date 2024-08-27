@@ -52,11 +52,11 @@ end
 
     it "knows author directory name" do
       author = @book_collection.author_names.first
-      _(@book_collection.author_lines_to_directories.first).must_equal("ada-palmer")
+      _(@book_collection.author_names_to_directories.first).must_equal("ada-palmer")
     end
 
     it "knows more author directory names" do
-      _(@book_collection.author_lines_to_directories[0..2]).must_equal ["ada-palmer","adrian-tchaikovsky", "alex-white"]
+      _(@book_collection.author_names_to_directories[0..2]).must_equal ["ada-palmer","adrian-tchaikovsky", "alex-white"]
     end
 
     it "has a file for the first author" do

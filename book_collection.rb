@@ -32,13 +32,18 @@ class BookCollection
   def image_filenames
     @source_file
       .select {|line| is_image? line}
-      .map {|image_line| image_line
+      .map {|image_line| 
+        image_line_to_filename image_line
+      }
+  end
+
+  def image_line_to_filename image_line
+    image_line
       .gsub("|", "")
       .gsub("(", "")
       .gsub(")", "")
       .gsub("![]", "")
       .strip
-      }
   end
 
   def titles

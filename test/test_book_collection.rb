@@ -51,17 +51,14 @@ end
                      "4_perhaps_the_stars.jpeg"]
     end
 
-    it "knows author directory name" do
-      author = @book_collection.author_names.first
-      _(@book_collection.author_names_to_paths.first).must_equal("ada-palmer")
-    end
-
-    it "knows more author directory names" do
+    it "knows author directory names" do
       _(@book_collection.author_names_to_paths[0..2]).must_equal ["ada-palmer","adrian-tchaikovsky", "alex-white"]
     end
 
-    it "has a file for the first author" do
+    it "has files for authors" do
       _(File.exist?("#{DESTINATION_FILE_PATH}ada-palmer")).must_equal(true)
+      _(File.exist?("#{DESTINATION_FILE_PATH}becky-chambers")).must_equal(true)
+      _(File.exist?("#{DESTINATION_FILE_PATH}ursula-k-leguin")).must_equal(true)
     end
   end
 end

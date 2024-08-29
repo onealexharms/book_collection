@@ -2384,19 +2384,18 @@ Meanwhile, people are beginning to shadow him, people who look like they're used
  ![](Image%208-17-24,%2011-03.jpeg) 
  --- ---------------------------------- --- 
  
-[(Four stories)]
 
 ---- 
-### Unauthorized Bread
+[Unauthorized Bread]
 A refugee, Salima, confronts the software controlling her kitchen appliances after the companies who created those appliances suddenly cease operations.
 ---- 
-### Model Minority
+[Model Minority]
 "American Eagle", a superhero resembling Superman, attempts to take on racial violence in the American policing system.
 ---- 
-### Radicalized
+[Radicalized]
 A man becomes embroiled in a dark web network targeting insurance companies after his wife's cancer coverage was declined by their health insurer.
 ---- 
-### The Masque of Red Death
+[The Masque of Red Death]
 A wealthy financier builds and manages a doomsday vault, designed to withstand societal collapse.
 
 # C T Rwizi
@@ -2642,18 +2641,18 @@ Only one person might be able to break through the Congregate defenses at Venus,
 [Flight from the Ages (stories)]
 
 ---- 
-### Pollen From a Future Harvest
+[Pollen From a Future Harvest]
 Major Chenesai Okonkwo is an Auditor for the Sub-Saharan Union. Her mission: to find out if the Sixth Expeditionary Force’s newly discovered time gate has been compromised. Is the Union’s revolutionary discovery already doomed, eleven years in the future?
 ---- 
-### Tool Use By Humans of Danzhai County
+[Tool Use By Humans of Danzhai County]
 ---- 
-### “Persephone Descending”
+[Persephone Descending]
 ---- 
-### “Schools of Clay”
+[Schools of Clay]
 ---- 
-### “Beneath Sunlit Shallows”
+[Beneath Sunlit Shallows]
 ---- 
-### “Flight From the Ages”
+[Flight From the Ages]
 
 # Douglas Adams
 
@@ -3255,31 +3254,30 @@ As Harrington buckles under the weight of the supernatural, the ghost hunt pits 
  ![](51-U33vVkjL.SX150.jpeg) 
  --- --------------------------- --- 
  
-[Instantiation (11 stories)]
+## Instantiation (11 stories)
 
 ---- 
-### The Discrete Charm 
-of the Turing Machine
+[The Discrete Charm of the Turing Machine]
 ---- 
-### Zero For Conduct
+[Zero For Conduct]
 ---- 
-### Uncanny Valley
+[Uncanny Valley]
 ---- 
-### Seventh Sight
+[Seventh Sight]
 ---- 
-### The Nearest
+[The Nearest]
 ---- 
-### Shadow Flock
+[Shadow Flock]
 ---- 
-### Bit Players
+[Bit Players]
 ---- 
-### Break My Fall
+[Break My Fall]
 ---- 
-### 3-adica
+[3-adica]
 ---- 
-### The Slipway
+[The Slipway]
 ---- 
-### Instantiation
+[Instantiation]
 ---- 
 
  ![](Image%208-17-24,%2013-00.jpeg) 
@@ -5670,7 +5668,7 @@ Amidst the backdrop of a murder and a brewing political uprising, Celehar must s
 
 # Katherine Kerr
 ## Deverry World
-### Deverry 1
+###Deverry
 
  ![](Image%208-16-24,%2022-07.jpeg) 
  --- ---------------------------------- --- 
@@ -5704,31 +5702,9 @@ Amidst the backdrop of a murder and a brewing political uprising, Celehar must s
 ---- 
 Four hundred years ago, one selfish young lord caused the death of two innocent lovers. Nevyn vowed never to rest until he'd righted that wrong, and so he's still alive. The others are reincarnations. Jill (friend to the wild folk), her father Cullyn (a Silver Dagger) and Rhodry Maelwaedd, exiled prince.
 ---- 
-### Deverry 2
 
  ![](Image%208-16-24,%2022-07-1.jpeg) 
  --- ------------------------------------ --- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -5739,32 +5715,9 @@ Four hundred years ago, one selfish young lord caused the death of two innocent 
 ---- 
 Rhodry has yet to discover his true parentage and Jill has barely glimpsed her awesome powers. Nevyn watches and waits as Rhodry and Jill move ever closer to danger. They must recover the Great Stone, which guides the conscience of the kingship of Deverry. Dark dweomer practicers weave terrible spells.
 ---- 
-### Deverry 3
 
  ![](Image%208-16-24,%2022-08.jpeg) 
  --- ---------------------------------- --- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -5774,27 +5727,9 @@ Rhodry has yet to discover his true parentage and Jill has barely glimpsed her a
 ---- 
 Nevyn discovers that the Dark Council has been quietly interfering with the already tangled politics of war-torn Eldidd. Their evil webs are nearly spun before Dweomer master Nevyn even realizes there’s a war of magic destroying his world.
 ---- 
-### Deverry 4
 
  ![](Image%208-16-24,%2022-08-1.jpeg) 
  --- ------------------------------------ --- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -5809,133 +5744,35 @@ Nevyn discovers that the Dark Council has been quietly interfering with the alre
 ---- 
 The turmoil among provinces of Deverry escalates with the kidnapping of Rhodry, heir to the throne. Intent on rescuing him, Jill and Salamander travel to Bardex. Nevyn begins to see that all the kingdom's problems can be traced to a single dark mage. Nevyn realizes he is also being lured to Bardek, into a deadly trap designed especially for him.
 ---- 
-### Deverry: Three Tales 1
 
  ![](https://media.s-bol.com/xQJxKAW55g9/550x825.jpg) 
  --- ---------------------------------------------------- --- 
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-[The Bargain]
+[The Bargain (Three Tales)]
 
 ---- 
-### Deverry: Three Tales 2
-
  
  --- --- --- 
  
+ ![](https://media.s-bol.com/xQJxKAW55g9/550x825.jpg) 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-[The Lass from Far Away]
+[The Lass from Far Away (Three Tales)]
 
 ---- 
-### Deverry: Three Tales 3
-
  
  --- --- --- 
  
+ ![](https://media.s-bol.com/xQJxKAW55g9/550x825.jpg) 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-[The Honor of the Thing]
+[The Honor of the Thing (Three Tales)]
 
 ---- 
 ---- 
-### Westlands 1
+### Westlands
 
  ![](1_a_time_of_exile.jpeg) 
  --- --------------------------- --- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -5944,69 +5781,18 @@ The turmoil among provinces of Deverry escalates with the kidnapping of Rhodry, 
 ---- 
 The Elcyion Lacar (elves) inhabit the country west of Deverry. Half-elven Lord Rhodry has taken the throne of Aberwyn. Jill, now powerful in dweomer, comes to Aberwyn to get him. Rhodry faces the most difficult choice of his life. Jill and the human dweomaster Aderyn help Rhodry understand how his life is connected to the Elcyion Lacar.
 ---- 
-### Westlands 2
 
  ![](2_a_time_of_omens.jpeg) 
  --- --------------------------- --- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 [A Time of Omens]
 
 ---- 
 In Deverry, a young king journeys to his throne in disguise, fulfilling an ancient prophecy. In the Westlands, the exiled lord Rhodry travels anonymously as a Silver Dagger as he did in his youth, taking him from the grassy plains of the elven people to the hills and towns of Deverry, where dark forces are gathering. And from the shadowy land of the Guardians come omens, ill-defined and mysterious, that seem to point the way toward cataclysmic war....
 ---- 
-### Westlands 3
 
  ![](3_days_of_blood_and_fire.jpeg) 
  --- ---------------------------------- --- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
 [Days of Blood and Fire]
@@ -6014,32 +5800,9 @@ In Deverry, a young king journeys to his throne in disguise, fulfilling an ancie
 ---- 
 In the company of a blind bard, Jahdo (the rat catcher boy) must travel to Deverry. He is caught up in dangers. Two powerful sorcerers battle to save the country from a goddess gone mad. Their strongest ally is Rhodry Maelwaed and to the dragon he is bonded to.
 ---- 
-### Westlands 4
 
  ![](4_days_of_air_and_darkness.jpeg) 
  --- ------------------------------------ --- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -6049,33 +5812,10 @@ In the company of a blind bard, Jahdo (the rat catcher boy) must travel to Dever
 ---- 
 The city of Cengarn is under siege. Astral and physical armies are massing for and against the goddess Alshandra, who seeks to prevent birth of the Princess Carra's baby. Jill and her allies protect her by magic and by might. Rhodry wings toward the battle on dragonback. Soon he will face his ancient enemy, Alshandra's high priestess Raena, who means to destroy him. Their confrontation could turn the tide of the siege—and change the fate of Deverry forever.
 ---- 
-### Dragon Mage 1
+### Dragon Mage 
 
  ![](Image%208-17-24,%2019-50.jpeg) 
  --- ---------------------------------- --- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -6084,34 +5824,9 @@ The city of Cengarn is under siege. Astral and physical armies are massing for a
 ---- 
 The kingdom is torn by civil war. Young Lillorigga seeks to shield her dawning powers from her cruel mother Merodda's. Mistress of a magic that, untamed, could kill her, Lilli brings her terrifying visions to Nevyn. She must choose between her clan and the king who fights to claim his rightful throne, between loyalty and love. The slaughter she invites and the malevolence she defies will stalk her across the ages.
 ---- 
-### Dragon Mage 2
 
  ![](2_the_black_raven.jpeg) 
  --- --------------------------- --- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
 [The Black Raven]
@@ -6119,34 +5834,9 @@ The kingdom is torn by civil war. Young Lillorigga seeks to shield her dawning p
 ---- 
 Her latest tale shifts effortlessly between the shattered lands of the Rhiddaer and Dun Deverry itself. Civil Wars have ended. Lilli is newly apprenticed to the dweomer. She fights to protect Prince Maryn from evil. Centuries later, in the city of Cerr Cawnen, the old evil awakens yet again when Raena schemes to destroy Rhodry, her bitter enemy during life after life. Her malice will draw the intervention of astral powers and of Rhodry's dragon friend.
 ---- 
-### Dragon Mage 3
 
  ![](3_the_fire_dragon.jpeg) 
  --- --------------------------- --- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
 [The Fire Dragon]
@@ -6154,34 +5844,10 @@ Her latest tale shifts effortlessly between the shattered lands of the Rhiddaer 
 ---- 
 In the present (1117) Raena's trouble-making in Cerr Cawnen leads to terrible death and destruction but may ultimately offer the final working-out of Rhodry's Wyrd. In the era of the Civil Wars, Nevyn and Lilli attempt to solve the riddle of the curse tablet. 
 ---- 
-### Silver Wyrm 1
+### Silver Wyrm 
 
  ![](Image%208-17-24,%2019-55.jpeg) 
  --- ---------------------------------- --- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
 [The Gold Falcon]
@@ -6190,30 +5856,9 @@ In the present (1117) Raena's trouble-making in Cerr Cawnen leads to terrible de
 Young orphan Neb (Nevin) travels with his younger brother. The Horsekin tribes (for their goddess Alshandra) are raiding and taking slaves. They plan to destroy both the nomadic Westfolk and the Deverrian farmers. Neb and Branna (Jill) find love and are drawn into a war.
 Although they have powerful allies in the Westfolk dweomermasters Dallandra and Salamander, they are also facing mighty enemies from past lives they no longer remember.
 ---- 
-### Silver Wyrm 2
 
  ![](IMG_0214.jpeg) 
  --- ------------------ --- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -6225,31 +5870,9 @@ Although they have powerful allies in the Westfolk dweomermasters Dallandra and 
 ---- 
 Elven prince Dar has called upon his allies, the dwarven folk of the Northern mountains and the human men of Deverry in the East, to take arms against their mutual enemy, the fanatical Horsekin, whose imminent invasion of the Westlands will place the entire realm in danger.
 ---- 
-### Silver Wyrm 3
 
  ![](Image%208-17-24,%2020-08.jpeg) 
  --- ---------------------------------- --- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -6260,30 +5883,9 @@ Elven prince Dar has called upon his allies, the dwarven folk of the Northern mo
 ---- 
 The wild Northlands hold many secrets, among them the mysterious island of Haen Marn, the mountain settlements of Dwarveholt, and the fortified city of Cerr Cawnen. All three communities-and the alliance of humans, elves, and dwarves-are threatened by the religious fanaticism of the Horsekin. Only the magic of Dallandra and Valandario and the might of the powerful dragons, Arzosah and Rori, can save the Northlands from conquest.
 ---- 
-### Silver Wyrm 4
 
  ![](Image%208-17-24,%2020-10.jpeg) 
  --- ---------------------------------- --- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -6295,7 +5897,7 @@ The wild Northlands hold many secrets, among them the mysterious island of Haen 
 ---- 
 The Horsekin are assembling along Prince Dar’s northern border, and the Deverry alliance simply does not have the men and resources to prevent their enemies from moving into the wilderness areas known as the Ghostlands. But suddenly, the Dwrgi folk and the dragons come to Dar’s aid, tipping the balance in their favor and offering Dar’s people a chance to defeat the Horsekin once and for all.
 ---- 
-### Justice War 1
+### Justice War 
 
  ![](1_sword_of_fire.jpeg) 
  --- ------------------------- --- 
@@ -8210,14 +7812,12 @@ Lorness Carol, coming of age in the kingdom of her warlord father, Lord Rafel, a
 Now, traversing the lawless western borderlands, Carol struggles to understand the uncanny magic she possesses and must learn to master. Though separated, Carol and Blade are still united—not only by the darkness pursuing them both but by a quest toward destiny, revenge, and the revelations of an ancient prophecy that signal the ultimate war between good and evil.
 
 # Robin Hobb
-## Farseer Trilogy
-### (Realm of the 
-Elderlings 1-3)
+## Realm of the Elderlings
+###Farseer Trilogy
 
  ![](Image%208-16-24,%2019-19.jpeg) 
  --- ---------------------------------- --- 
- 
- 
+  
  
 [Assassin's Apprentice]
 
@@ -8249,10 +7849,8 @@ Renewing their vicious attacks on the coast, the Red-Ship Raiders leave burned-o
 King Shrewd is dead at the hands of his son Regal. As is Fitz—or so his enemies and friends believe. But with the help of his allies and his beast magic, he emerges from the grave, deeply scarred in body and soul. The kingdom also teeters toward ruin: Regal has plundered and abandoned the capital, while the rightful heir, Prince Verity, is lost to his mad quest—perhaps to death. Only Verity’s return—or the heir his princess carries—can save the Six Duchies.
 But Fitz will not wait. Driven by loss and bitter memories, he undertakes a quest: to kill Regal. The journey casts him into deep waters, as he discovers wild currents of magic within him—currents that will either drown him or make him something more than he was.
 ---- 
-## Liveship Traders
-### (Realm of the 
-Elderlings 4-6)
 
+### Liveship Traders
  ![](Image%208-16-24,%2019-22.jpeg) 
  --- ---------------------------------- --- 
  
@@ -8288,9 +7886,7 @@ But the Vivacia has been seized by the ruthless pirate captain Kennit, who holds
 As Bingtown slides toward disaster, clan matriarch Ronica Vestrit, branded a traitor, searches for a way to bring the city’s inhabitants together against a momentous threat. Meanwhile, Althea Vestrit, unaware of what has befallen Bingtown and her family, continues her perilous quest to track down and recover her liveship, the Vivacia, from the ruthless pirate Kennit.
 Bold though it is, Althea’s scheme may be in vain. For her beloved Vivacia will face the most terrible confrontation of all as the secret of the liveships is revealed. It is a truth so shattering, it may destroy the Vivacia and all who love her, including Althea’s nephew, whose life already hangs in the balance.
 ---- 
-## Tawny Man
-### (Realm of the 
-Elderlings 7-9)
+### Tawny Man
 
  ![](Image%208-16-24,%2019-25.jpeg) 
  --- ---------------------------------- --- 
@@ -8327,9 +7923,7 @@ Posing as a bodyguard, Fitz becomes the eyes and ears behind the walls, guiding 
 FitzChivalry Farseer has become firmly ensconced in the queen’s court. Along with his mentor, Chade, and the simpleminded yet strongly skilled Thick, Fitz strives to aid Prince Dutiful on a quest that could secure peace with the Out Islands—and win Dutiful the hand of the Narcheska Elliania.
 The Narcheska has set the prince an unfathomable task: to behead a dragon trapped in ice on the isle of Aslevjal. Yet not all the clans of the Out Islands support their effort. Are there darker forces at work behind Elliania’s demand? Knowing that the Fool has foretold he will die on the island of ice, Fitz plots to leave his dearest friend behind. But fate cannot so easily be defied.
 ---- 
-## Rain Wilds Chronicles
-### (Realm of the 
-Elderlings 10-13)
+### Rain Wilds Chronicles
 
  ![](Image%208-16-24,%2019-23.jpeg) 
  --- ---------------------------------- --- 
@@ -8379,9 +7973,7 @@ After a long and harsh journey, Kelsingra is finally near, on the far side of th
 ---- 
 The legendary dragon city of Kelsingra has been discovered. But most of the dragons now lack the strength for the final hazardous river crossing, and the mythical silver wells they need to survive are nowhere to be found. In a desperate attempt to unlock the whereabouts of the wells, the keepers risk "memory walking"—immersing themselves in the drug-like memories of long deceased Elderlings. The magic of the city and the final secret it conceals present their only chance of survival, not just for the queen dragon Tintaglia but for Malta and Reyn's infant Elderling son as well.
 To make matters worse, time is of the utmost importance. The Duke of Chalced has dispatched his forces to the Rain Wilds with a compelling mission: slaughter a dragon to stave off his own demise. The tide of history is about to turn on a life-and-death battle that will ultimately decide the dragons' fate. If they win, the regal serpents will rule the world once more. And if they lose, they will vanish from the world forever.
-## Fitz and the Fool 
-### (Realm of the 
-Elderlings 14-16)
+### Fitz and the Fool 
 ---- 
 
  ![](Image%208-16-24,%2019-24.jpeg) 
@@ -8675,8 +8267,10 @@ There's a princess trapped in a tower. This isn't her story.
 Meet Toadling. On the day of her birth, she was stolen from her family by the fairies, but she grew up safe and loved in the warm waters of faerieland. Once an adult though, the fae ask a favor of Toadling: return to the human world and offer a blessing of protection to a newborn child. Simple, right?
 But nothing with fairies is ever simple.
 Centuries later, a knight approaches a towering wall of brambles, where the thorns are as thick as your arm and as sharp as swords. He's heard there's a curse here that needs breaking, but it's a curse Toadling will do anything to uphold…
+
 ## The World of 
 the White Rat
+
 ### Clocktaur War
 
  ![](Image%208-16-24,%2019-07.jpeg) 
@@ -9007,17 +8601,17 @@ In this fourth novel in the Earthsea series, we rejoin the young priestess the T
 [Tales from Earthsea]
 
 ---- 
-### The Finder
+[The Finder]
 ---- 
-### The Bones of the Earth
+[The Bones of the Earth]
 ---- 
-### Darkrose and Diamond
+[Darkrose and Diamond]
 ---- 
-### On the High Marsh
+[On the High Marsh]
 ---- 
-### Dragonfly
+[Dragonfly]
 ---- 
-### maps and history
+[maps and history]
 ---- 
 
  ![](Image%208-18-24,%2015-40-4.jpeg) 
@@ -9552,24 +9146,6 @@ There is magic. It's not enough.
 ---- 
 ---- 
 
- ![](Image%208-20-24,%2021-04-2.webp) 
- --- ------------------------------------ --- 
- 
- 
- 
-[In the Realms of 
-Gold (5 stories)]
-
----- 
----- 
-Scheherezade: On the thousand and first night of Scheherezade the Storyteller's marriage, things do not go at all as she had hoped—nor do they end as she had expected.
-Rook: The Prince of the Fairies is just out looking for mischief. That's not what he finds.
-Not Far From the Tree: The world is full of unexpected stories. For Nora, hers is intricately tied with the old apple tree next to the village green. They say Eve fell to the temptation of an apple, but for Nora and her brother Charles, the apple just might be a vehicle for grace.
-Blue Moon Over Pincher Creek: Tyler's an ordinary high school student in Pincher Creek, Alberta. On the last weekend before school starts, the night of a blue moon in August, he finds something strange in the back acres behind the wind farm past his father's ranch.
-Inkebarrow: William Shakespeare takes a wrong turn going beyond the fields he knows—and in the Black Bull of Inkebarrow, he finds a turn from history to magic.
----- 
----- 
-
  ![](Image%208-20-24,%2021-06.webp) 
  --- ---------------------------------- --- 
  
@@ -9583,6 +9159,38 @@ Inkebarrow: William Shakespeare takes a wrong turn going beyond the fields he kn
 ---- 
 ---- 
 
+
+---- 
+---- 
+ ![](Image%208-20-24,%2021-04-2.webp)
+
+[In the Realms of Gold: Scheherezade]
+On the thousand and first night of Scheherezade the Storyteller's marriage, things do not go at all as she had hoped—nor do they end as she had expected.
+ --- ------------------------------------ --- 
+ ![](Image%208-20-24,%2021-04-2.webp)
+
+[In the Realms of Gold: Rook]
+The prince of the fairies is just out looking for mischief. That's not what he finds.
+
+ ![](Image%208-20-24,%2021-04-2.webp) 
+
+[In the Realms of Gold: Inkebarrow]
+
+William Shakespeare takes a wrong turn going beyond the fields he knows—and in the Black Bull of Inkebarrow, he finds a turn from history to magic.
+
+ ![](Image%208-20-24,%2021-04-2.webp) 
+[In the Realms of Gold: Not Far From the Tree] 
+The world is full of unexpected stories. For Nora, hers is intricately tied with the old apple tree next to the village green. They say Eve fell to the temptation of an apple, but for Nora and her brother Charles, the apple just might be a vehicle for grace.
+
+ ![](Image%208-20-24,%2021-04-2.webp)
+
+[In the Realms of Gold: Blue Moon Over Pincher Creek]
+Tyler's an ordinary high school student in Pincher Creek, Alberta. On the last weekend before school starts, the night of a blue moon in August, he finds something strange in the back acres behind the wind farm past his father's ranch.
+
+
+---- 
+---- 
+
  
  --- --- --- 
  
@@ -9590,10 +9198,10 @@ Inkebarrow: William Shakespeare takes a wrong turn going beyond the fields he kn
  
 [The Storyteller]
 
-Not yet published.
+
 ---- 
 ---- 
-### Terec of Lund
+[Terec of Lund]
 ---- 
 ---- 
 

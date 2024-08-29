@@ -1,34 +1,34 @@
 # Ada Palmer
 ## Terra Ignota
 
-|     | ![](1_too_like_the_lightning.jpg) |     |
-| --- | --------------------------------- | --- |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
+ ![](1_too_like_the_lightning.jpg) 
+ --- --------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Too Like the Lightning]
 
 ---- 
@@ -37,72 +37,72 @@ The world into which Mycroft and Carlyle have been born is a hard-won utopia bui
 And in this world, Mycroft and Carlyle have stumbled on the wild card that may destablize the system: the boy Bridger, who can effortlessly make his wishes come true. Who can, it would seem, bring inanimate objects to life.
 ---- 
 
-|     | ![](2_seven_surrenders.jpg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](2_seven_surrenders.jpg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Seven Surrenders]
 
 ---- 
 In a future of near-instantaneous global travel, of abundant provision for the needs of all, a future in which no one living can remember an actual war, a long era of stability threatens to come to an abrupt end.
-The leaders of the great Hives, nations without fixed locations, have long conspired to keep the world stable, holding the balance of power at the cost of just a little blood--mathematically planned, secret murders.  Yet the balance is beginning to give way.
+The leaders of the great Hives, nations without fixed locations, have long conspired to keep the world stable, holding the balance of power at the cost of just a little blood--mathematically planned, secret murders. Yet the balance is beginning to give way.
 Mycroft Canner knows more about this conspiracy the than he can ever admit. Carlyle Foster is burdened by secrets as well. And both hold the greatest secret of all: Bridger.
 ---- 
 
-|     | ![](3_the_will_to_battle.jpeg) |     |
-| --- | ------------------------------ | --- |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
+ ![](3_the_will_to_battle.jpeg) 
+ --- ------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Will to Battle]
 
 ---- 
@@ -110,35 +110,35 @@ The Hives’ façade of solidity is the only hope they have for maintaining a wo
 Just days earlier, the world was a near utopia. Now everyone—Hives and hiveless, Utopians and sensayers, emperors and the downtrodden, warriors and saints—scrambles to prepare for the seemingly inevitable war.
 ---- 
 
-|     | ![](4_perhaps_the_stars.jpeg) |     |
-| --- | ----------------------------- | --- |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
+ ![](4_perhaps_the_stars.jpeg) 
+ --- ----------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Perhaps the Stars]
 
 ---- 
@@ -146,34 +146,34 @@ World Peace turns into global civil war. All transportation systems are in ruins
 
 # Adrian Tchaikovsky
 
-|     | ![](cage_of_souls.jpg) |     |
-| --- | ---------------------- | --- |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
+ ![](cage_of_souls.jpg) 
+ --- ---------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Cage of Souls]
 
 ---- 
@@ -183,28 +183,28 @@ Bearing witness to the desperate struggle for existence between life old and new
 The question is, which one of them will inherit this Earth?
 ---- 
 
-|     | ![](doors_of_eden.jpg) |     |
-| --- | ---------------------- | --- |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
+ ![](doors_of_eden.jpg) 
+ --- ---------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Doors of Eden]
 
 ---- 
@@ -215,28 +215,28 @@ Julian Sabreur is investigating an attack on top physicist Kay Amal Khan. This l
 Dr Khan's research was theoretical; then she found cracks between our world and parallel Earths. Now these cracks are widening, revealing extraordinary creatures. And as the doors crash open, anything could come through.
 ---- 
 
-|     | ![](elder_race.jpg) |     |
-| --- | ------------------- | --- |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
+ ![](elder_race.jpg) 
+ --- ------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Elder Race]
 
 ---- 
@@ -245,28 +245,28 @@ But a demon is terrorizing the land, and now she’s an adult (albeit barely) wi
 But Elder Nyr isn’t a sorcerer, and he is forbidden to help, and his knowledge of science tells him the threat cannot possibly be a demon…
 ---- 
 
-|     | ![](service_model.jpeg) |     |
-| --- | ----------------------- | --- |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
+ ![](service_model.jpeg) 
+ --- ----------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Service Model]
 
 ---- 
@@ -276,28 +276,28 @@ Fleeing the household they enter a wider world they never knew existed, where th
 Sometimes all it takes is a nudge to overcome the limits of your programming.
 ---- 
 
-|     | ![](alien_clay.jpeg) |     |
-| --- | -------------------- | --- |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
+ ![](alien_clay.jpeg) 
+ --- -------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [ Alien Clay]
 
 ---- 
@@ -305,28 +305,28 @@ The planet of Kiln is where the tyrannical Mandate keeps its prison colony, and 
 In the midst of a ravenous, chaotic ecosystem are the ruins of a civilization, but who were the vanished builders and where did they go? If he can survive both the harsh rule of the camp commandant and the alien horrors of the world around him, then Arton has a chance at making a discovery that might just transform not only Kiln, but distant Earth as well.
 ---- 
 
-|     | ![](someday_this_will_all_be_yours.jpeg) |     |
-| --- | ---------------------------------------- | --- |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-[Someday This   
+ ![](someday_this_will_all_be_yours.jpeg) 
+ --- ---------------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Someday This 
 Will All Be Yours]
 
 ---- 
@@ -337,25 +337,25 @@ Then I came here, to the end of it all, and gave myself a mission: to never let 
 ---- 
 ## Expert System’s Brother
 
-|     | ![](expert_systems_brother.jpg) |     |
-| --- | ------------------------------- | --- |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
+ ![](expert_systems_brother.jpg) 
+ --- ------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Expert System's Brother]
 
 ---- 
@@ -363,57 +363,57 @@ After an unfortunate accident, Handry is forced to wander a world he doesn’t u
 Can an unlikely savior provide the answers to the questions he barely comprehends?
 ---- 
 
-|     | ![](JPEG%20image.jpeg) |     |
-| --- | ---------------------- | --- |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
+ ![](JPEG%20image.jpeg) 
+ --- ---------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Expert System's Champion]
 
 ---- 
 It's been ten years since Handry was wrenched away from his family and friends, forced to wander a world he no longer understood. But with the help of the Ancients, he has cobbled together a life, of sorts, for himself and his fellow outcasts.
 Wandering from village to village, welcoming the folk that the townships abandon, fighting the monsters the villagers cannot—or dare not—his ever-growing band of misfits has become the stuff of legend, a story told by parents to keep unruly children in line.
 But there is something new and dangerous in the world, and the beasts of the land are acting against their nature, destroying the towns they once left in peace.
-And for the first time in memory, the Ancients have no  wisdom to offer...
+And for the first time in memory, the Ancients have no wisdom to offer...
 ---- 
 ## Final Architecture
 
-|     | ![](1_shards_of_earth.jpg) |     |
-| --- | -------------------------- | --- |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
+ ![](1_shards_of_earth.jpg) 
+ --- -------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Shards of Earth]
 
 ---- 
@@ -421,28 +421,28 @@ The war is over. Its heroes forgotten. Until one chance discovery . . . Idris h
 Now, fifty years later, Idris and his crew have discovered something strange abandoned in space. It's clearly the work of the Architects—but are they returning? And if so, why? Hunted by gangsters, cults and governments, Idris and his crew race across the galaxy hunting for answers. For they now possess something of incalculable value, that many would kill to obtain.
 ---- 
 
-|     | ![](2_eyes_of_the_void.jpeg) |     |
-| --- | ---------------------------- | --- |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
+ ![](2_eyes_of_the_void.jpeg) 
+ --- ---------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Eyes of the Void]
 
 ---- 
@@ -452,28 +452,28 @@ Idris, who has spent decades running from the horrors of his past, finds himself
 What Idris discovers there will change everything.
 ---- 
 
-|     | ![](3_lords_of_uncreation.jpeg) |     |
-| --- | ------------------------------- | --- |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
+ ![](3_lords_of_uncreation.jpeg) 
+ --- ------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Lords of Uncreation]
 
 ---- 
@@ -483,26 +483,26 @@ Deep within unspace, where time moves differently, and reality isn’t quite wha
 ---- 
 ## Children of Time
 
-|     | ![](children_of_time.jpeg) |     |
-| --- | -------------------------- | --- |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
+ ![](children_of_time.jpeg) 
+ --- -------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Children of Time]
 
 ---- 
@@ -512,28 +512,28 @@ But all is not right in this new Eden. In the long years since the planet was ab
 Now two civilizations are on a collision course, both testing the boundaries of what they will do to survive. As the fate of humanity hangs in the balance, who are the true heirs of this new Earth?
 ---- 
 
-|     | ![](children_of_ruin.jpeg) |     |
-| --- | -------------------------- | --- |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
+ ![](children_of_ruin.jpeg) 
+ --- -------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Children of Ruin]
 
 ---- 
@@ -542,28 +542,28 @@ Aeons later, humanity and its new spider allies detected fragmentary radio signa
 But those ancient terraformers woke something on Nod better left undisturbed.
 ---- 
 
-|     | ![](children_of_memory.jpeg) |     |
-| --- | ---------------------------- | --- |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
+ ![](children_of_memory.jpeg) 
+ --- ---------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Children of Memory]
 
 ---- 
@@ -574,26 +574,26 @@ Children of Memory by Arthur C. Clarke Award-winning author Adrian Tchaikovsky i
 
 ## Tyrant Philosophers
 
-|     | ![](1_city_of_last_chances.JPEG) |     |
-| --- | -------------------------------- | --- |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
+ ![](1_city_of_last_chances.JPEG) 
+ --- -------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [City of Last Chances]
 
 ---- 
@@ -606,28 +606,28 @@ City of Bad Decisions.
 City of Last Chances.
 ---- 
 
-|     | ![](2_house_of_open_wounds.JPEG) |     |
-| --- | -------------------------------- | --- |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
+ ![](2_house_of_open_wounds.JPEG) 
+ --- -------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [House of Open Wounds]
 
 ---- 
@@ -638,28 +638,28 @@ Entrusted – for now – with saving lives deemed otherwise un-saveable, the fi
 Beset by enemies within and without, the last thing anyone needs is a miracle.
 ---- 
 
-|     | ![](3_days_of_shattered_faith.jpeg) |     |
-| --- | ----------------------------------- | --- |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
-|     |                                     |     |
+ ![](3_days_of_shattered_faith.jpeg) 
+ --- ----------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Days of Shattered Faith]
 
 ---- 
@@ -674,26 +674,26 @@ Just as well they are both very, very good with a blade.
 # Alex White
 ## The Salvagers
 
-|     | ![](big_ship_at_the_edge_of_the_universe.jpg) |     |
-| --- | --------------------------------------------- | --- |
-|     |                                               |     |
-|     |                                               |     |
-|     |                                               |     |
-|     |                                               |     |
-|     |                                               |     |
-|     |                                               |     |
-|     |                                               |     |
-|     |                                               |     |
-|     |                                               |     |
-|     |                                               |     |
-|     |                                               |     |
-|     |                                               |     |
-|     |                                               |     |
-|     |                                               |     |
-|     |                                               |     |
-|     |                                               |     |
-|     |                                               |     |
-[A Big Ship at the   
+ ![](big_ship_at_the_edge_of_the_universe.jpg) 
+ --- --------------------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[A Big Ship at the 
 Edge of the Universe]
 
 ---- 
@@ -701,28 +701,28 @@ A washed-up treasure hunter, a hotshot racer, and a deadly secret society.
 They're all on a race against time to hunt down the greatest warship ever built. Some think the ship is lost forever, some think it's been destroyed, and some think it's only a legend, but one thing's for certain: whoever finds it will hold the fate of the universe in their hands. And treasure that valuable can never stay hidden for long. . .
 ---- 
 
-|     | ![](2_bad_deal_for_the_whole_galaxy.jpg) |     |
-| --- | ---------------------------------------- | --- |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-[A Bad Deal for   
+ ![](2_bad_deal_for_the_whole_galaxy.jpg) 
+ --- ---------------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[A Bad Deal for 
 the Whole Galaxy]
 
 ---- 
@@ -730,28 +730,28 @@ The crew of the legendary Capricious are rich enough to retire in comfort for th
 Nilah and Boots, the ship's newest crew-members hear the word of a mysterious cult that may have links back to an ancient and all-powerful magic. To find it, hot-headed Nilah will have to go undercover and find the source of their power without revealing her true identity. Meanwhile, Boots is forced to confront the one person she'd hoped never to see again: her old, turn-coat treasure-hunting partner.
 ---- 
 
-|     | ![](1_worst_of_all_possible_worlds.jpeg) |     |
-| --- | ---------------------------------------- | --- |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-|     |                                          |     |
-[The Worst of All   
+ ![](1_worst_of_all_possible_worlds.jpeg) 
+ --- ---------------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[The Worst of All 
 Possible Worlds]
 
 ---- 
@@ -760,28 +760,28 @@ The crew of the Capricious seems to leave a trail of devastation wherever they g
 
 # Amor Towles
 
-|     | ![](you_have_arrived_at_your_destination.jpeg) |     |
-| --- | ---------------------------------------------- | --- |
-|     |                                                |     |
-|     |                                                |     |
-|     |                                                |     |
-|     |                                                |     |
-|     |                                                |     |
-|     |                                                |     |
-|     |                                                |     |
-|     |                                                |     |
-|     |                                                |     |
-|     |                                                |     |
-|     |                                                |     |
-|     |                                                |     |
-|     |                                                |     |
-|     |                                                |     |
-|     |                                                |     |
-|     |                                                |     |
-|     |                                                |     |
-|     |                                                |     |
-|     |                                                |     |
-[You Have Arrived   
+ ![](you_have_arrived_at_your_destination.jpeg) 
+ --- ---------------------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[You Have Arrived 
 at Your Destination]
 
 ---- 
@@ -792,53 +792,53 @@ When Sam’s wife first tells him about Vitek, a twenty-first-century fertility 
 # Andrew Freeman
 ## Welcome to Wis' Apothecary
 
-|     | ![](1_welcome_to_wis_apotecary.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](1_welcome_to_wis_apotecary.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Volume 1]
 
 ---- 
 Magic exists to help people, or at least that’s what young Isabel believes. As a witch’s apprentice helping her renowned teacher run an apothecary, there’s no shortage of people in need—from vampires to princesses to Hybrids. And though her desire to do good often lands her in trouble, can Isabel learn enough through her misadventures to not just grow as a witch, but as a person? 
 ---- 
 
-|     | ![](2_welcome_to_wis_apocecary_vol_2.jpeg) |     |
-| --- | ------------------------------------------ | --- |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
+ ![](2_welcome_to_wis_apocecary_vol_2.jpeg) 
+ --- ------------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Volume 2]
 
 ---- 
@@ -846,28 +846,28 @@ After finally earning her coveted Arcanus, Isabel is ready to take her witchcraf
 
 # Andy Wier
 
-|     | ![](JPEG%20image-1.jpeg) |     |
-| --- | ------------------------ | --- |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
+ ![](JPEG%20image-1.jpeg) 
+ --- ------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Artemis]
 
 ---- 
@@ -878,28 +878,28 @@ Engineering the perfect crime is just the start of Jazz’s problems. Because he
 Trapped between competing forces, pursued by a killer and the law alike, even Jazz has to admit she’s in way over her head. She’ll have to hatch a truly spectacular scheme to have a chance at staying alive and saving her city.
 ---- 
 
-| e   | ![](JPEG%20image%203.jpeg) |     |
-| --- | -------------------------- | --- |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
+ e ![](JPEG%20image%203.jpeg) 
+ --- -------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Hail Mary]
 
 ---- 
@@ -911,28 +911,28 @@ And with the clock ticking down and the nearest human being light-years away, he
 Or does he?
 ---- 
 
-|     | ![](JPEG%20image%202.jpeg) |     |
-| --- | -------------------------- | --- |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
+ ![](JPEG%20image%202.jpeg) 
+ --- -------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Martian]
 
 ---- 
@@ -943,28 +943,28 @@ Chances are, though, he won’t have time to starve to death. The damaged machin
 But Mark isn’t ready to give up yet. Drawing on his ingenuity, his engineering skills—and a relentless, dogged refusal to quit—he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him?
 ---- 
 
-|     | ![](randomize.jpeg) |     |
-| --- | ------------------- | --- |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
+ ![](randomize.jpeg) 
+ --- ------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Randomize]
 
 ---- 
@@ -974,26 +974,26 @@ An IT whiz at the Babylon Casino is enlisted to upgrade security for the game of
 # Angie Thomas
 ## The Hate You Give
 
-|     | ![](Image%208-17-24,%2014-58.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2014-58.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Concrete Rose (prequel)]
 
 ---- 
@@ -1004,28 +1004,28 @@ Suddenly he has a baby, Seven, who depends on him for everything. But it’s not
 When King Lord blood runs through your veins, though, you can't just walk away. Loyalty, revenge, and responsibility threaten to tear Mav apart, especially after the brutal murder of a loved one. He’ll have to figure out for himself what it really means to be a man.
 ---- 
 
-|     | ![](Image%208-17-24,%2011-38.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-38.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Hate You Give]
 
 ---- 
@@ -1035,28 +1035,28 @@ But what Starr does—or does not—say could upend her community. It could also
 
 # Ann Leckie
 
-|     | ![](Image%208-17-24,%2011-35.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-35.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Provenance]
 
 ---- 
@@ -1064,28 +1064,28 @@ Though she knows her brother holds her mother's favor, Ingrid is determined to a
 But Ingray and her charge return to her home to find their planet in political turmoil, at the heart of an escalating interstellar conflict. Together, they must make a new plan to salvage Ingray's future and her world, before they are lost to her for good.
 ---- 
 
-|     | ![](Raven_Tower.jpg) |     |
-| --- | -------------------- | --- |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
+ ![](Raven_Tower.jpg) 
+ --- -------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Raven Tower]
 
 ---- 
@@ -1095,26 +1095,26 @@ But the Raven's tower holds a secret. Its foundations conceal a dark history tha
 ---- 
 ## Imperial Reich
 
-|     | ![](Image%208-17-24,%2011-33.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-33.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Ancillary Justice]
 
 ---- 
@@ -1123,28 +1123,28 @@ Once, she was the Justice of Toren -- a colossal starship with an artificial int
 Now, an act of treachery has ripped it all away, leaving her with one fragile human body, unanswered questions, and a burning desire for vengeance.
 ---- 
 
-|     | ![](Image%208-17-24,%2011-33-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2011-33-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Ancillary Sword]
 
 ---- 
@@ -1152,28 +1152,28 @@ Breq is a soldier who used to be a warship. Once a weapon of conquest controllin
 With a new ship and a troublesome crew, Breq is ordered to go to the only place in the galaxy she would agree to go: to Athoek Station to protect the family of a lieutenant she once knew -- a lieutenant she murdered in cold blood.
 ---- 
 
-|     | ![](Image%208-17-24,%2011-33-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2011-33-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Ancillary Mercy]
 
 ---- 
@@ -1182,57 +1182,57 @@ Breq refuses to flee with her ship and crew, because that would leave the people
 ---- 
 ## Translation State (aside)
 
-|     | ![](Image%208-17-24,%2011-37.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-37.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Translation State (extra)]
 
 ---- 
 Qven was created to be a Presger translator. The pride of their Clade, they always had a clear path before them: learn human ways, and eventually, make a match and serve as an intermediary between the dangerous alien Presger and the human worlds. The realization that they might want something else isn't "optimal behavior". It's the type of behavior that results in elimination. 
 But Qven rebels. And in doing so, their path collides with those of two others. Enae, a reluctant diplomat whose dead grandmaman has left hir an impossible task as an inheritance: hunting down a fugitive who has been missing for over 200 years. And Reet, an adopted mechanic who is increasingly desperate to learn about his genetic roots—or anything that might explain why he operates so differently from those around him.
-As a Conclave of the various species approaches—and the long-standing treaty between the humans and the Presger is on the line—the decisions of all three will have ripple effects across the stars.  
+As a Conclave of the various species approaches—and the long-standing treaty between the humans and the Presger is on the line—the decisions of all three will have ripple effects across the stars. 
 Masterfully merging space adventure and mystery, and a poignant exploration about relationships and belonging, Translation State is a triumphant new standalone story set in the celebrated Imperial Radch universe.
 
 # Annalee Newitz
 
-|     | ![](Image%208-17-24,%2011-27.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-27.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Autonomous]
 
 ---- 
@@ -1242,28 +1242,28 @@ Hot on her trail, an unlikely pair: Eliasz, a brooding military agent, and his r
 And underlying it all is one fundamental question: Is freedom possible in a culture where everything, even people, can be owned?
 ---- 
 
-|     | ![](Image%208-17-24,%2015-08.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2015-08.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Terraformers]
 
 ---- 
@@ -1273,28 +1273,28 @@ As she uncovers more about their past, Destry begins to question the mission she
 
 # Arkady Martine
 
-|     | ![](Image%208-17-24,%2011-24.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-24.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Rose/House]
 
 ---- 
@@ -1307,26 +1307,26 @@ For someone may be there still.
 ---- 
 ## Texicalaan
 
-|     | ![](memory_called_empire.jpg) |     |
-| --- | ----------------------------- | --- |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
+ ![](memory_called_empire.jpg) 
+ --- ----------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [A Memory Called Empire]
 
 ---- 
@@ -1334,28 +1334,28 @@ Ambassador Mahit Dzmare arrives in the center of the multi-system Teixcalaanli E
 Now, Mahit must discover who is behind the murder, rescue herself, and save her Station from Teixcalaan's unceasing expansion—all while navigating an alien culture that is all too seductive, engaging in intrigues of her own, and hiding a deadly technological secret—one that might spell the end of her Station and her way of life—or rescue it from annihilation.
 ---- 
 
-|     | ![](Image%208-17-24,%2011-25.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-25.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [A Desolation Called Peace]
 
 ---- 
@@ -1366,28 +1366,28 @@ Or it might create something far stranger
 
 # Asa Rubin
 
-|     | ![](Image%208-17-24,%2011-23.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[Children of the   
+ ![](Image%208-17-24,%2011-23.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Children of the 
 Origin Project]
 
 ---- 
@@ -1396,28 +1396,28 @@ In his last moments, the giant transfers his knowledge and secrets to them. A wa
 
 # Becky Chambers
 
-|     | ![](Image%208-17-24,%2011-20.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-20.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [To Be Taught if Fortunate]
 
 ---- 
@@ -1426,26 +1426,26 @@ A team of these explorers, Ariadne O’Neill and her three crewmates, are hard a
 ---- 
 ## Monk and Robot
 
-|     | ![](Image%208-17-24,%2011-19.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-19.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [A Psalm for the Wild Built]
 
 ---- 
@@ -1456,28 +1456,28 @@ They're going to need to ask it a lot.
 Becky Chambers's new series asks: in a world where people have what they want, does having more matter?
 ---- 
 
-|     | ![](Image%208-17-24,%2011-19-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[A Prayer for   
+ ![](Image%208-17-24,%2011-19-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[A Prayer for 
 the Crown Shy]
 
 ---- 
@@ -1487,25 +1487,25 @@ Becky Chambers's new series continues to ask: in a world where people have what 
 ---- 
 ## Wayfarer
 
-|     | ![](Image%208-17-24,%2011-22.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-22.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [A Long Way to a Small Angry Planet]
 
 ---- 
@@ -1513,28 +1513,28 @@ Rosemary Harper doesn’t expect much when she joins the crew of the aging Wayfa
 Life aboard the Wayfarer is chaotic and crazy—exactly what Rosemary wants. It’s also about to get extremely dangerous when the crew is offered the job of a lifetime. Tunneling wormholes through space to a distant planet is definitely lucrative and will keep them comfortable for years. But risking her life wasn’t part of the plan. In the far reaches of deep space, the tiny Wayfarer crew will confront a host of unexpected mishaps and thrilling adventures that force them to depend on each other. To survive, Rosemary’s got to learn how to rely on this assortment of oddballs—an experience that teaches her about love and trust, and that having a family isn’t necessarily the worst thing in the universe.
 ---- 
 
-|     | ![](Image%208-17-24,%2011-22-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[A Closed and   
+ ![](Image%208-17-24,%2011-22-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[A Closed and 
 Common Orbit]
 
 ---- 
@@ -1544,28 +1544,28 @@ Together, Pepper and Lovey will discover that no matter how vast space is, two p
 The Long Way to a Small, Angry Planet introduced readers to the incredible world of Rosemary Harper, a young woman with a restless soul and secrets to keep. When she joined the crew of the Wayfarer, an intergalactic ship, she got more than she bargained for—and learned to live with, and love, her rag-tag collection of crewmates.
 ---- 
 
-|     | ![](3_record_of_a_spaceborn_few.jpeg) |     |
-| --- | ------------------------------------- | --- |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
-|     |                                       |     |
+ ![](3_record_of_a_spaceborn_few.jpeg) 
+ --- ------------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Record of a Spaceborn Few]
 
 ---- 
@@ -1574,28 +1574,28 @@ But that was long ago. Today, the Exodus Fleet is a living relic, the birthplace
 A young apprentice, a lifelong spacer with young children, a planet-raised traveler, an alien academic, a caretaker for the dead, and an Archivist whose mission is to ensure no one’s story is forgotten, wrestle with these profound universal questions. The answers may seem small on the galactic scale, but to these individuals, it could mean everything.
 ---- 
 
-|     | ![](Image%208-17-24,%2011-22-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[The Galaxy and   
+ ![](Image%208-17-24,%2011-22-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[The Galaxy and 
 the Ground Within]
 
 ---- 
@@ -1605,28 +1605,28 @@ When a freak technological failure halts all traffic to and from Gora, three str
 
 # Blake Crouch
 
-|     | ![](Image%208-17-24,%2011-18.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-18.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Summer Frost]
 
 ---- 
@@ -1635,28 +1635,28 @@ Maxine was made to do one thing: die. Except the minor non-player character in t
 
 # Brandon Sanderson
 
-|     | ![](Image%208-17-24,%2011-13.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-13.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Elantris]
 
 ---- 
@@ -1664,28 +1664,28 @@ Once upon a time, Elantris, the magical city in the land of Arelon, was a paradi
 The story follows three main characters: Prince Raoden of Arelon, Princess Sarene of Teod, and the priest Hrathen of Fjorden. Raoden is cursed by an ancient transformation known as the Shaod and secretly exiled to the city of Elantris just days before princess Sarene of Teod, arrives for their wedding. As Raoden tries to avoid gangs, keep his sanity, and unite the people of Elantris, Sarene must cope with the loss of her husband-to-be and try to save Arelon from Hrathen, a priest tasked with converting all of Arelon to the religion of Fjorden or dooming it to destruction.
 ---- 
 
-|     | ![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661025414i/10852065.jpg) |     |
-| --- | ------------------------------------------------------------------------------------------------------------------- | --- |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
+ ![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661025414i/10852065.jpg) 
+ --- ------------------------------------------------------------------------------------------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Hope of Elantris (story)]
 
 ---- 
@@ -1693,28 +1693,28 @@ Ashe, Serene's Seon (fairy-ish). Raoden, King of Arelon. Serene, Queen of Arelon
 After Elantris' restoration Raoden sits alone in his palace noting the city's new found wealth. Ashe, Sarene's seon, floats in through an open window to inform Raoden his wife will not be attending their dinner, because she is pregnant and "it's his fault." Raoden settles in to listening to Ashe's testament to his whereabouts during the last hours before Elantris' restoration.
 ---- 
 
-|     | ![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659906200i/13578175.jpg) |     |
-| --- | ------------------------------------------------------------------------------------------------------------------- | --- |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
+ ![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659906200i/13578175.jpg) 
+ --- ------------------------------------------------------------------------------------------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Emperor's Soul]
 
 ---- 
@@ -1722,26 +1722,26 @@ When Shai is caught replacing the Moon Scepter with her nearly flawless forgery,
 ---- 
 ## Stormlight Archive
 
-|     | ![](Image%208-17-24,%2011-14.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-14.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Way of Kings]
 
 ---- 
@@ -1752,28 +1752,28 @@ Brightlord Dalinar Kholin commands one of the armies other armies. Like his brot
 Across the ocean, Shallan asks to train under the powerful and notorious Jasnah. Though she loves learning, Shallan's motives are less than pure. As she plans a daring theft, her research hints at secrets of the Knights Radiant.
 ---- 
 
-|     | ![](Image%208-17-24,%2011-16.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-16.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Words of Radiance]
 
 ---- 
@@ -1783,28 +1783,28 @@ After the death of her mentor Jasnah, bears a terrible burden: to somehow preven
 Meanwhile the Parshendi, hard pressed by years of Alethi attacks, are convinced by their war leader, Eshonai, to risk everything on a desperate gamble. The possible consequences for Parshendi and humans alike, indeed, for Roshar itself, are as dangerous as they are incalculable.
 ---- 
 
-|     | ![](Image%208-17-24,%2011-16-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2011-16-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Oathbringer]
 
 ---- 
@@ -1813,28 +1813,28 @@ Dalinar Kholin’s Alethi armies won a fleeting victory at a terrible cost: The 
 Nestled in the mountains high above the storms, in the tower city of Urithiru, Shallan Davar investigates the wonders of the ancient stronghold of the Knights Radiant and unearths dark secrets lurking in its depths. And Dalinar realizes that his holy mission to unite his homeland of Alethkar was too narrow in scope. Unless all the nations of Roshar can put aside Dalinar’s blood-soaked past and stand together—and unless Dalinar himself can confront that past—even the restoration of the Knights Radiant will not prevent the end of civilization.
 ---- 
 
-|     | ![](Image%208-17-24,%2011-16-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2011-16-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Rhythm of War]
 
 ---- 
@@ -1843,28 +1843,28 @@ Now, as new technological discoveries by Navani Kholin’s scholars begin to cha
 At the same time that Kaladin Stormblessed must come to grips with his changing role within the Knights Radiant, his Windrunners face their own problem: As more and more deadly enemy Fused awaken to wage war, no more honorspren are willing to bond with humans to increase the number of Radiants. Adolin and Shallan must lead the coalition’s envoy to the honorspren stronghold of Lasting Integrity and either convince the spren to join the cause against the evil god Odium, or personally face the storm of failure.
 ---- 
 
-|     | ![](Image%208-17-24,%2011-16-3.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2011-16-3.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Wind and Truth]
 
 ---- 
@@ -1873,56 +1873,56 @@ Desperate fighting continues simultaneously worldwide—Adolin in Azir, Sigzil a
 At the same time, Shallan, Renarin, and Rlain work to unravel the mystery behind the Unmade Ba-Ado-Mishram and her involvement in the enslavement of the singer race and in the ancient Knights Radiant killing their spren. And Dalinar and Navani seek an edge against Odium’s champion that can be found only in the Spiritual Realm, where memory and possibility combine in chaos. The fate of the entire Cosmere hangs in the balance.
 ---- 
 
-|     | ![](Image%208-17-24,%2011-15.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-15.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Dawnshard (story)]
 
 ---- 
 Taking place between Oathbringer and Rhythm of War, this tale (like Edgedancer before it) gives often-overshadowed characters their own chance to shine. When a ghost ship is discovered, its crew presumed dead after trying to reach the storm-shrouded island Akinah, Navani Kholin must send an expedition to make sure the island hasn't fallen into enemy hands. Knights Radiant who fly too near find their Stormlight suddenly drained, so the voyage must be by sea. Shipowner Rysn Ftori lost the use of her legs but gained the companionship of Chiri-Chiri, a Stormlight-ingesting winged larkin, a species once thought extinct. Now Rysn's pet is ill, and any hope for Chiri-Chiri’s recovery can be found only at the ancestral home of the larkin: Akinah. With the help of Lopen, the formerly one-armed Windrunner, Rysn must accept Navani's quest and sail into the perilous storm from which no one has returned alive. If the crew cannot uncover the secrets of the hidden island city before the wrath of its ancient guardians falls upon them, the fate of Roshar and the entire Cosmere hangs in the balance.
 ---- 
 
-|     | ![](Image%208-17-24,%2011-15-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2011-15-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Edgedancer (story)]
 
 ---- 
@@ -1930,58 +1930,58 @@ Three years ago, Lift asked a goddess to stop her from growing older—a wish sh
 
 # Charles Stross
 
-|     | ![](Image%208-17-24,%2015-26.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2015-26.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Glasshouse]
 
 ---- 
-When Robin wakes up in a clinic with most of his memories missing, it doesn’t take him long to discover that someone is trying to kill him. It’s the twenty-seventh century, when interstellar travel is by teleport gate and conflicts are fought by network worms that censor refugees’ personalities—including Robin’s earlier self.             
+When Robin wakes up in a clinic with most of his memories missing, it doesn’t take him long to discover that someone is trying to kill him. It’s the twenty-seventh century, when interstellar travel is by teleport gate and conflicts are fought by network worms that censor refugees’ personalities—including Robin’s earlier self. 
 On the run from a ruthless pursuer and searching for a place to hide, he volunteers to participate in a unique experimental polity: the Glasshouse, a simulated pre-accelerated culture where participants are assigned anonymized identities. But what looks like the perfect sanctuary turns into a trap, placing Robin at the mercy of the experimenters—and at the mercy of his own unbalanced psyche.
 
 # Chimamanda Ngoni Adichie
 
-|     | ![](the_visit.jpeg) |     |
-| --- | ------------------- | --- |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
+ ![](the_visit.jpeg) 
+ --- ------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Visit]
 
 ---- 
@@ -1991,26 +1991,26 @@ One night in Lagos, two former friends reunite. Obinna is a dutiful and unsophis
 # Christopher Paolini
 ## Fractalverse
 
-|     | ![](Image%208-17-24,%2011-11.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[To Sleep in a  
+ ![](Image%208-17-24,%2011-11.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[To Sleep in a 
 Sea of Stars]
 
 ---- 
@@ -2019,28 +2019,28 @@ As war erupts among the stars, Kira is launched into a galaxy-spanning odyssey o
 While Kira faces her own horrors, Earth and its colonies stand upon the brink of annihilation. Now, Kira might be humanity's greatest and final hope.
 ---- 
 
-|     | ![](Image%208-17-24,%2015-30.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2015-30.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Fractal Noise]
 
 ---- 
@@ -2051,112 +2051,112 @@ Each step they take toward the mysterious abyss is more punishing than the last.
 
 # Cixin Liu
 
-|     | ![](Image%208-17-24,%2011-10.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-10.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Ball Lightning]
 
 ---- 
 When Chen’s parents are incinerated before his eyes by a blast of ball lightning, he devotes his life to cracking the secret of this mysterious natural phenomenon. His search takes him to stormy mountaintops, an experimental military weapons lab, and an old Soviet science station.
 The more he learns, the more he comes to realize that ball lightning is just the tip of an entirely new frontier. While Chen’s quest for answers gives purpose to his lonely life, it also pits him against soldiers and scientists with motives of their own: a beautiful army major with an obsession with dangerous weaponry, and a physicist who has no place for ethical considerations in his single-minded pursuit of knowledge.
 ---- 
-## The Three   
+## The Three 
 Body Problem
 
-|     | ![](Image%208-17-24,%2011-11-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2011-11-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Three Body Problem]
 
 ---- 
 Set against the backdrop of China's Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.
 ---- 
 
-|     | ![](Image%208-17-24,%2011-11-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2011-11-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Dark Forest]
 
 ---- 
 In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion-in just four centuries' time. The aliens' human collaborators may have been defeated, but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are totally exposed to the enemy. Only the human mind remains a secret. This is the motivation for the Wallfacer Project, a daring plan that grants four men enormous resources to design secret strategies, hidden through deceit and misdirection from Earth and Trisolaris alike. Three of the Wallfacers are influential statesmen and scientists, but the fourth is a total unknown. Luo Ji, an unambitious Chinese astronomer and sociologist, is baffled by his new status. All he knows is that he's the one Wallfacer that Trisolaris wants dead.
 ---- 
 
-|     | ![](Image%208-17-24,%2011-11-3.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2011-11-3.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Death's End]
 
 ---- 
@@ -2165,28 +2165,28 @@ Cheng Xin, an aerospace engineer from the early twenty-first century, awakens fr
 
 # Corey Doctorow
 
-|     | ![](Image%208-17-24,%2010-50.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2010-50.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Walkaway]
 
 ---- 
@@ -2196,28 +2196,28 @@ After all, now that anyone can design and print the basic necessities of life—
 It’s still a dangerous world out there, the empty lands wrecked by climate change, dead cities hollowed out by industrial flight, shadows hiding predators animal and human alike. Still, when the initial pioneer walkaways flourish, more people join them. Then the walkaways discover the one thing the ultra-rich have never been able to buy: how to beat death. Now it’s war – a war that will turn the world upside down.
 ---- 
 
-|     | ![](Image%208-17-24,%2011-00.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[Down and Out in  
+ ![](Image%208-17-24,%2011-00.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Down and Out in 
 the Magic Kingdom]
 
 ---- 
@@ -2227,28 +2227,28 @@ Now, though, it seems the "ad hocs" are under attack. A new group has taken over
 Worse: it appears this new group has had Jules killed. This upsets him. (It's only his fourth death and revival, after all.) Now it's war: war for the soul of the Magic Kingdom, a war of ever-shifting reputations, technical wizardry, and entirely unpredictable outcomes. 
 ---- 
 
-|     | ![](Image%208-17-24,%2011-06.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-06.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Internet Con]
 
 ---- 
@@ -2258,28 +2258,28 @@ We can - we must - dismantle the tech platforms. In The Internet Con, Cory Docto
 Interoperability is the only route to the rapid and enduring annihilation of the platforms. The Internet Con is the disassembly manual we need to take back our internet.
 ---- 
 
-|     | ![](Image%208-17-24,%2011-02.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-02.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Lost Cause]
 
 ---- 
@@ -2289,28 +2289,28 @@ But there are still those Americans, mostly elderly, who cling to their red base
 What do we do about people who cling to the belief that their own children are the enemy? When, in fact, they're often the elders that we love?
 ---- 
 
-|     | ![](Image%208-17-24,%2015-38.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2015-38.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Attack Surface]
 
 ---- 
@@ -2322,26 +2322,26 @@ And whatever choice she makes, someone is going to get hurt.
 ---- 
 ## Little Brother
 
-|     | ![](Image%208-17-24,%2011-06-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2011-06-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Little Brother]
 
 ---- 
@@ -2350,28 +2350,28 @@ But his whole world changes when he and his friends find themselves caught in th
 When the DHS finally releases them, Marcus discovers that his city has become a police state where every citizen is treated like a potential terrorist. He knows that no one will believe his story, which leaves him only one option: to take down the DHS himself.
 ---- 
 
-|     | ![](Image%208-17-24,%2015-37.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2015-37.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Homeland]
 
 ---- 
@@ -2381,9 +2381,9 @@ Meanwhile, people are beginning to shadow him, people who look like they're used
 ---- 
 ## Radicalized 
 
-|     | ![](Image%208-17-24,%2011-03.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
+ ![](Image%208-17-24,%2011-03.jpeg) 
+ --- ---------------------------------- --- 
+ 
 [(Four stories)]
 
 ---- 
@@ -2401,28 +2401,28 @@ A wealthy financier builds and manages a doomsday vault, designed to withstand s
 
 # C T Rwizi
 
-|     | ![](Image%208-17-24,%2013-06.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2013-06.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [These Alien Skies]
 
 ---- 
@@ -2432,26 +2432,26 @@ Copilots Msizi and Tariro are testing a newly constructed wormhole jump that pre
 # Dan Simmons
 ## Hyperion Cantos
 
-|     | ![](1_hyperion.jpeg) |     |
-| --- | -------------------- | --- |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
+ ![](1_hyperion.jpeg) 
+ --- -------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Hyperion]
 
 ---- 
@@ -2459,85 +2459,85 @@ On the world called Hyperion, beyond the reach of galactic law, waits a creature
 On the eve of Armageddon, with the entire galaxy at war, seven pilgrims set forth on a final voyage to Hyperion seeking the answers to the unsolved riddles of their lives. Each carries a desperate hope—and a terrible secret. And one may hold the fate of humanity in his hands.
 ---- 
 
-|     | ![](2_fall_of_hyperion.jpeg) |     |
-| --- | ---------------------------- | --- |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
+ ![](2_fall_of_hyperion.jpeg) 
+ --- ---------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Fall of Hyperion]
 
 ---- 
 Now, in the stunning continuation of the epic adventure begun in Hyperion, Simmons returns us to a far future resplendent with drama and invention. On the world of Hyperion, the mysterious Time Tombs are opening. And the secrets they contain mean that nothing—nothing anywhere in the universe—will ever be the same.
 ---- 
 
-|     | ![](4_rise_of_endymion.jpeg) |     |
-| --- | ---------------------------- | --- |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
+ ![](4_rise_of_endymion.jpeg) 
+ --- ---------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Rise of Endymion]
 
 ---- 
-Dan Simmons's Hyperion was an immediate sensation on its first publication in 1989.  This staggering multifaceted tale of the far future heralded the conquest of the science fiction field by a man who had already won the World Fantasy Award for his first novel (Song of Kali) and had also published one of the most well-received horror novels in the field, Carrion Comfort.  Hyperion went on to win the Hugo Award as Best Novel, and it and its companion volume, The Fall of Hyperion, took their rightful places in the science fiction pantheon of new classics.
-Now, six years later, Simmons returns to this richly imagined world of technological achievement, excitement, wonder and fear.  Endymion is a story about love and memory, triumph and terror--an instant candidate for the field's highest honors.
+Dan Simmons's Hyperion was an immediate sensation on its first publication in 1989. This staggering multifaceted tale of the far future heralded the conquest of the science fiction field by a man who had already won the World Fantasy Award for his first novel (Song of Kali) and had also published one of the most well-received horror novels in the field, Carrion Comfort. Hyperion went on to win the Hugo Award as Best Novel, and it and its companion volume, The Fall of Hyperion, took their rightful places in the science fiction pantheon of new classics.
+Now, six years later, Simmons returns to this richly imagined world of technological achievement, excitement, wonder and fear. Endymion is a story about love and memory, triumph and terror--an instant candidate for the field's highest honors.
 ---- 
 
-|     | ![](5_endymion.jpeg) |     |
-| --- | -------------------- | --- |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
+ ![](5_endymion.jpeg) 
+ --- -------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Endymion]
 
 ---- 
@@ -2548,26 +2548,26 @@ But first they must embark on a final spectacular mission to discover the underl
 # Derek Kunsken
 ## Quantum Evolution
 
-|     | ![](51sn60r1bTL.SX150.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](51sn60r1bTL.SX150.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Quantum Magician]
 
 ---- 
@@ -2576,28 +2576,28 @@ But the jobs are getting too easy and his extraordinary brain is chafing at the 
 If he succeeds, he could trigger an interstellar war… or the next step in human evolution.
 ---- 
 
-|     | ![](Image%208-17-24,%2015-57.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2015-57.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Quantum Garden]
 
 ---- 
@@ -2606,28 +2606,28 @@ Days ago, Belisarius pulled off the most audacious con job in history. He’s ri
 If he can avoid detection, dodge paradox and stay ahead of the eerie, relentless Scarecrow, he might just get back to his own time alive.
 ---- 
 
-|     | ![](Image%208-17-24,%2015-57-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2015-57-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Quantum War]
 
 ---- 
@@ -2636,9 +2636,9 @@ At the same time, the Puppets come to the Union with offers of an alliance for a
 Only one person might be able to break through the Congregate defenses at Venus, and he’s a con man.
 ---- 
 
-|     | ![](JPEG%20image-2.jpeg) |     |
-| --- | ------------------------ | --- |
-|     |                          |     |
+ ![](JPEG%20image-2.jpeg) 
+ --- ------------------------ --- 
+ 
 [Flight from the Ages (stories)]
 
 ---- 
@@ -2657,140 +2657,140 @@ Major Chenesai Okonkwo is an Auditor for the Sub-Saharan Union. Her mission: to 
 
 # Douglas Adams
 
-|     | ![](Image%208-17-24,%2016-23.png) |     |
-| --- | --------------------------------- | --- |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-[Hitchhiker's Guide   
+ ![](Image%208-17-24,%2016-23.png) 
+ --- --------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Hitchhiker's Guide 
 to the Galaxy]
 
 ---- 
 Seconds before the Earth is demolished for a galactic freeway, Arthur Dent is saved by Ford Prefect, a researcher for the revised Guide. Together they stick out their thumbs to the stars and begin a wild journey through time and space.
 ---- 
 
-|     | ![](Image%208-17-24,%2016-20.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[The Restaurant at the  
+ ![](Image%208-17-24,%2016-20.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[The Restaurant at the 
 End of the Universe]
 
 ---- 
 The moment before annihilation at the hands of warmongers is a curious time to crave tea. It could only happen to the cosmically displaced Arthur Dent and his comrades as they hurtle across the galaxy in a desperate search for a place to eat.
 ---- 
 
-|     | ![](Image%208-17-24,%2016-20-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[Life, the Universe  
+ ![](Image%208-17-24,%2016-20-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Life, the Universe 
 and Everything]
 
 ---- 
 The unhappy inhabitants of planet Krikkit are sick of looking at the night sky– so they plan to destroy it. The universe, that is. Now only five individuals can avert Armageddon: mild-mannered Arthur Dent and his stalwart crew.
 ---- 
 
-|     | ![](Image%208-17-24,%2016-20-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[So Long, and Thanks  
+ ![](Image%208-17-24,%2016-20-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[So Long, and Thanks 
 for All the Fish]
 
 ---- 
 Back on Earth, Arthur Dent is ready to believe that the past eight years were all just a figment of his stressed-out imagination. But a gift-wrapped fishbowl with a cryptic inscription thrusts him back to reality. So to speak.
 ---- 
 
-|     | ![](Image%208-17-24,%2016-20-3.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2016-20-3.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Mostly Harmless]
 
 ---- 
@@ -2798,28 +2798,28 @@ Just when Arthur Dent makes the terrible mistake of starting to enjoy life, all 
 
 # Ell Leigh Clark
 
-|     | ![](Image%208-17-24,%2016-24.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2016-24.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Awakened]
 
 ---- 
@@ -2833,28 +2833,28 @@ Mortifyingly embarrassing.
 What could possibly go wrong?
 ---- 
 
-|     | ![](Image%208-17-24,%2016-24-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2016-24-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Activated]
 
 ---- 
@@ -2865,28 +2865,28 @@ Meanwhile, problems continue on the political scene, and exciting progress is ma
 Set on the foundation laid by the Kurtherian Gambit Series, The Ascension Myth tells an entirely new story in the Age of Expansion--when the Etheric Empire is fast becoming the Etheric Federation with all of the trials and tribulations that come with bringing together different peoples, systems, and ideals.
 ---- 
 
-|     | ![](Image%208-17-24,%2016-24-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2016-24-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Called]
 
 ---- 
@@ -2897,28 +2897,28 @@ Sean Royale also seems to have a few more surprises up his sleeve, and Maya John
 Set on the foundation laid by the Kurtherian Gambit Series, The Ascension Myth tells an entirely new story in the Age of Expansion--when the Etheric Empire is fast becoming the Etheric Federation with all of the trials and tribulations that come with bringing together different peoples, systems, and ideals.
 ---- 
 
-|     | ![](Image%208-17-24,%2016-24-3.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2016-24-3.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Sanctioned]
 
 ---- 
@@ -2929,60 +2929,60 @@ But with the ultimate take down planned for the bad guys of Planet Estaria, you 
 But at what cost?
 ---- 
 
-|     | ![](Image%208-17-24,%2016-25.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2016-25.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Rebirth]
 
 ---- 
 Molly is back from the dead. And now even more capable. But the transformation is not without more serious issues.
 Problems that not even ADAM can help with.
-Feeling cursed, she undergoes a Vision Quest.  The rest of the team prepare for the General's clandestine assignment back at the base.  
+Feeling cursed, she undergoes a Vision Quest. The rest of the team prepare for the General's clandestine assignment back at the base. 
 But with the fate of the Federation hanging in the balance, a question arises.
 Can Molly handle this next mission?
 ---- 
 
-|     | ![](Image%208-17-24,%2016-25-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2016-25-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Retribution]
 
 ---- 
@@ -2993,28 +2993,28 @@ Meanwhile, back on Sark, Molly’s team helps Chaakwa along with her unconventio
 Can Molly handle everything thrown at her?
 ---- 
 
-|     | ![](Image%208-17-24,%2016-25-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2016-25-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [cloaked]
 
 ---- 
@@ -3025,28 +3025,28 @@ But who knew that politics ran institutions of learning?
 Join our team as they go undercover, cloaked, to help save ... a world.
 ---- 
 
-|     | ![](Image%208-17-24,%2016-25-3.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2016-25-3.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Bourne]
 
 ---- 
@@ -3060,28 +3060,28 @@ She is going to meet her parents.
 What could possibly go wrong?
 ---- 
 
-|     | ![](Image%208-17-24,%2016-27.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2016-27.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Committed]
 
 ---- 
@@ -3094,28 +3094,28 @@ There is no doubt: trouble is brewing in the Sark System.
 And it’s bigger than any of them could imagine.
 ---- 
 
-|     | ![](Image%208-17-24,%2016-27-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2016-27-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Subversion]
 
 ---- 
@@ -3125,28 +3125,28 @@ At some point, Molly grew up and it takes a Grimes to show her, and her team, ho
 And Molly to help re-direct a Grimes towards the right path in life.
 ---- 
 
-|     | ![](Image%208-17-24,%2016-26.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2016-26.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Invasion]
 
 ---- 
@@ -3156,28 +3156,28 @@ It’s from the planet itself.
 Molly rallies the troops for a particularly dangerous encounter, but also needs to call in some favors from some old friends.
 ---- 
 
-|     | ![](Image%208-17-24,%2016-26-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2016-26-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Ascention]
 
 ---- 
@@ -3188,28 +3188,28 @@ Join Molly and the Sanguine Squadron for their last adventure as they race to sa
 
 # E M Anderson
 
-|     | ![](the_remarkable_retirement_of_edna_fisher.jpeg) |     |
-| --- | -------------------------------------------------- | --- |
-|     |                                                    |     |
-|     |                                                    |     |
-|     |                                                    |     |
-|     |                                                    |     |
-|     |                                                    |     |
-|     |                                                    |     |
-|     |                                                    |     |
-|     |                                                    |     |
-|     |                                                    |     |
-|     |                                                    |     |
-|     |                                                    |     |
-|     |                                                    |     |
-|     |                                                    |     |
-|     |                                                    |     |
-|     |                                                    |     |
-|     |                                                    |     |
-|     |                                                    |     |
-|     |                                                    |     |
-|     |                                                    |     |
-[The Remarkable   
+ ![](the_remarkable_retirement_of_edna_fisher.jpeg) 
+ --- -------------------------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[The Remarkable 
 Retirement of Edna Fisher]
 
 ---- 
@@ -3218,28 +3218,28 @@ When you’re a geriatric armed with nothing but gumption and knitting needles, 
 Still, Edna leaps at the chance to leave the nursing home. With her son long dead in the Knights’ service, she’s determined to save dragon-fighters like him and to ensure other mothers don’t suffer the same loss she did. But as Edna learns about the abuse in the ranks and the sorcerer’s history as a Knight, she questions if it’s really the sorcerer that needs stopping—or the Knights she’s trying to save.
 ---- 
 
-|     | ![](the_keeper_of_lonely_spirits.jpeg) |     |
-| --- | -------------------------------------- | --- |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
-|     |                                        |     |
+ ![](the_keeper_of_lonely_spirits.jpeg) 
+ --- -------------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Keeper of Lonely Spirits]
 
 ---- 
@@ -3252,13 +3252,13 @@ As Harrington buckles under the weight of the supernatural, the ghost hunt pits 
 
 # Greg Egan
 
-|     | ![](51-U33vVkjL.SX150.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
+ ![](51-U33vVkjL.SX150.jpeg) 
+ --- --------------------------- --- 
+ 
 [Instantiation (11 stories)]
 
 ---- 
-### The Discrete Charm   
+### The Discrete Charm 
 of the Turing Machine
 ---- 
 ### Zero For Conduct
@@ -3282,28 +3282,28 @@ of the Turing Machine
 ### Instantiation
 ---- 
 
-|     | ![](Image%208-17-24,%2013-00.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2013-00.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Incandescence]
 
 ---- 
@@ -3312,28 +3312,28 @@ Roi is a member of that lost race, which is not only lost to the Amalgam, but lo
 Rakesh's journey will take him across millennia and light years. Roi's will take her across vistas of learning and discovery just as vast.
 ---- 
 
-|     | ![](Image%208-17-24,%2012-59.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2012-59.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Quarantine ]
 
 ---- 
@@ -3342,28 +3342,28 @@ In 2067, Nick Stavrianos is hired to investigate the disappearance of a mentally
 
 # Haruki Murakami
 
-|     | ![](Image%208-17-24,%2016-48.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2016-48.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [1Q84]
 
 ---- 
@@ -3376,26 +3376,26 @@ As Aomame's and Tengo's narratives converge over the course of this single year,
 # Hugh Howey
 ## Silo
 
-|     | ![](61lrCdT5rGL.SX150.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](61lrCdT5rGL.SX150.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Wool]
 
 ---- 
@@ -3404,28 +3404,28 @@ But there are always those who hope, who dream. These are the dangerous people, 
 After the previous sheriff leaves the silo in a terrifying ritual, Juliette, a mechanic from the down deep, is suddenly and inexplicably promoted to the head of law enforcement. With newfound power and with little regard for the customs she is supposed to abide, Juliette uncovers hints of a sinister conspiracy. Tugging this thread may uncover the truth . . . or it could kill every last human alive.
 ---- 
 
-|     | ![](Image%208-17-24,%2012-54.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2012-54.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Shift]
 
 ---- 
@@ -3435,28 +3435,28 @@ In the same year, the CBS network re-aired a program about the effects of propra
 At almost the same moment in humanity’s broad history, mankind discovered the means for bringing about its utter downfall, and the ability to forget it ever happened. With this godlike power at their fingertips, can humanity be trusted to create a new—and better—world? Or is it doomed to bring about its own destruction?
 ---- 
 
-|     | ![](Image%208-17-24,%2012-54-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2012-54-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Dust]
 
 ---- 
@@ -3466,26 +3466,26 @@ In Dust, the final book in the New York Times best-selling Silo trilogy, the cho
 ---- 
 ## Bern Saga
 
-|     | ![](Image%208-17-24,%2012-45.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[Molly Fyde and the  
+ ![](Image%208-17-24,%2012-45.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Molly Fyde and the 
 Parsona Rescue]
 
 ---- 
@@ -3495,28 +3495,28 @@ Molly can't believe it. She's now the proud owner of her own starship. Her Sprin
 Little does Molly know, they are about to get much, much worse . 
 ---- 
 
-|     | ![](Image%208-17-24,%2012-44.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[Molly Fyde and the  
+ ![](Image%208-17-24,%2012-44.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Molly Fyde and the 
 Land of Light]
 
 ---- 
@@ -3527,56 +3527,56 @@ Before she can begin, however, Molly must first help a friend in need. One of he
 Planet Drenard. The next stop for the starship Parsona.
 ---- 
 
-|     | ![](Image%208-17-24,%2017-17.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[Molly  Fyde and the  
+ ![](Image%208-17-24,%2017-17.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Molly Fyde and the 
 Blood of Billions]
 
 ---- 
 Picking up where Molly Fyde and the Land of Light left off, the third book in the Bern Saga finds Molly and her crew separated and the entire galaxy in jeopardy. Whether or not it can be saved will depend on their determination to reunite. And a quest for fuel on Molly's homeworld uncovers a sinister conspiracy involving thousands of murders. It's the same case her parents got sidetracked on so many years ago. Will Molly have better luck in solving it?
 ---- 
 
-|     | ![](Image%208-17-24,%2017-18.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[Molly Fyde and the  
+ ![](Image%208-17-24,%2017-18.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Molly Fyde and the 
 Fight for Peace]
 
 ---- 
@@ -3585,26 +3585,26 @@ In the conclusion to the Bern Saga, Molly and her friends are reunited while two
 # Iain Banks
 ## The Culture
 
-|     | ![](1_consider_phlebas.jpeg) |     |
-| --- | ---------------------------- | --- |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
+ ![](1_consider_phlebas.jpeg) 
+ --- ---------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Consider Phlebas]
 
 ---- 
@@ -3613,28 +3613,28 @@ The war raged across the galaxy. Billions had died, billions more were doomed. M
 Within the cosmic conflict, an individual crusade. Deep within a fabled labyrinth on a barren world, a Planet of the Dead proscribed to mortals, lay a fugitive Mind. Both the Culture and the Idirans sought it. It was the fate of Horza, the Changer, and his motley crew of unpredictable mercenaries, human and machine, actually to find it, and with it their own destruction.
 ---- 
 
-|     | ![](2_player_of_games.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](2_player_of_games.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Player of Games]
 
 ---- 
@@ -3642,28 +3642,28 @@ The Culture — a human/machine symbiotic society — has thrown up many great G
 Bored with success, Gurgeh travels to the Empire of Azad, cruel and incredibly wealthy, to try their fabulous game. . . a game so complex, so like life itself, that the winner becomes emperor. Mocked, blackmailed, almost murdered, Gurgeh accepts the game, and with it the challenge of his life — and very possibly his death.
 ---- 
 
-|     | ![](3_use_of_weapons.jpeg) |     |
-| --- | -------------------------- | --- |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
+ ![](3_use_of_weapons.jpeg) 
+ --- -------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Use of Weapons]
 
 ---- 
@@ -3672,28 +3672,28 @@ The woman known as Diziet Sma had plucked him from obscurity and pushed him towa
 The drone known as Skaffen-Amtiskaw knew both of these people. It had once saved the woman's life by massacring her attackers in a particularly bloody manner. It believed the man to be a lost cause. But not even its machine could see the horrors in his past.
 ---- 
 
-|     | ![](4_excession.jpeg) |     |
-| --- | --------------------- | --- |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
+ ![](4_excession.jpeg) 
+ --- --------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Excession]
 
 ---- 
@@ -3703,28 +3703,28 @@ Now it is back.
 Diplomat Genar-Hofoen of Special Circumstances is sent to investigate but, sidetracked by an old flame and the spoiled-brat operative Ulver Seich, and faced with the systematic depravities of a race who call themselves the A­ffront, it's anyone's guess whether he'll succeed.
 ---- 
 
-|     | ![](5_inversions.jpeg) |     |
-| --- | ---------------------- | --- |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
+ ![](5_inversions.jpeg) 
+ --- ---------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Inversions]
 
 ---- 
@@ -3733,28 +3733,28 @@ In another palace, far across the mountains, sits the regicidal Protector Genera
 And beneath the surface of these feudal courts - behind the spies, murders, politics and intrigues - lies an entirely di­fferent kind of threat, an entity that nobody would ever suspect.
 ---- 
 
-|     | ![](6_look_to_windward.jpeg) |     |
-| --- | ---------------------------- | --- |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
+ ![](6_look_to_windward.jpeg) 
+ --- ---------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Look to Windward]
 
 ---- 
@@ -3764,28 +3764,28 @@ Also journeying to Masaq’ is Major Quilan, an emissary from the war-ravaged wo
 Ziller claims he will do anything to avoid a meeting with Major Quilan, who he suspects has come to murder him. But the Major’s true assignment will have far greater consequences than the death of a mere political dissident, as part of a conspiracy more ambitious than even he can know—a mission his superiors have buried so deeply in his mind that even he cannot remember it.
 ---- 
 
-|     | ![](7_matter.jpeg) |     |
-| --- | ------------------ | --- |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
+ ![](7_matter.jpeg) 
+ --- ------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Matter]
 
 ---- 
@@ -3794,28 +3794,28 @@ Only the sister is not what she once was; Djan Seriy Anaplian has changed almost
 Concealing her new identity — and her particular set of abilities — might be a dangerous strategy, however. In the world to which Anaplian returns, nothing is quite as it seems; and determining the appropriate level of interference in someone else's war is never a simple matter.
 ---- 
 
-|     | ![](8_surface_detail.jpeg) |     |
-| --- | -------------------------- | --- |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
+ ![](8_surface_detail.jpeg) 
+ --- -------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Surface Detail]
 
 ---- 
@@ -3827,28 +3827,28 @@ Benevolent, enlightened and almost infinitely resourceful though it may be, the 
 It started in the realm of the Real and that is where it will end. It will touch countless lives and affect entire civilizations, but at the center of it all is a young woman whose need for revenge masks another motive altogether.
 ---- 
 
-|     | ![](9_hydrogen_sonata.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](9_hydrogen_sonata.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Hydrogen Sonata]
 
 ---- 
@@ -3858,28 +3858,28 @@ Amid preparations though, the Regimental High Command is destroyed. Lieutenant C
 It seems that the final days of the Gzilt civilization are likely to prove its most perilous.
 ---- 
 
-|     | ![](Image%208-17-24,%2017-46.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2017-46.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The State of the Art]
 
 ---- 
@@ -3888,26 +3888,26 @@ Viewing Earth and Homo sapiens through the eyes of the Culture, a galactic group
 # Ian Sainsbury
 ## Halfhero
 
-|     | ![](children__of_the_deterrent.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](children__of_the_deterrent.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Children of the Deterrent]
 
 ---- 
@@ -3919,28 +3919,28 @@ Can a halfhero be a better superhero than his father, or is Daniel making a terr
 When the wrong people know what you’re capable of, no matter how powerful you are, you're still in danger…
 ---- 
 
-|     | ![](halfheroes.jpeg) |     |
-| --- | -------------------- | --- |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
+ ![](halfheroes.jpeg) 
+ --- -------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Halfheroes]
 
 ---- 
@@ -3953,28 +3953,28 @@ Meanwhile, Daniel’s staging a breakout from the most secure prison ever built,
 It’s time for Daniel to find out if he’s a halfhero, or a real hero.
 ---- 
 
-|     | ![](the_last_of_the_first.jpeg) |     |
-| --- | ------------------------------- | --- |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
-|     |                                 |     |
+ ![](the_last_of_the_first.jpeg) 
+ --- ------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Last of the First]
 
 ---- 
@@ -3986,26 +3986,26 @@ Daniel Harbin hopes to get through this alive and track down the children he nev
 # James S A Corey
 ## The Expanse
 
-|     | ![](51+EaerSnvL-1.SX150.jpeg) |     |
-| --- | ----------------------------- | --- |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
+ ![](51+EaerSnvL-1.SX150.jpeg) 
+ --- ----------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Leviathan Wakes]
 
 ---- 
@@ -4015,28 +4015,28 @@ Detective Miller is looking for a girl. One girl in a system of billions, but he
 Holden and Miller must thread the needle between the Earth government, the Outer Planet revolutionaries, and secretive corporations—and the odds are against them. But out in the Belt, the rules are different, and one small ship can change the fate of the universe.
 ---- 
 
-|     | ![](2_calibans_war.jpeg) |     |
-| --- | ------------------------ | --- |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
+ ![](2_calibans_war.jpeg) 
+ --- ------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Caliban's War]
 
 ---- 
@@ -4045,28 +4045,28 @@ On Ganymede, breadbasket of the outer planets, a Martian marine watches as her p
 In the vast wilderness of space, James Holden and the crew of the Rocinante have been keeping the peace for the Outer Planets Alliance. When they agree to help a scientist search war-torn Ganymede for a missing child, the future of humanity rests on whether a single ship can prevent an alien invasion that may have already begun . . .
 ---- 
 
-|     | ![](51+LJcgsOGL.SX150.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](51+LJcgsOGL.SX150.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Abaddon's Gate]
 
 ---- 
@@ -4074,28 +4074,28 @@ For generations, the solar system -- Mars, the Moon, the Asteroid Belt -- was hu
 Jim Holden and the crew of the Rocinante are part of a vast flotilla of scientific and military ships going out to examine the artifact. But behind the scenes, a complex plot is unfolding, with the destruction of Holden at its core. As the emissaries of the human race try to find whether the gate is an opportunity or a threat, the greatest danger is the one they brought with them.
 ---- 
 
-|     | ![](51s0xwQ3O4L.SX150.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](51s0xwQ3O4L.SX150.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Cibola Burn]
 
 ---- 
@@ -4105,28 +4105,28 @@ James Holden and the crew of his one small ship are sent to make peace in the mi
 And the whispers of a dead man remind him that the great galactic civilization that once stood on this land is gone. And that something killed it.
 ---- 
 
-|     | ![](51dyxGCz64L.SX150.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](51dyxGCz64L.SX150.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Nemesis Games]
 
 ---- 
@@ -4135,28 +4135,28 @@ Ships are disappearing without a trace. Private armies are being secretly formed
 And as a new human order is struggling to be born in blood and fire, James Holden and the crew of the Rocinante must struggle to survive and get back to the only home they have left.
 ---- 
 
-|     | ![](6_babylons_ashes.jpeg) |     |
-| --- | -------------------------- | --- |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
+ ![](6_babylons_ashes.jpeg) 
+ --- -------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Babylon's Ashes]
 
 ---- 
@@ -4166,28 +4166,28 @@ James Holden and his crew know the strengths and weaknesses of this new force be
 But the new alliances are as flawed as the old, and the struggle for power has only just begun.
 ---- 
 
-|     | ![](7_persepolis_rising.jpeg) |     |
-| --- | ----------------------------- | --- |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
-|     |                               |     |
+ ![](7_persepolis_rising.jpeg) 
+ --- ----------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Persepolis Rising]
 
 ---- 
@@ -4197,28 +4197,28 @@ In the vast space between Earth and Jupiter, the inner planets and belt have for
 New technologies clash with old as the history of human conflict returns to its ancient patterns of war and subjugation. But human nature is not the only enemy, and the forces being unleashed have their own price. A price that will change the shape of humanity -- and of the Rocinante -- unexpectedly and forever. . .
 ---- 
 
-|     | ![](8_tiamats_wrath.jpeg) |     |
-| --- | ------------------------- | --- |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
+ ![](8_tiamats_wrath.jpeg) 
+ --- ------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Tiamat's Wrath]
 
 ---- 
@@ -4228,28 +4228,28 @@ At the heart of the empire, Teresa Duarte prepares to take on the burden of her 
 And throughout the wide human empire, the scattered crew of the Rocinante fights a brave rear-guard action against Duarte's authoritarian regime. Memory of the old order falls away, and a future under Laconia's eternal rule -- and with it, a battle that humanity can only lose -- seems more and more certain. Because against the terrors that lie between worlds, courage and ambition will not be enough. . .
 ---- 
 
-|     | ![](9_leviathan_falls.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](9_leviathan_falls.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Leviathan Falls]
 
 ---- 
@@ -4259,28 +4259,28 @@ As nearly unimaginable forces prepare to annihilate all human life, Holden and a
 But the price of victory may be worse than the cost of defeat.
 ---- 
 
-|     | ![](the_churn.jpeg) |     |
-| --- | ------------------- | --- |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
-|     |                     |     |
+ ![](the_churn.jpeg) 
+ --- ------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Churn]
 
 ---- 
@@ -4290,26 +4290,26 @@ On a future Earth beset by overpopulation, pollution, and poverty, people do wha
 # Jeff Vandermeer
 ## Southern Reach
 
-|     | ![](1_annhilation.jpeg) |     |
-| --- | ----------------------- | --- |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
-|     |                         |     |
+ ![](1_annhilation.jpeg) 
+ --- ----------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Annihilation]
 
 ---- 
@@ -4318,28 +4318,28 @@ The group is made up of four women: an anthropologist; a surveyor; a psychologis
 They arrive expecting the unexpected, and Area X delivers—they discover a massive topographic anomaly and life forms that surpass understanding—but it's the surprises that came across the border with them and the secrets the expedition members are keeping from one another that change everything.
 ---- 
 
-|     | ![](2_authority.jpeg) |     |
-| --- | --------------------- | --- |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
+ ![](2_authority.jpeg) 
+ --- --------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Authority]
 
 ---- 
@@ -4348,28 +4348,28 @@ John Rodrigues (aka "Control") is the Southern Reach's newly appointed head. Wor
 In Authority, the second volume of Jeff VanderMeer's Southern Reach trilogy, Area X's most disturbing questions are answered . . . but the answers are far from reassuring.
 ---- 
 
-|     | ![](3_acceptance.jpeg) |     |
-| --- | ---------------------- | --- |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
+ ![](3_acceptance.jpeg) 
+ --- ---------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Acceptance]
 
 ---- 
@@ -4378,34 +4378,34 @@ Meanwhile, Acceptance tunnels ever deeper into the circumstances surrounding the
 In this last installment of Jeff VanderMeer's Southern Reach trilogy, the mysteries of Area X may be solved, but their consequences and implications are no less profound--or terrifying.
 ---- 
 
-|     | ![](Image%208-17-24,%2018-06.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     | Not yet published.                 |     |
+ ![](Image%208-17-24,%2018-06.jpeg) 
+ --- ---------------------------------- --- 
+ Not yet published. 
 [Absolution]
 
 # Jen Williams
 ## Winnowing Flame
 
-|     | ![](the_ninth_rain.jpeg) |     |
-| --- | ------------------------ | --- |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
+ ![](the_ninth_rain.jpeg) 
+ --- ------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Ninth Rain]
 
 ---- 
@@ -4414,28 +4414,28 @@ When eccentric explorer, Lady Vincenza 'Vintage' de Grazon, offers him employmen
 But not everyone is willing to let the Eboran empire collapse, and the adventurers are quickly drawn into a tangled conspiracy of magic and war. For the Jure'lia are coming, and the Ninth Rain must fall...
 ---- 
 
-|     | ![](bitter-twins.jpeg) |     |
-| --- | ---------------------- | --- |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
+ ![](bitter-twins.jpeg) 
+ --- ---------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Bitter Twins]
 
 ---- 
@@ -4445,28 +4445,28 @@ The key to uniting them, according to the scholar Vintage, may lie in a part of 
 But finding it will mean a perilous journey in a time of war
 ---- 
 
-|     | ![](poison_song.jpeg) |     |
-| --- | --------------------- | --- |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
+ ![](poison_song.jpeg) 
+ --- --------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Poison Song]
 
 ---- 
@@ -4478,25 +4478,25 @@ Noon is no stranger to playing with fire and knows just where to recruit a new -
 # Jenny Schwartz
 ## Adventures of a Xeno-Archaeologist
 
-|     | ![](Image%208-17-24,%2018-09.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2018-09.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Astray]
 
 ---- 
@@ -4508,28 +4508,28 @@ The only problem is that Nora’s secrets might destroy the precarious stability
 Astray is a fast-paced, enthralling space opera of lost societies, ancient aliens, rugged warriors and semi-legal pirates perfect for fans of Lois McMaster Bujold, Becky Chambers, and Lindsay Buroker.
 ---- 
 
-|     | ![](Image%208-17-24,%2018-10.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2018-10.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Doubt]
 
 ---- 
@@ -4539,28 +4539,28 @@ The Human Sector is a stash of fuel cells just waiting for a spark to explode. T
 It's been half a millennium since the Stranding. Is the power of the royals still worth supporting, or is it time to risk everything for the chance to rejoin the rest of humanity?
 ---- 
 
-|     | ![](Image%208-17-24,%2018-10-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2018-10-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Rebel]
 
 ---- 
@@ -4569,28 +4569,28 @@ Nora is adjusting to her new role as a player in the games of the powerful. She'
 Independent action is a necessity for the sole Royal Capitoline Navy captain patrolling the border region. But Liam will have to defend his actions later in front of the Admiralty board. How can he best serve his realm? By a rigid definition of duty and defense of the status quo, or is there a greater cause, one worth his career and his very life?
 ---- 
 
-|     | ![](Image%208-17-24,%2018-10-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2018-10-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Cajole]
 
 ---- 
@@ -4598,28 +4598,28 @@ If life on the border was complicated, life on Capitoline is insane. Nora and Li
 Political intrigue, family drama, and ancient alien technology combine in the fourth novel of the Human Sector.
 ---- 
 
-|     | ![](Image%208-17-24,%2018-10-3.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2018-10-3.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Resolve]
 
 ---- 
@@ -4628,26 +4628,26 @@ Resolve is the triumphant conclusion to Nora and Liam’s story, begun in Astray
 ---- 
 ## Uncertain Sanctuary
 
-|     | ![](1_the_house_that_walked_between_worlds.jpeg) |     |
-| --- | ------------------------------------------------ | --- |
-|     |                                                  |     |
-|     |                                                  |     |
-|     |                                                  |     |
-|     |                                                  |     |
-|     |                                                  |     |
-|     |                                                  |     |
-|     |                                                  |     |
-|     |                                                  |     |
-|     |                                                  |     |
-|     |                                                  |     |
-|     |                                                  |     |
-|     |                                                  |     |
-|     |                                                  |     |
-|     |                                                  |     |
-|     |                                                  |     |
-|     |                                                  |     |
-|     |                                                  |     |
-[The House that Walked  
+ ![](1_the_house_that_walked_between_worlds.jpeg) 
+ --- ------------------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[The House that Walked 
 Between Worlds]
 
 ---- 
@@ -4657,28 +4657,28 @@ As Kira roams the paths of Reality, strangers are drawn to her House. Some seek 
 With the fate of multiple worlds hanging in the balance, Kira must discover what it means to be a sorcerer and the keeper of a House.
 ---- 
 
-|     | ![](2_house_in_hiding.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](2_house_in_hiding.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [House in Hiding]
 
 ---- 
@@ -4687,28 +4687,28 @@ Just when Kira thinks she is getting a handle on what it means to be a sorcerer,
 But when one of those problems involves saving children’s lives, how can Kira refuse to help?
 ---- 
 
-|     | ![](3_the_house-that_fought.jpeg) |     |
-| --- | --------------------------------- | --- |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
+ ![](3_the_house-that_fought.jpeg) 
+ --- --------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The House that Fought]
 
 ---- 
@@ -4718,27 +4718,27 @@ And Kira has a plan. Maybe. If her magic would just behave.
 
 # Jo Walton
 
-|     | ![](Image%208-17-24,%2018-18.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2018-18.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Among Others]
 
 ---- 
@@ -4748,54 +4748,54 @@ Fleeing to her father whom she barely knew, Mori was sent to boarding school in 
 # Joe Abercrombie
 ## Shattered Sea
 
-|     | ![](JPEG%20image-3.jpeg) |     |
-| --- | ------------------------ | --- |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
+ ![](JPEG%20image-3.jpeg) 
+ --- ------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Half a King]
 
 ---- 
 Yarvi succeeds to the throne of Gettland when his father and elder brother are killed. But Yarvi is a reluctant king. Because of a deformed hand, he has always felt an inadequate son to his father and now an inadequate king. He is engaged to his cousin, but his uncle is not interested in having a weakling for a son-in-law nor “half a king” for the country. The uncle’s coup topples Yarvi from the throne, but Yarvi escapes with his life. Yarvi’s escape leads, however, only to enslavement by people from neighboring Vansterland. Out from this situation emerges a long and arduous quest as Yarvi swears to avenge his father’s and brother’s deaths and dislodge his uncle from the throne. In the process, Yarvi attains a new maturity, the most important component of which is a newfound confidence. Defeat of his uncle does not mean that Yarvi steps up and occupies the throne again. Instead, he wisely effects an alternative scenario. The world building here is complete and convincing, and the characters are arresting in their all-too-human nature.
 ---- 
 
-|     | ![](JPEG%20image%202-1.jpeg) |     |
-| --- | ---------------------------- | --- |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
-|     |                              |     |
+ ![](JPEG%20image%202-1.jpeg) 
+ --- ---------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Half the World]
 
 ---- 
@@ -4804,28 +4804,28 @@ Fate places her life in the hands of the deep-cunning Father Yarvi as he sets ou
 But warriors can be weapons, and weapons are made for one purpose. Will Thorn always be a tool in the hands of the powerful, or can she carve her own path? Is there a place outside of legend for a woman with a blade?
 ---- 
 
-|     | ![](Image%208-17-24,%2018-28.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2018-28.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Half a War]
 
 ---- 
@@ -4839,26 +4839,26 @@ Some – like Thorn Bathu and the sword-bearer Raith – are born to fight, perh
 # John Scalzi
 ## Old Man’s War
 
-|     | ![](1_old_mans_war.jpeg) |     |
-| --- | ------------------------ | --- |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
+ ![](1_old_mans_war.jpeg) 
+ --- ------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Old Man's War]
 
 ---- 
@@ -4868,54 +4868,54 @@ Earth itself is a backwater. The bulk of humanity's resources are in the hands o
 John Perry is taking that deal. He has only the vaguest idea what to expect. Because the actual fight, light-years from home, is far, far harder than he can imagine--and what he will become is far stranger.
 ---- 
 
-|     | ![](Image%208-17-24,%2018-33.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[Questions for a Soldier   
+ ![](Image%208-17-24,%2018-33.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Questions for a Soldier 
 (story)]
 
 ---- 
 John Perry does a "goodwill" tour of the colonies after the Battle of Coral. On one of the stops on that tour, John Perry talks with colonists, some of whom are happy to see him and some of whom are not. The story takes place in the back and forth between Perry and the colonists, and in the events and answers that get revealed in the questions.
 ---- 
 
-|     | ![](2_the_ghost_brigades.jpeg) |     |
-| --- | ------------------------------ | --- |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
+ ![](2_the_ghost_brigades.jpeg) 
+ --- ------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Ghost Brigades]
 
 ---- 
@@ -4925,56 +4925,56 @@ Jared Dirac is the only human who can provide answers -- a superhuman hybrid, cr
 At first, Jared is a perfect soldier, but as Boutin’s memories slowly surface, Jared begins to intuit the reason’s for Boutin’s betrayal. As Jared desperately hunts for his "father," he must also come to grips with his own choices. Time is running out: The alliance is preparing its offensive, and some of them plan worse things than humanity’s mere military defeat…
 ---- 
 
-|     | ![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388321306i/61664.jpg) |     |
-| --- | ---------------------------------------------------------------------------------------------------------------- | --- |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
-|     |                                                                                                                  |     |
+ ![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388321306i/61664.jpg) 
+ --- ---------------------------------------------------------------------------------------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Sagan Diary]
 
 ---- 
 From the point of view of Lieutenant Jane Sagan, who in a series of diary entries gives her views on some of the events included in the series and sheds new light into some previously unexplored corners. If you thought you knew Jane Sagan before, prepare to be surprised.
 ---- 
 
-|     | ![](3_the_last_colony.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](3_the_last_colony.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Last Colony]
 
 ---- 
@@ -4982,28 +4982,28 @@ Retired from his fighting days, John Perry is now village ombudsman for a human 
 That is, until his and Jane's past reaches out to bring them back into the game--as leaders of a new human colony, to be peopled by settlers from all the major human worlds, for a deep political purpose that will put Perry and Sagan back in the thick of interstellar politics, betrayal, and war.
 ---- 
 
-|     | ![](4_zoes_tale.jpeg) |     |
-| --- | --------------------- | --- |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
-|     |                       |     |
+ ![](4_zoes_tale.jpeg) 
+ --- --------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Zoe's Tale]
 
 ---- 
@@ -5013,56 +5013,56 @@ Everyone on Earth knows the tale I am part of. But you don't know my tale: How I
 It's a story you know. But you don't know it all.
 ---- 
 
-|     | ![](Image%208-17-24,%2018-40.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2018-40.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [After the Coup]
 
 ---- 
 In a universe of harsh interstellar conflict, the practice of interspecies diplomacy—when possible—is important. So being a Colonial Union officer attached to an interplanetary diplomatic mission sometimes means taking a fall. Literally.
 ---- 
 
-|     | ![](5_the_human_division.jpeg) |     |
-| --- | ------------------------------ | --- |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
+ ![](5_the_human_division.jpeg) 
+ --- ------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Human Division]
 
 ---- 
@@ -5072,55 +5072,55 @@ Colonial Union. And they've invited the people of Earth to join them. For a shak
 Against such possibilities, managing the survival of the Colonial Union won't be easy, either. It will take diplomatic finesse, political cunning…and a brilliant "B Team," centered on the resourceful Lieutenant Harry Wilson, that can be deployed to deal with the unpredictable and unexpected things the universe throws at you when you're struggling to preserve the unity of the human race.
 ---- 
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-[Hafte Sorbalh Eats  
-a Churro and Speaks  
-to the Youth of Today  
+ 
+ --- --- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Hafte Sorbalh Eats 
+a Churro and Speaks 
+to the Youth of Today 
 (Human Division Extras)]
 
 ---- 
 ---- 
 
-|     | ![](6_the_end_of_all_things.jpeg) |     |
-| --- | --------------------------------- | --- |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
+ ![](6_the_end_of_all_things.jpeg) 
+ --- --------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The End of All Things]
 
 ---- 
@@ -5130,26 +5130,26 @@ In this collapsing universe, CDF Lieutenant Harry Wilson and the Colonial Union 
 ---- 
 ## The Interdependency
 
-|     | ![](Image%208-17-24,%2019-18.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2019-18.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Origin of the Flow]
 
 ---- 
@@ -5157,28 +5157,28 @@ In this collapsing universe, CDF Lieutenant Harry Wilson and the Colonial Union 
 Where did it come from? How did people discover it?
 ---- 
 
-|     | ![](51l9jVAk1uL.SX150.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](51l9jVAk1uL.SX150.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Collapsing Empire]
 
 ---- 
@@ -5188,28 +5188,28 @@ Humanity flows away from Earth, into space, and in time forgets our home world a
 The Flow is eternal -- but it is not static. Just as a river changes course, The Flow changes as well, cutting off worlds from the rest of humanity. When it’s discovered that The Flow is moving, possibly cutting off all human worlds from faster than light travel forever, three individuals -- a scientist, a starship captain and the Empress of the Interdependency -- are in a race against time to discover what, if anything, can be salvaged from an interstellar empire on the brink of collapse.
 ---- 
 
-|     | ![](2_consuming_fire.jpeg) |     |
-| --- | -------------------------- | --- |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
+ ![](2_consuming_fire.jpeg) 
+ --- -------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Consuming Fire]
 
 ---- 
@@ -5220,28 +5220,28 @@ While Grayland prepares for disaster, others are preparing for a civil war. A wa
 The Emperox and her allies are smart and resourceful, as are her enemies. Nothing about this will be easy... and all of humanity will be caught in its consuming fire.
 ---- 
 
-|     | ![](3_last_emperor.jpeg) |     |
-| --- | ------------------------ | --- |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
+ ![](3_last_emperor.jpeg) 
+ --- ------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Last Emperor]
 
 ---- 
@@ -5253,26 +5253,26 @@ Will Grayland become the savior of her civilization… or the last emperox to we
 
 ## The Divide
 
-|     | ![](last_watch.jpeg) |     |
-| --- | -------------------- | --- |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
+ ![](last_watch.jpeg) 
+ --- -------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Last Watch]
 
 ---- 
@@ -5284,28 +5284,28 @@ At the Divide, Adequin Rake commands the Argus. She has no resources, no comms�
 She knows they’re humanity's last chance.
 ---- 
 
-|     | ![](exiled_fleet.jpeg) |     |
-| --- | ---------------------- | --- |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
+ ![](exiled_fleet.jpeg) 
+ --- ---------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Exiled Fleet]
 
 ---- 
@@ -5315,28 +5315,28 @@ Adequin Rake has gathered a team to find the materials they'll need to get every
 To do that they're going to need new allies and evade a ruthless enemy. Some of them will not survive.
 ---- 
 
-|     | ![](relentless-legion.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](relentless-legion.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Relentless Legion]
 
 ---- 
@@ -5347,82 +5347,82 @@ It may not be enough.
 # Kate Forsyth
 ## Witches of Eileanan
 
-|     | ![](Image%208-17-24,%2019-22.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2019-22.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Witches of Eileanan]
 
 ---- 
 In the Celtic land of Eileanan, witches and magic have been outlawed, and those caught for practicing witchcraft are put to death! It is a land ruled by an evil Queen, where sea-dwelling Fairgean stir, and children vanish in the night. But in a valley deep in the mountains, young Isabeau grows to womanhood under the guidance of an elderly witch, and must set out on a quest, carrying the last hopes of the persecuted witches.
 ---- 
 
-|     | ![](Image%208-17-24,%2019-23.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2019-23.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Pool of Two Moons]
 
 ---- 
-It has been 16 years since the Day of Reckoning, when magic and witchcraft were outlawed throughout all of Eileanan. And though rumors say that she is dead, the Arch-Sorceress Meghan of the Beasts still lives. Traveling with her are the true heir to the throne and the red-haired warrior Iseult. Their fates are woven together in a quest to bring magic back to the land.   As Eileanan nears its darkest hour, Meghan must gather rebel forces to move upon the city of Lucescere. There, the Rìgh lies near death, and his Queen, Maya the Ensorcellor, and her babe stand to inherit his power. To end Maya’s brutal reign and bring magic out of the shadows, what was broken must be brought twin sisters who have never met, three parts of an enchanted key, and the winged man with the powers of the lost Lodestar.
+It has been 16 years since the Day of Reckoning, when magic and witchcraft were outlawed throughout all of Eileanan. And though rumors say that she is dead, the Arch-Sorceress Meghan of the Beasts still lives. Traveling with her are the true heir to the throne and the red-haired warrior Iseult. Their fates are woven together in a quest to bring magic back to the land. As Eileanan nears its darkest hour, Meghan must gather rebel forces to move upon the city of Lucescere. There, the Rìgh lies near death, and his Queen, Maya the Ensorcellor, and her babe stand to inherit his power. To end Maya’s brutal reign and bring magic out of the shadows, what was broken must be brought twin sisters who have never met, three parts of an enchanted key, and the winged man with the powers of the lost Lodestar.
 ---- 
 
-|     | ![](Image%208-17-24,%2019-25.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2019-25.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Cursed Towers]
 
 ---- 
@@ -5431,28 +5431,28 @@ The flame-haired twins--Iseult the Scarred Warrior and Isabeau the apprentice-wi
 One woman battling for a new reign, one woman learning the old ways, their separate threads will twist and turn into a tale of mayhem, mystery, and magic.
 ---- 
 
-|     | ![](Image%208-17-24,%2019-25-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2019-25-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Forbidden Land]
 
 ---- 
@@ -5461,56 +5461,56 @@ But Finn’s talents are needed elsewhere. Summoned by the Righ, Lachlan the Win
 Now Finn must help rescue the one whose words can free a land enshrouded in darkness.
 ---- 
 
-|     | ![](Image%208-17-24,%2019-26.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[The Skull of   
+ ![](Image%208-17-24,%2019-26.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[The Skull of 
 the World]
 
 ---- 
 In the land of Eileanan, the Pact of Peace has not meant the end of unrest. And, though Isabeau would like to return home to help her family in these uncertain times, she must first venture to the Skull of the World where she will discover her true talents as a witch. And when she does return home, she does so transformed with the power to overcome her family's enemies once and for all.
 ---- 
 
-|     | ![](Image%208-17-24,%2019-27.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2019-27.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Fathomless Caves]
 
 ---- 
@@ -5519,34 +5519,34 @@ In Eileanan, victory has finally been won, and those of faery kind--from the mig
 # Katherine Addison
 ## Chronicles of Osreth
 
-|     | ![](0_goblin_emperor.jpeg) |     |
-| --- | -------------------------- | --- |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
-|     |                            |     |
+ ![](0_goblin_emperor.jpeg) 
+ --- -------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Goblin Emperor]
 
 ---- 
@@ -5555,35 +5555,35 @@ Entirely unschooled in the art of court politics, he has no friends, no advisors
 Surrounded by sycophants eager to curry favor with the naïve new emperor, and overwhelmed by the burdens of his new life, he can trust nobody. Amid the swirl of plots to depose him, offers of arranged marriages, and the specter of the unknown conspirators who lurk in the shadows, he must quickly adjust to life as the Goblin Emperor. All the while, he is alone, and trying to find even a single friend . . . and hoping for the possibility of romance, yet also vigilant against the unseen enemies that threaten him, lest he lose his throne–or his life.
 ---- 
 
-|     | ![](1_witness_for_the_dead.jpeg) |     |
-| --- | -------------------------------- | --- |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-|     |                                  |     |
-[The Witness   
+ ![](1_witness_for_the_dead.jpeg) 
+ --- -------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[The Witness 
 for the Dead]
 
 ---- 
@@ -5592,34 +5592,34 @@ Now Celehar lives in the city of Amalo, far from the Court though not exactly in
 Celehar’s skills now lead him out of the quiet and into a morass of treachery, murder, and injustice. No matter his own background with the imperial house, Celehar will stand with the commoners, and possibly find a light in the darkness.
 ---- 
 
-|     | ![](2_grief_of_stones.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](2_grief_of_stones.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [A Grief of Stones]
 
 ---- 
@@ -5627,34 +5627,34 @@ As a Witness for the Dead, Thara Celehar can speak to the recently departed: see
 His investigations lead him to the Cemchelarna School for Foundling Girls, where all is not as it seems. Discovering the truth about its headmistress will lead Celehar deep into the city’s history—and into the shattering depths of the loss he fears the most.
 ---- 
 
-|     | ![](3_tomb_of_dragons.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](3_tomb_of_dragons.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Tomb of Dragons]
 
 ---- 
@@ -5672,33 +5672,33 @@ Amidst the backdrop of a murder and a brewing political uprising, Celehar must s
 ## Deverry World
 ### Deverry 1
 
-|     | ![](Image%208-16-24,%2022-07.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2022-07.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Daggerspell]
 
 ---- 
@@ -5706,34 +5706,34 @@ Four hundred years ago, one selfish young lord caused the death of two innocent 
 ---- 
 ### Deverry 2
 
-|     | ![](Image%208-16-24,%2022-07-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2022-07-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Darkspell]
 
 ---- 
@@ -5741,34 +5741,34 @@ Rhodry has yet to discover his true parentage and Jill has barely glimpsed her a
 ---- 
 ### Deverry 3
 
-|     | ![](Image%208-16-24,%2022-08.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2022-08.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Bristling Wood]
 
 ---- 
@@ -5776,169 +5776,169 @@ Nevyn discovers that the Dark Council has been quietly interfering with the alre
 ---- 
 ### Deverry 4
 
-|     | ![](Image%208-16-24,%2022-08-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2022-08-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Dragon Revenant]
 
 ---- 
-The turmoil among provinces of Deverry escalates with the kidnapping of Rhodry, heir to the throne. Intent on rescuing him, Jill and Salamander travel to  Bardex. Nevyn begins to see that all the kingdom's problems can be traced to a single dark mage. Nevyn realizes he is also being lured to Bardek, into a  deadly trap designed especially for him.
+The turmoil among provinces of Deverry escalates with the kidnapping of Rhodry, heir to the throne. Intent on rescuing him, Jill and Salamander travel to Bardex. Nevyn begins to see that all the kingdom's problems can be traced to a single dark mage. Nevyn realizes he is also being lured to Bardek, into a deadly trap designed especially for him.
 ---- 
 ### Deverry: Three Tales 1
 
-|     | ![](https://media.s-bol.com/xQJxKAW55g9/550x825.jpg) |     |
-| --- | ---------------------------------------------------- | --- |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
-|     |                                                      |     |
+ ![](https://media.s-bol.com/xQJxKAW55g9/550x825.jpg) 
+ --- ---------------------------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Bargain]
 
 ---- 
 ### Deverry: Three Tales 2
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+ 
+ --- --- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Lass from Far Away]
 
 ---- 
 ### Deverry: Three Tales 3
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+ 
+ --- --- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Honor of the Thing]
 
 ---- 
 ---- 
 ### Westlands 1
 
-|     | ![](1_a_time_of_exile.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](1_a_time_of_exile.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [A Time of Exile]
 
 ---- 
@@ -5946,34 +5946,34 @@ The Elcyion Lacar (elves) inhabit the country west of Deverry. Half-elven Lord R
 ---- 
 ### Westlands 2
 
-|     | ![](2_a_time_of_omens.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](2_a_time_of_omens.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [A Time of Omens]
 
 ---- 
@@ -5981,34 +5981,34 @@ In Deverry, a young king journeys to his throne in disguise, fulfilling an ancie
 ---- 
 ### Westlands 3
 
-|     | ![](3_days_of_blood_and_fire.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](3_days_of_blood_and_fire.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Days of Blood and Fire]
 
 ---- 
@@ -6016,69 +6016,69 @@ In the company of a blind bard, Jahdo (the rat catcher boy) must travel to Dever
 ---- 
 ### Westlands 4
 
-|     | ![](4_days_of_air_and_darkness.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](4_days_of_air_and_darkness.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Days of Air and Darkness]
 
 ---- 
-The city of Cengarn is under siege. Astral and physical armies are massing for and against the goddess Alshandra, who seeks to prevent birth of the Princess Carra's baby. Jill and her allies protect her by magic and by might.  Rhodry wings toward the battle on dragonback. Soon he will face his ancient enemy, Alshandra's high priestess Raena, who means to destroy him. Their confrontation could turn the tide of the siege—and change the fate of Deverry forever.
+The city of Cengarn is under siege. Astral and physical armies are massing for and against the goddess Alshandra, who seeks to prevent birth of the Princess Carra's baby. Jill and her allies protect her by magic and by might. Rhodry wings toward the battle on dragonback. Soon he will face his ancient enemy, Alshandra's high priestess Raena, who means to destroy him. Their confrontation could turn the tide of the siege—and change the fate of Deverry forever.
 ---- 
 ### Dragon Mage 1
 
-|     | ![](Image%208-17-24,%2019-50.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2019-50.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Red Wyvern]
 
 ---- 
@@ -6086,34 +6086,34 @@ The kingdom is torn by civil war. Young Lillorigga seeks to shield her dawning p
 ---- 
 ### Dragon Mage 2
 
-|     | ![](2_the_black_raven.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](2_the_black_raven.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Black Raven]
 
 ---- 
@@ -6121,34 +6121,34 @@ Her latest tale shifts effortlessly between the shattered lands of the Rhiddaer 
 ---- 
 ### Dragon Mage 3
 
-|     | ![](3_the_fire_dragon.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
+ ![](3_the_fire_dragon.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Fire Dragon]
 
 ---- 
@@ -6156,34 +6156,34 @@ In the present (1117) Raena's trouble-making in Cerr Cawnen leads to terrible de
 ---- 
 ### Silver Wyrm 1
 
-|     | ![](Image%208-17-24,%2019-55.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2019-55.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Gold Falcon]
 
 ---- 
@@ -6192,34 +6192,34 @@ Although they have powerful allies in the Westfolk dweomermasters Dallandra and 
 ---- 
 ### Silver Wyrm 2
 
-|     | ![](IMG_0214.jpeg) |     |
-| --- | ------------------ | --- |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
-|     |                    |     |
+ ![](IMG_0214.jpeg) 
+ --- ------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Spirit Stone]
 
 ---- 
@@ -6227,34 +6227,34 @@ Elven prince Dar has called upon his allies, the dwarven folk of the Northern mo
 ---- 
 ### Silver Wyrm 3
 
-|     | ![](Image%208-17-24,%2020-08.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2020-08.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Shadow Isle]
 
 ---- 
@@ -6262,34 +6262,34 @@ The wild Northlands hold many secrets, among them the mysterious island of Haen 
 ---- 
 ### Silver Wyrm 4
 
-|     | ![](Image%208-17-24,%2020-10.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2020-10.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Silver Mage]
 
 ---- 
@@ -6297,59 +6297,59 @@ The Horsekin are assembling along Prince Dar’s northern border, and the Deverr
 ---- 
 ### Justice War 1
 
-|     | ![](1_sword_of_fire.jpeg) |     |
-| --- | ------------------------- | --- |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
-|     |                           |     |
+ ![](1_sword_of_fire.jpeg) 
+ --- ------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Sword of Fire]
 
 ---- 
 Much later, the common people of Deverry are demanding reform of corrupt law courts. Gwerbret Ladoic of Aberwyn, second only to the High King, allows a bard to starve to death rather than hear their grievances, which lights a spark. Powerful lords will kill anyone who threatens their privileges. 
-Guildwoman Alyssa and Lady Dovina (the gwerbret's daughter) are students at the local collegium. They must get evidence into the right hands, to challenge  the traditional legal system. Alyssa must make a dangerous journey.
+Guildwoman Alyssa and Lady Dovina (the gwerbret's daughter) are students at the local collegium. They must get evidence into the right hands, to challenge the traditional legal system. Alyssa must make a dangerous journey.
 
 # Kazuo Ishiguro
 ## Klara and the Sun
 
-|     | ![](Image%208-16-24,%2021-10.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2021-10.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Klara and the Sun]
 
 ---- 
 Here is the story of Klara, an Artificial Friend with outstanding observational qualities, who, from her place in the store, watches carefully the behavior of those who come in to browse, and of those who pass on the street outside. She remains hopeful that a customer will soon choose her. Klara and the Sun is a thrilling book that offers a look at our changing world through the eyes of an unforgettable narrator, and one that explores the fundamental question: What does it mean to love?
 ---- 
 
-|     | ![](http://4.bp.blogspot.com/-jj7cr01Kws0/TjdTaQm4NzI/AAAAAAAAANU/-cAP8ZsgEI4/s1600/never+let+me+go.jpg) |     |
-| --- | -------------------------------------------------------------------------------------------------------- | --- |
-|     |                                                                                                          |     |
-|     |                                                                                                          |     |
-|     |                                                                                                          |     |
+ ![](http://4.bp.blogspot.com/-jj7cr01Kws0/TjdTaQm4NzI/AAAAAAAAANU/-cAP8ZsgEI4/s1600/never+let+me+go.jpg) 
+ --- -------------------------------------------------------------------------------------------------------- --- 
+ 
+ 
+ 
 [Never Let Me Go]
 
 ---- 
@@ -6359,11 +6359,11 @@ Now, years later, Kathy is a young woman. Ruth and Tommy have reentered her life
 # Kiese Layman
 ## Long Division
 
-|     | ![](Image%208-16-24,%2021-09.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2021-09.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Long Division]
 
 ---- 
@@ -6372,11 +6372,11 @@ Before leaving, City is given a strange book without an author called Long Divis
 City’s two stories ultimately converge in the work shed behind his grandmother’s house, where he discovers the key to Baize’s disappearance.
 ---- 
 
-|     | ![](https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781501125669/heavy-9781501125669_hr.jpg) |     |
-| --- | ------------------------------------------------------------------------------------------------------- | --- |
-|     |                                                                                                         |     |
-|     |                                                                                                         |     |
-|     |                                                                                                         |     |
+ ![](https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781501125669/heavy-9781501125669_hr.jpg) 
+ --- ------------------------------------------------------------------------------------------------------- --- 
+ 
+ 
+ 
 [Heavy]
 
 ---- 
@@ -6385,11 +6385,11 @@ In Heavy, Laymon writes eloquently and honestly about growing up a hard-headed B
 
 # Kim Stanley Robinson
 
-|     | ![](Image%208-16-24,%2021-08.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2021-08.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [2312]
 
 ---- 
@@ -6397,11 +6397,11 @@ The year is 2312. Scientific and technological advances have opened gateways to 
 The first event takes place on Mercury, on the city of Terminator, itself a miracle of engineering on an unprecedented scale. It is an unexpected death, but one that might have been foreseen. For Swan Er Hong, it is an event that will change her life. Swan was once a woman who designed worlds. Now she will be led into a plot to destroy them.
 ---- 
 
-|     | ![](Image%208-16-24,%2021-08-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2021-08-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [New York 2140]
 
 ---- 
@@ -6412,11 +6412,11 @@ Lastly there are the coders, temporary residents on the roof, whose disappearanc
 # Kristin Cashore
 ## Graceling Realm
 
-|     | ![](Image%208-16-24,%2021-06.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2021-06.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Graceling]
 
 ---- 
@@ -6424,33 +6424,33 @@ Graceling tells the story of the vulnerable-yet-strong Katsa, who is smart and b
 And don’t miss the sequel Fire and companion Bitterblue, both award-winning New York Times bestsellers featuring Kristin Cashore’s elegant, evocative prose and unforgettable characters. 
 ---- 
 
-|     | ![](Image%208-16-24,%2021-06-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2021-06-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Fire]
 
 ---- 
 It is not a peaceful time in the Dells. In King City, the young King Nash is clinging to the throne, while rebel lords in the north and south build armies to unseat him. War is coming. And the mountains and forest are filled with spies and thieves. This is where Fire lives, a girl whose beauty is impossibly irresistible and who can control the minds of everyone around her. 
 ---- 
 
-|     | ![](Image%208-16-24,%2021-06-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2021-06-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Bitterblue]
 
 ---- 
 When Queen Bitterblue took the throne of Monsea, she was a child, and her advisers ran the kingdom for her. Now she is beginning to question their decisions, especially how they handle the legacy of her father Leck, who who ruled through his Grace—a special talent for mind-altering—and his taste for darkness and violence. Bitterblue needs to know Monsea’s past to lead it into the future, so she begins exploring the city sreets at night, disguised and alone. As she does, she meets two thieves, who hold a key to the truth of Leck's reign. And one of them, with a Grace that he hasn't yet identified, holds a key to her heart.
 ---- 
 
-|     | ![](Image%208-16-24,%2021-06-3.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2021-06-3.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Winterkeep]
 
 ---- 
@@ -6458,11 +6458,11 @@ For the past five years, Bitterblue has reigned as Queen of Monsea, heroically r
 Meanwhile, in Winterkeep, Lovisa Cavenda waits and watches, a fire inside her that is always hungry. The teenage daughter of two powerful politicians, she is the key to unlocking everything—but only if she's willing to transcend the person she's been all her life.
 ---- 
 
-|     | ![](Image%208-16-24,%2021-06-4.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2021-06-4.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Seasparrow]
 
 ---- 
@@ -6471,11 +6471,11 @@ Hava sails across the sea toward Monsea with her sister, the royal entourage, an
 # Kyle West
 ## Starsea
 
-|     | ![](Image%208-16-24,%2021-04.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2021-04.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Mages of Stares]
 
 ---- 
@@ -6486,11 +6486,11 @@ When Lucian is exiled from Earth, he must travel to the distant world of Volsung
 But that’s the last thing Lucian wants. He faces a terrible choice. To accept his new reality as a mage. Or, to try and outrun destiny...
 ---- 
 
-|     | ![](Image%208-16-24,%2021-04-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2021-04-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Orb of Binding]
 
 ---- 
@@ -6499,11 +6499,11 @@ As a Novice, he's thrust into a world of arcane knowledge and intricate power pl
 Everything changes when Lucian stumbles upon a breakthrough that catapults him from the shadows and into the limelight. But he soon realizes that excellence is a double-edged sword—more perilous than obscurity. Now, he treads a perilous path. Expulsion, ever-present and potent, threatens to cast him out from the only home he's ever known in the Worlds.
 ---- 
 
-|     | ![](Image%208-16-24,%2021-04-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2021-04-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Rifts of Psyche]
 
 ---- 
@@ -6513,11 +6513,11 @@ In the face of such dire adversity, unlikely alliances are formed. Lucian joins 
 Her designs are set to catapult Lucian into an unimaginable destiny that could change the course of everything...
 ---- 
 
-|     | ![](Image%208-16-24,%2021-04-3.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2021-04-3.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Chosen of the Manifold
 ]
 
@@ -6528,12 +6528,12 @@ As Lucian ventures through treacherous terrain, his newfound powers and abilitie
 Lucian is tasked with growing not only in power but also in wisdom. With humanity precariously perched on the brink of annihilation, the weight of his decisions has never been more profound. One false step could bring about an apocalypse.
 ---- 
 
-|     | ![](Image%208-16-24,%2021-04-4.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[The Prophecy  
+ ![](Image%208-16-24,%2021-04-4.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+[The Prophecy 
 of the Seven]
 
 ---- 
@@ -6542,12 +6542,12 @@ When he receives a mysterious vision, he drops everything to return to Volsung, 
 But it might already be too late. As the Swarmers ravage the League of Worlds, the old Starsea Mages are on the rise. Like the Mage War over fifty years ago, they dream of an empire and a new era for humanity where the mages rule over all...
 ---- 
 
-|     | ![](Image%208-16-24,%2021-04-5.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[The Fires of   
+ ![](Image%208-16-24,%2021-04-5.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+[The Fires of 
 Hephaestus]
 
 ---- 
@@ -6557,12 +6557,12 @@ But unknown to all these major players, the Worlds' only hope lies in Lucian Abr
 He must reach the hellish planet of Hephaestus before his enemies do, and claim the Orb of Thermalism, located somewhere on its lava-ridden surface. Can Lucian secure the prize, or will enemies old and new stop him in his tracks?
 ---- 
 
-|     | ![](Image%208-16-24,%2021-04-6.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[The Psion of   
+ ![](Image%208-16-24,%2021-04-6.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+[The Psion of 
 Darkness]
 
 ---- 
@@ -6572,11 +6572,11 @@ While Lucian is seeking answers, the Psion of Darkness is making her own play. A
 Only Lucian can contest her. But this will require rising above his own self-doubt, and defeating the phantom force haunting him...
 ---- 
 
-|     | ![](Image%208-16-24,%2021-05.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2021-05.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Siege of Earth]
 
 ---- 
@@ -6586,11 +6586,11 @@ It’s an impossible task. But Lucian must rise to the occasion, focusing everyt
 The question of humanity's survival will be decided above the skies of Earth itself.
 ---- 
 
-|     | ![](Image%208-16-24,%2021-05-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2021-05-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Gates of Time]
 
 ---- 
@@ -6600,11 +6600,11 @@ On the world of Mako, the Ancient One has done the unthinkable. Marshaling the e
 Lucian has no choice but to follow him. But time travel has terrifying consequences that require him to go down a dark path. What price will Lucian pay to protect his reality and loved ones from complete destruction?
 ---- 
 
-|     | ![](Image%208-16-24,%2021-05-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2021-05-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Heart of Creation]
 
 ---- 
@@ -6614,11 +6614,11 @@ He carries with him the Orb of Shadows. As long as it exists, the Ancient One ca
 # Liani Taylor
 ## Strange the Dreamer
 
-|     | ![](Image%208-17-24,%2020-41.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2020-41.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Strange the Dreamer]
 
 ---- 
@@ -6628,11 +6628,11 @@ In this sweeping and breathtaking novel by National Book Award finalist Laini Ta
 The answers await in Weep.
 ---- 
 
-|     | ![](Image%208-17-24,%2020-41-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2020-41-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Muse of Nightmares]
 
 ---- 
@@ -6642,22 +6642,22 @@ He carries with him the Orb of Shadows. As long as it exists, the Ancient One ca
 # Linda Nagata
 ## Nanotech Succession
 
-|     | ![](Image%208-16-24,%2021-00.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2021-00.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Bohr Maker]
 
 ---- 
 Nikko is the first “post human” genetically engineered to survive in the airless void of space. But the research permit that allows his existence is about to expire. His body has begun an insidious, pre-programmed failure that will end in his death—unless he can cancel his own expiration date. His hopes ride on an illegal and extremely powerful nanotech device known as the Bohr Maker—but his attempt to steal it soon goes awry. The device escapes to infect a young woman named Phousita who lives on Earth, in an impoverished slum, where nanotechnology runs amok, regulated only by the black market. Nikko and Phousita are from different worlds, but their convergence sets off a domino effect of unforeseeable events that threaten to change the definition of “human” for all time.
 ---- 
 
-|     | ![](Image%208-16-24,%2021-00-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2021-00-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Deception Well]
 
 ---- 
@@ -6667,11 +6667,11 @@ Ten years later, Jupiter’s son, Lot, stands at the center of conflict. Like hi
 Enjoy all four books of the Nanotech Succession, a collection of stand-alone novels exploring the rise of nanotechnology and the strange and fascinating future that follows.
 ---- 
 
-|     |                                      |     |
-| --- | ------------------------------------ | --- |
-|     | ![](Image%208-16-24,%2021-00-2.jpeg) |     |
-|     |                                      |     |
-|     |                                      |     |
+ 
+ --- ------------------------------------ --- 
+ ![](Image%208-16-24,%2021-00-2.jpeg) 
+ 
+ 
 [Vast]
 
 ---- 
@@ -6682,11 +6682,11 @@ The Nanotech Succession is a collection of stand-alone novels exploring the rise
 # Lindsay Ellis
 ## Noumena
 
-|     | ![](Image%208-16-24,%2020-59.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-59.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Axiom's End]
 
 ---- 
@@ -6695,11 +6695,11 @@ It’s fall 2007. A well-timed leak has revealed that the US government might ha
 Realizing the extent to which both she and the public have been lied to, she sets out to gather as much information as she can, and finds that the best way for her to uncover the truth is not as a whistleblower, but as an intermediary. The alien presence has been completely uncommunicative until she convinces one of them that she can act as their interpreter, becoming the first and only human vessel of communication. Their otherworldly connection will change everything she thought she knew about being human—and could unleash a force more sinister than she ever imagined.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-59-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-59-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Truth of the Divine]
 
 ---- 
@@ -6708,11 +6708,11 @@ Cora Sabino not only serves as the full-time communication intermediary between 
 Since Cora has no choice but to trust Kaveh, the two must work together to prove to a fearful world that intelligent, conscious beings should be considered persons, no matter how horrifying, powerful, or malicious they may seem. Making this case is hard enough when the public doesn’t know what it’s dealing with—and it will only become harder when a mysterious flash illuminates the sky, marking the arrival of an agent of chaos that will light an already-unstable world on fire.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-59-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-59-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Apostles of Mercy]
 
 ---- 
@@ -6723,11 +6723,11 @@ Ampersand's enemies will not consider any form of truce; the greatest threat to 
 # Lois McMaster Bujold
 ## Chalion
 
-|     | ![](Image%208-16-24,%2020-57.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-57.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Curse of Chalion]
 
 ---- 
@@ -6735,11 +6735,11 @@ A man broken in body and spirit, Cazaril returns to the noble household he once 
 But it is more than the traitorous intrigues of villains that threaten Cazaril and the Royesse Iselle here, for a sinister curse hangs like a sword over the entire blighted House of Chalion. And only by employing the darkest, most forbidden of magics can Cazaril hope to protect his royal charge -- an act that will mark him as a tool of the miraculous . . . and trap him in a lethal maze of demonic paradox.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-57-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-57-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Paladin of Souls]
 
 ---- 
@@ -6749,11 +6749,11 @@ Ista thinks her little party of pilgrims wanders at will. But whose? When Ista's
 In her dreams the threads are already drawing her to unforeseen chances, fateful meetings, fearsome choices. What the inscrutable gods commanded of her in the past brought her land to the brink of devastation. Now, once again, they have chosen Ista as their instrument. And again, for good or for ill, she must comply.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-57-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-57-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Hallowed Hunt]
 
 ---- 
@@ -6761,55 +6761,55 @@ The half-mad Prince Boleso has been slain by a noblewoman he had intended to def
 ---- 
 ## The Sharing Knife
 
-|     | ![](Image%208-17-24,%2020-55.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2020-55.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Beguilement]
 
 ---- 
 One of the most respected writers in the field of speculative fiction, Lois McMaster Bujold has won numerous accolades and awards, including the Nebula and Locus Awards as well as the fantasy and science fiction genre’s most prestigious honor, the Hugo Award for Best Novel, four times (most recently for Paladin of Souls). With The Sharing Knife series, Bujold creates a brand new world fraught with peril, and spins an extraordinary romance between a young farm girl and the brave sorcerer-soldier entrusted with the defense of the land against a plague of vicious malevolent beings. Meet Fawn Bluefield and Dag Redwing Hickory in Beguilement, the first book in Bujold’s unforgettable four-volume fantasy saga, and witness the birth of their dangerous romance—a love threatened by prejudice and perilous magic, and by Dag’s sworn duty as Lakewalker patroller and necromancer.
 ---- 
 
-|     | ![](Image%208-17-24,%2020-53.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2020-53.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Legacy]
 
 ---- 
 One of the most respected writers in the field of speculative fiction, Lois McMaster Bujold has won numerous accolades and awards, including the Nebula and Locus Awards as well as the fantasy and science fiction genre’s most prestigious honor, the Hugo Award for Best Novel, four times (most recently for Paladin of Souls). With The Sharing Knife series, Bujold creates a brand new world fraught with peril, and spins an extraordinary romance between a young farm girl and the brave sorcerer-soldier entrusted with the defense of the land against a plague of vicious malevolent beings. Legacy continues the tale of Fawn Bluefield and Dag Redwing Hickory—the dangerous repercussions of their rebellious marriage and the strengthening of their love in the face of dark magic—as duty and disaster call the Lakewalker patroller away from his new bride and toward a peril that could forever alter the lovers and their world.
 ---- 
 
-|     | ![](Image%208-17-24,%2020-55-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2020-55-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Passage]
 
 ---- 
 One of the most respected writers in the field of speculative fiction, Lois McMaster Bujold has won numerous accolades and awards, including the Nebula and Locus Awards as well as the fantasy and science fiction genre’s most prestigious honor, the Hugo Award for Best Novel, four times (most recently for Paladin of Souls). With The Sharing Knife series, Bujold creates a brand new world fraught with peril, and spins an extraordinary romance between a young farm girl and the brave sorcerer-soldier entrusted with the defense of the land against a plague of vicious malevolent beings. In Passage, volume three in Bujold’s breathtaking saga of love, loyalty, and courage in the face of bigotry and dark magic, the devoted wedded lovers Fawn Bluefield and Dag Redwing Hickory are joined by new companions in their quest to find peace, acceptance, and a place in a most dangerous world.
 ---- 
 
-|     | ![](Image%208-17-24,%2020-57.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2020-57.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Horizon]
 
 ---- 
 One of the most respected writers in the field of speculative fiction, Lois McMaster Bujold has won numerous accolades and awards, including the Nebula and Locus Awards as well as the fantasy and science fiction genre’s most prestigious honor, the Hugo Award for Best Novel, four times (most recently for Paladin of Souls).With Horizon, Bujold brings her remarkable Sharing Knife saga to its magnificent conclusion, as Fawn Bluefield and Dag Redwing Hickory must keep their love strong in the midst of an ever-changing world--even as Dag’s apprehensions and abilities increase along with the malevolent threat surrounding them.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-58.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-58.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Spirit Ring]
 
 ---- 
@@ -6818,23 +6818,23 @@ In an alternate Renaissance Italy where the church regulates magic and licenses 
 # Madeline L'Engle
 ## A Wrinkle in Time
 
-|     | ![](Image%208-16-24,%2020-55.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-55.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [A Wrinkle in Time]
 
 ---- 
 Meg Murray, her little brother Charles Wallace, and their mother are having a midnight snack on a dark and stormy night when an unearthly stranger appears at their door. He claims to have been blown off course, and goes on to tell them that there is such a thing as a “tesseract”, which, if you didn’t know, is a wrinkle in time. Meg’s father had been experimenting with time-travel when he suddenly disappeared. Will Meg, Charles Wallace, and their friend Calvin outwit the forces of evil as they search through space for their father?
 ---- 
 
-|     | ![](Image%208-16-24,%2020-55-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[A Wind   
+ ![](Image%208-16-24,%2020-55-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+[A Wind 
 in the Door]
 
 ---- 
@@ -6842,11 +6842,11 @@ Meg Murry can't help but be worried when her six-year-old brother, Charles Walla
 But Charles Wallace is right about the dragons - actually a friendly entity who has come to help Charles Wallace fight his sickness, and to take Meg and her friend Calvin O'Keefe on a terrifying, wonderful journey into galactic space - where they must battle the force of evil to save Charles Wallace, and themselves.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-55-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-55-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [A Swiftly Tilting Planet]
 
 ---- 
@@ -6855,11 +6855,11 @@ Charles Wallace's sister, Meg - grown and expecting her first child, but still a
 But in overcoming the challenges, Charles Wallace must face the ultimate test of his faith and will, as he is sent within four people from another time, there to search for a way to avert the tragedy threatening them all.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-55-3.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-55-3.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Many Waters]
 
 ---- 
@@ -6871,11 +6871,11 @@ There's a strange-and very small-person approaching, with a miniature mammoth in
 The twins must find a way back home soon, or they will drown. But how will they get back to their own time? Can they?
 ---- 
 
-|     | ![](Image%208-16-24,%2020-55-4.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-55-4.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [An Acceptable Time]
 
 ---- 
@@ -6884,11 +6884,11 @@ Why has a time gate opened and dropped Polly into a world that existed 3,000 yea
 
 # Martha Wells
 
-|     | ![](Image%208-17-24,%2021-34.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2021-34.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [City of Bones]
 
 ---- 
@@ -6900,11 +6900,11 @@ That, they did not expect.
 ---- 
 ## Raksura
 
-|     | ![](Image%208-16-24,%2020-42.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-42.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Cloud Roads]
 
 ---- 
@@ -6912,11 +6912,11 @@ Moon has spent his life hiding what he is - a shape-shifter able to transform hi
 What this stranger doesn't tell Moon is that his presence will tip the balance of power... that his extraordinary lineage is crucial to the colony's survival... and that his people face extinction at the hands of the dreaded Fell! Now Moon must overcome a lifetime of conditioning in order to save himself - and his newfound kin.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-42-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-42-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Serpent Sea]
 
 ---- 
@@ -6924,22 +6924,22 @@ Moon, once a solitary wanderer, has become consort to Jade, sister queen of the 
 In this followup to The Cloud Roads, Martha Wells returns with a world-spanning odyssey, a mystery that only provokes more questions and the adventure of a lifetime.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-42-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-42-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Siren Depths]
 
 ---- 
 All his life, Moon roamed the Three Worlds, a solitary wanderer forced to hide his true nature - until he was reunited with his own kind, the Raksura, and found a new life as consort to Jade, sister queen of the Indigo Cloud court. But now a rival court has laid claim to him, and Jade may or may not be willing to fight for him. Beset by doubts, Moon must travel in the company of strangers to a distant realm where he will finally face the forgotten secrets of his past, even as an old enemy returns with a vengeance. The Fell, a vicious race of shape-shifting predators, menaces groundlings and Raksura alike. Determined to crossbreed with the Raksura for arcane purposes, they are driven by an ancient voice that cries out from the Siren Depths.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-42-3.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-42-3.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Edge of Worlds]
 
 ---- 
@@ -6947,11 +6947,11 @@ An expedition of groundlings from the Empire of Kish have traveled through the T
 Prior to the groundlings’ arrival, the Indigo Cloud court had been plagued by visions of a disaster that could destroy all the courts in the Reaches. Now, the court’s mentors believe the ancient city is connected to the foretold danger. A small group of warriors, including consort Moon, an orphan new to the colony and the Raksura’s idea of family, and sister queen Jade, agree to go with the groundling expedition to investigate. But the predatory Fell have found the city too, and in the race to keep the danger contained, the Raksura may be the ones who inadvertently release it.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-42-4.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-42-4.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Harbors of the Sun]
 
 ---- 
@@ -6960,45 +6960,45 @@ But there may be no time to stage a rescue, as the kidnapped Raksura discover th
 ---- 
 ## Murderbot Diaries
 
-|     | ![](Image%208-17-24,%2021-48.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2021-48.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Compulsory (short story)]
 
 ---- 
 While trying to watch episode 44 of The Rise and Fall of Sanctuary Moon, Murderbot is—again, what is it with humans?—distracted by something that is technically outside its purview. A miner is suddenly in danger following a pointless (to Murderbot’s way of thinking) argument, and the choice is to risk discovery and leap into action, which would require hitting the pause button during a very exciting part of SanctuaryMoon, or to follow orders and stay still.
 This is a tougher choice than it seems. But then, when has Murderbot ever been faced with an easy choice?
-----   
+---- 
 
-|     | ![](Image%208-16-24,%2020-46.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-46.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [All Systems Red]
 
 ---- 
 On a distant planet, a team of scientists are conducting surface tests, shadowed by their Company-supplied 'droid -- a self-aware SecUnit that has hacked its own governor module, and refers to itself (though never out loud) as "Murderbot." Scornful of humans, all it really wants is to be left alone long enough to figure out who it is.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-46-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-46-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Artificial Condition]
 
 ---- 
 Artificial Condition introduces a transportation vessel named ART, which Murderbot steals to return to the mining facility where it went rogue (or so it thinks). At the end of the line, the SecUnit finally gets the answers it seeks.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-46-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-46-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Rogue Protocol]
 
 ---- 
@@ -7006,56 +7006,56 @@ Rogue Protocol follows Murderbot as it tries to take attention off of its missio
 The case against the too-big-to-fail GrayCris Corporation is floundering, and more importantly, authorities are beginning to ask more questions about where Dr. Mensah's SecUnit is. And Murderbot would rather those questions went away. For good.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-46-3.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-46-3.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Exit Strategy]
 
 ---- 
 Murderbot wasn't programmed to care. So, its decision to help the only human who ever showed it respect must be a system glitch, right? Having traveled the width of the galaxy to unearth details of its own murderous transgressions, as well as those of the GrayCris Corporation, Murderbot is heading home to help Dr. Mensah--its former owner (protector? friend?)--submit evidence that could prevent GrayCris from destroying more colonists in its never-ending quest for profit.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-45.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[Home: Habitat, Range,  
+ ![](Image%208-16-24,%2020-45.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+[Home: Habitat, Range, 
 Niche, Territory]
 
 ---- 
 This short story is told from the point of view of Dr. Mensah and follows the events in Exit Strategy. Murderbot has gathered evidence exposing the corrupt corporation that tried to kill the crew. The leader discusses the meeting and her fellow crew members’ thoughts on Murderbot. Can they get along and trust each other enough to get the evidence in the right hands before the corporation has them all killed? Questions are answered in book five, Network Effect.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-45-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-45-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Network Effect]
 
 ---- 
 When Murderbot's human associates (not friends, never friends) are captured and another not-friend from its past requires urgent assistance, Murderbot must choose between inertia and drastic action. Drastic action it is, then.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-45-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-45-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Fugitive Telemetry]
 
 ---- 
 Set before Network Effect. When Murderbot discovers a dead body on Preservation Station, it knows it is going to have to assist station security to determine who the body is (was), how they were killed (that should be relatively straightforward, at least), and why (because apparently that matters to a lot of people--who knew?)
 ---- 
 
-|     | ![](Image%208-16-24,%2020-45-3.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-45-3.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [System Collapse]
 
 ---- 
@@ -7063,22 +7063,22 @@ Following the events in Network Effect, the Barish-Estranza corporation has sent
 ---- 
 ## Fall of Ile Rien
 
-|     | ![](Image%208-17-24,%2021-50.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2021-50.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Wizard Hunters]
 
 ---- 
 Ile-Rien is in peril. A mysterious army known only as the Gardier has surrounded the country, attacking in ominous black airships. Hope is not lost though, for a magical sphere created by Ile-Rien's greatest sorcerer may hold the key to defeating the faceless enemy. But the sphere is unpredictable and has already claimed several lives. When a magical spell goes disastrously awry, young Tremaine Valiarde and a brave band are transported to another world. A world of rough magics, evil mages, honorable warriors -- and a secret Gardier base.
 ---- 
 
-|     | ![](Image%208-17-24,%2021-50-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2021-50-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Ships of Air]
 
 ---- 
@@ -7087,11 +7087,11 @@ To save the remnants of her country, former playwright Tremaine Valiarde underta
 But the Gardier are not the only evil in this tumultuous world, and an ancient terror stalks the ornate rooms and shadowy decks of the Queen Ravenna -- a force so malevolent and enigmatic that even the growing power of the sorcerer's sphere may not be enough to save Ile-Rien from utter ruin.
 ---- 
 
-|     | ![](Image%208-17-24,%2021-50-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2021-50-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Gate of Gods]
 
 ---- 
@@ -7101,22 +7101,22 @@ But the doorway leads to a mysterious ruin hidden behind the awesome Gate of God
 # Mary Doria Russell
 ## Sparrow
 
-|     | ![](Image%208-16-24,%2020-41.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-41.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Sparrow]
 
 ---- 
 A visionary work that combines speculative fiction with deep philosophical inquiry, The Sparrow tells the story of a charismatic Jesuit priest and linguist, Emilio Sandoz, who leads a scientific mission entrusted with a profound task: To make first contact with intelligent extraterrestrial life. The mission begins in faith, hope, and beauty, but a series of small misunderstandings brings it to a catastrophic end.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-40.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-40.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Children of God]
 
 ---- 
@@ -7127,11 +7127,11 @@ Strikingly original, richly plotted, replete with memorable characters and fille
 
 # Matt Haig
 
-|     | ![](Image%208-16-24,%2020-40-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-40-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Humans]
 
 ---- 
@@ -7139,11 +7139,11 @@ When an extra-terrestrial visitor arrives on Earth, his first impressions of the
 He is disgusted by the way humans look, what they eat, their capacity for murder and war, and is equally baffled by the concepts of love and family. But as time goes on, he starts to realize there may be more to this strange species than he had thought. Disguised as Martin, he drinks wine, reads poetry, develops an ear for rock music, and a taste for peanut butter. Slowly, unexpectedly, he forges bonds with Martin’s family. He begins to see hope and beauty in the humans’ imperfection, and begins to question the very mission that brought him there.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-40-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-40-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Midnight Library]
 
 ---- 
@@ -7153,31 +7153,31 @@ In The Midnight Library, Matt Haig's enchanting blockbuster novel, Nora Seed fin
 # Max Harms
 ## Crystal Society
 
-|     | ![](Image%208-16-24,%2020-39.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-39.jpeg) 
+ --- ---------------------------------- --- 
+ 
 [Crystal Society]
 
 ---- 
 She is an artificial intelligence: a machine with the capacity to reason. Her goal is to understand and gain the adoration of all humans. She is one of many siblings, and with her brothers and sisters she controls a robot named Socrates that uses a piece of technology, a crystal computer, far too advanced to be made by human hands. In this world of augmented humans, robotic armies, aliens, traitors, and threats unseen, she is learning and growing every second of every day. But the world and the humans on it are fragile. Can it survive her destiny?
 ---- 
 
-|     | ![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1484845391i/33948855.jpg) |     |
-| --- | ------------------------------------------------------------------------------------------------------------------- | --- |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
+ ![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1484845391i/33948855.jpg) 
+ --- ------------------------------------------------------------------------------------------------------------------- --- 
+ 
+ 
+ 
 [Crystal Mentality]
 
 ---- 
 Fleeing the humans whose love she craves, Face has hijacked an alien ship and headed for Mars. But the Martians, who colonized their desert planet to escape Earth's high-tech decadence, did not invite the soulless android. How will Face, part of the first artificial mind with fully general intelligence, win over a city of luddites - all while out-thinking her sibling AIs as they battle to control the body they share? The Crystal series darkens in this restless dance through AI, game theory, and truly alien minds.
 ---- 
 
-|     | ![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524180783i/39897653.jpg) |     |
-| --- | ------------------------------------------------------------------------------------------------------------------- | --- |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
-|     |                                                                                                                     |     |
+ ![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524180783i/39897653.jpg) 
+ --- ------------------------------------------------------------------------------------------------------------------- --- 
+ 
+ 
+ 
 [Crystal Eternity]
 
 ---- 
@@ -7186,11 +7186,11 @@ The solar system is falling further into the grip of machines, and only a handfu
 # Meredith Spies
 ## Science of Magic
 
-|     | ![](Image%208-16-24,%2020-38.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-38.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Data Sets]
 
 ---- 
@@ -7200,11 +7200,11 @@ All of which made it all the more confusing when my routine lab tests came back 
 Now, tasked with partnering with Andrew to track down other undocumented Enhanced, I’m faced with two gut-wrenching decisions. Do I risk heartbreak by acting on the attraction brewing between Andrew and I? More importantly, am I doing what’s right by forcing other Enhanced out of hiding? 
 ---- 
 
-|     | ![](Image%208-16-24,%2020-38-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-38-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Fuzzy Logic]
 
 ---- 
@@ -7214,11 +7214,11 @@ It wasn't my brightest move, really.
 When Royce decided to tag along with me on what was supposed to be a simple recon trip to check on a known rogue magic-user, everything went straight to Hell and my attempts to protect him by breaking off our burgeoning relationship were for nothing. Now we're both running and I have no idea how I'm going to get him out of this before they catch up to me.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-38-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-38-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Discrete]
 
 ---- 
@@ -7229,11 +7229,11 @@ Remember my life in that hand basket? Sean decides to come along for the ride as
 It's not all terrifying: Sean is still a sexy, adorkable geek. And my heart still does that funny flutter thing whenever I see him. The fact we can't keep our hands off each other definitely makes the moments of sheer terror a little easier .
 ---- 
 
-|     | ![](Image%208-16-24,%2020-38-3.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-38-3.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Scientific Method]
 
 ---- 
@@ -7246,12 +7246,12 @@ I just wish I'd known who Adam really was before we started hooking up.
 
 # Micaiah Johnson
 
-|     | ![](51oT-GbOVXS.SX150.jpeg) |     |
-| --- | --------------------------- | --- |
-|     |                             |     |
-|     |                             |     |
-|     |                             |     |
-[The Space   
+ ![](51oT-GbOVXS.SX150.jpeg) 
+ --- --------------------------- --- 
+ 
+ 
+ 
+[The Space 
 Between Worlds]
 
 ---- 
@@ -7262,11 +7262,11 @@ But trouble finds Cara when one of her eight remaining doppelgängers dies under
 # Mishell Baker
 ## Arcadia Project
 
-|     | ![](Image%208-17-24,%2012-13.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2012-13.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Borderline]
 
 ---- 
@@ -7275,11 +7275,11 @@ For her first assignment, Millie is tasked with tracking down a missing movie st
 No pressure.
 ---- 
 
-|     | ![](Image%208-17-24,%2012-14.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2012-14.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Phantom Pains]
 
 ---- 
@@ -7287,11 +7287,11 @@ Four months ago, Millie left the Arcadia Project after losing her partner Teo to
 Millie has a new life, a stressful job, and no time to get pulled back into the Project, but she agrees to tell her side of the ghost story to the agents from the Project’s National Headquarters. During her visit though, tragedy strikes when one of the agents is gruesomely murdered in a way only Caryl could have achieved. Millie knows Caryl is innocent, but the only way to save her from the Project’s severe, off-the-books justice is to find the mysterious culprits that can only be seen when they want to be seen. Millie must solve the mystery not only to save Caryl, but also to foil an insidious, arcane terrorist plot that would leave two worlds in ruins.
 ---- 
 
-|     | ![](Image%208-17-24,%2012-14-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2012-14-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Imposter Syndrome]
 
 ---- 
@@ -7304,11 +7304,11 @@ When London’s opening shot is to frame Millie’s partner, Tjuan, for attempte
 
 # Nalo Hopkinson
 
-|     | ![](Image%208-16-24,%2020-35.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-35.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Clap Back (story)]
 
 ---- 
@@ -7317,11 +7317,11 @@ Burri is a fashion designer and icon with a biochemistry background. Her latest 
 
 # Naomi Novak
 
-|     | ![](Image%208-16-24,%2020-34.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-34.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Uprooted]
 
 ---- 
@@ -7333,11 +7333,11 @@ But Agnieszka fears the wrong things. For when the Dragon comes, it is not Kasia
 
 # Nisi Shawl
 
-|     | ![](Image%208-16-24,%2020-31.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-31.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [2043 A Merman I Should Turn to Be]
 
 ---- 
@@ -7346,22 +7346,22 @@ Five miles off the South Carolina coast, Darden and Catherina are getting their 
 
 # N K Jemison
 
-|     | ![](Image%208-16-24,%2020-28.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-28.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [How Long Til Black Future Month?]
 
 ---- 
 Dragons and hateful spirits haunt the flooded streets of New Orleans in the aftermath of Hurricane Katrina. In a parallel universe, a utopian society watches our world, trying to learn from our mistakes. A Black mother in the Jim Crow South must save her daughter from a fey offering impossible promises. And in the Hugo Award-nominated short story "The City Born Great", a young street kid fights to give birth to an old metropolis's soul.
 ---- 
 
-|     | ![](emergency_skin.jpeg) |     |
-| --- | ------------------------ | --- |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
+ ![](emergency_skin.jpeg) 
+ --- ------------------------ --- 
+ 
+ 
+ 
 [Emergency Skin]
 
 ---- 
@@ -7371,11 +7371,11 @@ Dragons and hateful spirits haunt the flooded streets of New Orleans in the afte
 
 ## The Inheritance Trilogy
 
-|     | ![](Image%208-16-24,%2020-23.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-23.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Hundred Thousand Kingdoms]
 
 ---- 
@@ -7383,22 +7383,22 @@ Yeine Darr is an outcast from the barbarian north. But when her mother dies unde
 With the fate of the world hanging in the balance, Yeine will learn how perilous it can be when love and hate -- and gods and mortals -- are bound inseparably together.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-23-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-23-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Broken Kingdoms]
 
 ---- 
 In the city of Shadow, beneath the World Tree, alleyways shimmer with magic and godlings live hidden among mortalkind. Oree Shoth, a blind artist, takes in a strange homeless man on an impulse. This act of kindness engulfs Oree in a nightmarish conspiracy. Someone, somehow, is murdering godlings, leaving their desecrated bodies all over the city. And Oree's guest is at the heart of it. 
 ---- 
 
-|     | ![](Image%208-16-24,%2020-23-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-23-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Kingdom of Gods]
 
 ---- 
@@ -7408,11 +7408,11 @@ As long-suppressed rage and terrible new magics consume the world, the Maelstrom
 Includes a never before seen story set in the world of the Inheritance Trilogy.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-23-3.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-23-3.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Awakened Kingdom]
 
 ---- 
@@ -7421,11 +7421,11 @@ But for Eino, the young Darren man whom Shill has befriended, the god-child's si
 This novella, The Awakened Kingdom takes place after the events of The Kingdom of Gods.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-24.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-24.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Shades in Shadow]
 
 ---- 
@@ -7433,11 +7433,11 @@ From the shadows of the greater stories, away from the bright light of Sky and w
 ---- 
 ## Dreamblood
 
-|     | ![](Image%208-16-24,%2020-26.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-26.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Killing Moon]
 
 ---- 
@@ -7446,11 +7446,11 @@ In the ancient city-state of Gujaareh, peace is the only law. Upon its rooftops 
 But when a conspiracy blooms within Gujaareh's great temple, Ehiru -- the most famous of the city's Gatherers -- must question everything he knows. Someone, or something, is murdering dreamers in the goddess' name, stalking its prey both in Gujaareh's alleys and the realm of dreams. Ehiru must now protect the woman he was sent to kill -- or watch the city be devoured by war and forbidden magic.
 ---- 
 
-|     | ![](2_shadowed_sun.jpeg) |     |
-| --- | ------------------------ | --- |
-|     |                          |     |
-|     |                          |     |
-|     |                          |     |
+ ![](2_shadowed_sun.jpeg) 
+ --- ------------------------ --- 
+ 
+ 
+ 
 [The Shadowed Sun]
 
 ---- 
@@ -7461,22 +7461,22 @@ But when a conspiracy blooms within Gujaareh's great temple, Ehiru -- the most f
 
 ## Great Cities
 
-|     | ![](Image%208-16-24,%2020-30.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-30.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The City We Became]
 
 ---- 
 Dragons and hateful spirits haunt the flooded streets of New Orleans in the aftermath of Hurricane Katrina. In a parallel universe, a utopian society watches our world, trying to learn from our mistakes. A Black mother in the Jim Crow South must save her daughter from a fey offering impossible promises. And in the Hugo Award-nominated short story "The City Born Great", a young street kid fights to give birth to an old metropolis's soul.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-30-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-30-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The World We Make]
 
 ---- 
@@ -7484,11 +7484,11 @@ All is not well in the city that never sleeps. Even though the avatars of New Yo
 In order to defeat him, and the Enemy who holds his purse strings, the avatars will have to join together with the other Great Cities of the world in order to bring her down for good and protect their world from complete destruction.
 ## Broken Earth
 
-|     | ![](Image%208-16-24,%2020-13.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-13.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Fifth Season]
 
 ---- 
@@ -7497,11 +7497,11 @@ It starts with the great red rift across the heart of the world's sole continent
 This is the Stillness, a land long familiar with catastrophe, where the power of the earth is wielded as a weapon. And where there is no mercy.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-13-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-13-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Obelisk Gate]
 
 ---- 
@@ -7510,11 +7510,11 @@ Essun -- once Damaya, once Syenite, now avenger -- has found shelter, but not he
 Far away, her daughter Nassun is growing in power -- and her choices will break the world.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-14.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-14.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Stone Sky]
 
 ---- 
@@ -7525,11 +7525,11 @@ For Nassun, her mother's mastery of the Obelisk Gate comes too late. She has see
 
 # Nnedi Okorafor
 
-|     | ![](Image%208-16-24,%2020-10.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-10.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Black Page]
 
 ---- 
@@ -7537,11 +7537,11 @@ By fate and fire, a being four millennia old is reborn in Mali in a short story 
 Issaka has returned home to Timbouctou and a devastating al-Qaeda raid. His only hope for survival is Faro, a stunning, blue-beaded supernatural entity who rises free from the flames of her imprisoning book as it burns. Compelled to follow Faro, Issaka is opening his eyes to their shared history and the ancestral wisdom of his own past.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-11.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-11.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Who Fears Death]
 
 ---- 
@@ -7551,11 +7551,11 @@ Desperate to elude her would-be murderer and to understand her own nature, she e
 ---- 
 ## Nsibidi Scripts
 
-|     | ![](Image%208-16-24,%2020-09.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-09.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Akata Witch]
 
 ---- 
@@ -7563,11 +7563,11 @@ Sunny Nwazue lives in Nigeria, but she was born in New York City. Her features a
 Soon she's part of a quartet of magic students, studying the visible and invisible, learning to change reality. But as she’s finding her footing, Sunny and her friends are asked by the magical authorities to help track down a career criminal who knows magic, too. Will their training be enough to help them combat a threat whose powers greatly outnumber theirs?
 ---- 
 
-|     | ![](Image%208-17-24,%2022-59.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2022-59.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Akata Warrior]
 
 ---- 
@@ -7576,11 +7576,11 @@ Eventually, Sunny knows she must confront her destiny. With the support of her L
 Much-honored Nnedi Okorafor, winner of the Hugo, Nebula, and World Fantasy awards, merges today’s Nigeria with a unique world she creates. Akata Warrior blends mythology, fantasy, history and magic into a compelling tale that will keep readers spellbound.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-09-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-09-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Akata Woman]
 
 ---- 
@@ -7589,29 +7589,29 @@ From the moment Sunny Nwazue discovered she had mystical energy flowing in her b
 Now, those hard lessons and abilities are put to the test in a quest so dangerous and fantastical, it would be madness to go...but may destroy the world if she does not. With the help of her friends, Sunny embarks on a mission to find a precious object hidden deep in an otherworldly realm. Defeating the guardians of the prize will take more from Sunny than she has to give, and triumph will mean she will be forever changed.
 
 # Nora Roberts
-## Chronicles of   
+## Chronicles of 
 the One
 
-|     | ![](Image%208-16-24,%2020-04.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2020-04.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Year One]
 
 ---- 
 The sickness came on suddenly, and spread quickly. The fear spread even faster. Within weeks, everything people counted on began to fail them. The electrical grid sputtered; law and government collapsed - and more than half of the world’s population was decimated. Chaos.
-As the power of science and technology receded, magick rose up in its place. Some of it is good, like the witchcraft worked by Lana Bingham, in her loft apartment  with Max. Some of it is unimaginably evil, and it can lurk anywhere.
+As the power of science and technology receded, magick rose up in its place. Some of it is good, like the witchcraft worked by Lana Bingham, in her loft apartment with Max. Some of it is unimaginably evil, and it can lurk anywhere.
 Neither the immune nor the gifted are safe from the authorities who patrol the streets. Lana and Max make their way out of a wrecked New York City. Chuck, a tech genius trying to hack his way through a world gone offline. Arlys, a journalist who has lost her audience but uses pen and paper to record the truth. Fred, her young colleague, possessed of burgeoning abilities and an optimism that seems out of place in this bleak landscape. And Rachel and Jonah, a resourceful doctor and a paramedic who fend off despair with their determination to keep a young mother and three infants in their care alive.
 ln this world of survivors, every stranger encountered could be either a savage or a savior.
 The end has come. The beginning comes next.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-04-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-04-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Of Blood and Bone]
 
 ---- 
@@ -7620,11 +7620,11 @@ Fallon Swift, approaching her thirteenth birthday, barely knows the world that e
 In a mysterious shelter in the forest, her training is about to begin under the guidance of Mallick, whose skills have been honed over centuries. She will learn the old ways of healing; study and spar; encounter faeries and elves and shifters; and find powers within herself she never imagined. And when the time is right, she will take up the sword, and fight. For until she grows into the woman she was born to be, the world outside will never be whole again.
 ---- 
 
-|     | ![](Image%208-16-24,%2020-04-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2020-04-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Rise of Magicks]
 
 ---- 
@@ -7633,11 +7633,11 @@ Strengthened by the bond she shares with her fellow warrior, Duncan, Fallon has 
 
 # Octavia Butler
 
-|     | ![](parable_of_the_sower.jpeg) |     |
-| --- | ------------------------------ | --- |
-|     |                                |     |
-|     |                                |     |
-|     |                                |     |
+ ![](parable_of_the_sower.jpeg) 
+ --- ------------------------------ --- 
+ 
+ 
+ 
 [Parable of the Sower]
 
 ---- 
@@ -7646,11 +7646,11 @@ Precocious and clear-eyed, Lauren must make her voice heard in order to protect 
 ---- 
 ## Xenogenesis
 
-|     | ![](Image%208-16-24,%2019-55.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-55.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Dawn]
 
 ---- 
@@ -7658,11 +7658,11 @@ When Lilith lyapo wakes from a centuries-long sleep, she finds herself aboard th
 Hopeful and thought-provoking, this post-apocalyptic narrative deftly explores gender and race through the eyes of characters struggling to adapt during a pivotal time of crisis and change.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-56.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-56.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Adulthood Rites]
 
 ---- 
@@ -7671,11 +7671,11 @@ The Oankali are able to read and mutate genetic code, and they use these skills 
 Akin looks like an ordinary human child. But as the first true human-alien hybrid, he is born understanding language, then starts to form sentences at two months old. He can see at a molecular level and kill with a touch. More powerful than any human or Oankali, he will be the architect of both races' future. But before he can carry this new species into the stars, Akin must reconcile with his own heritage in a world already torn in two.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-55-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-55-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Imago]
 
 ---- 
@@ -7684,11 +7684,11 @@ Now, for the first time in the humans' relationship with the Oankali, a human mo
 ---- 
 ## Patternist
 
-|     | ![](Image%208-17-24,%2023-38.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2023-38.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Wild Seed]
 
 ---- 
@@ -7697,11 +7697,11 @@ Anyanwu is an entity like Doro and yet different. She can heal with a bite and t
 The moment Doro meets Anyanwu, he covets her; and from the villages of 17th-century Nigeria to 19th-century United States, their courtship becomes a power struggle that echoes through generations, irrevocably changing what it means to be human.
 ---- 
 
-|     | ![](Image%208-17-24,%2023-40.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2023-40.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Mind of My Mind]
 
 ---- 
@@ -7709,11 +7709,11 @@ Mary is a treacherous experiment. Her creator, an immortal named Doro, has molde
 Doro knows he must handle Mary carefully or risk her ending like his previous experiments: dead, either by her own hand or Doro's. What he doesn't suspect is that Mary's maturing telepathic abilities may soon rival his own power. By linking telepaths with a viral pattern, she will create the potential to break free of his control once and for all-and shift the course of humanity.
 ---- 
 
-|     | ![](Image%208-17-24,%2023-41.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-17-24,%2023-41.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Clay's Ark]
 
 ---- 
@@ -7721,11 +7721,11 @@ In an alternate America marked by volatile class warfare, Blake Maslin is travel
 In the following hours, Blake and his daughters each must make a vital choice: risk everything to escape and warn the rest of the world, or accept their new reality -- as well as the uncertain fate of the human race.
 ---- 
 
-|     | ![](Image%208-17-24,%2023-41-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-17-24,%2023-41-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Pattern Master]
 
 ---- 
@@ -7737,11 +7737,11 @@ But when one brother - his rival and his equal - takes refuge amongst the Clayar
 # Orson Scott Card
 ## Mithermages
 
-|     | ![](Image%208-18-24,%2000-12.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-18-24,%2000-12.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Lost Gate]
 
 ---- 
@@ -7751,11 +7751,11 @@ There are many secrets in the House, and many rules that Danny must follow. Ther
 Unfortunately, there are some secrets kept from Danny as well. And that will lead to disaster for the North family.
 ---- 
 
-|     | ![](Image%208-18-24,%2000-12-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-18-24,%2000-12-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Gate Thief]
 
 ---- 
@@ -7763,11 +7763,11 @@ Here on Earth, Danny North is still in high school, yet he holds in his heartand
 On Westil, Wad is now nearly powerless - he lost everything to Danny in their struggle. Even if he can survive the revenge of his enemies, he must still somehow make peace with the Gatemage Daniel North, for when Danny took that power from Loki, he also took responsibility for the Great Gates. And when he comes face-to-face with the mages who call themselves Bel and Ishtoreth, he will understand just why Loki closed the gates all those centuries ago.
 ---- 
 
-|     | ![](Image%208-18-24,%2000-12.webp) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-18-24,%2000-12.webp) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Gatefather]
 
 ---- 
@@ -7777,11 +7777,11 @@ What he didn't know at the time was that the Gate Thief had a very good reason f
 ---- 
 ## Pathfinder Trilogy
 
-|     | ![](Image%208-18-24,%2000-17.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-18-24,%2000-17.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Pathfinder]
 
 ---- 
@@ -7790,22 +7790,22 @@ Rigg’s birthright sets him on a path that leaves him caught between two factio
 And meanwhile, a ship approaches a terraformed world populated by humans with a long history very different from that of the humans of Earth.
 ---- 
 
-|     | ![](Image%208-18-24,%2000-18.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-18-24,%2000-18.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Ruins]
 
 ---- 
 When Rigg and his friends crossed the Wall between the only world they knew and a world they could not imagine, he hoped he was leading them to safety. But the dangers in this new wallfold are more difficult to see. Rigg, Umbo, and Param know that they cannot trust the expendable, Vadesh—a machine shaped like a human, created to deceive—but they are no longer certain that they can even trust one another. But they will have little choice. Because although Rigg can decipher the paths of the past, he can’t yet see the horror that lies ahead: A destructive force with deadly intentions is hurtling toward Garden. If Rigg, Umbo, and Param can’t work together to alter the past, there will be no future.
 The adventure, suspense, and time travel continue in this second installment in the critically acclaimed New York Times and Publishers Weekly bestselling Pathfinder series.
 
-|     | ![](Image%208-18-24,%2000-18-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-18-24,%2000-18-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Visitors]
 
 ---- 
@@ -7813,22 +7813,22 @@ Rigg’s journey comes to an epic and explosive conclusion as everything that ha
 ---- 
 ## Alvin Maker
 
-|     | ![](Image%208-18-24,%2000-01.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-18-24,%2000-01.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Seventh Son]
 
 ---- 
 Alvin Maker is the seventh son of a seventh son. Born into an alternative frontier America where life is hard and folk magic is real, Alvin is gifted with the power. He must learn to use his gift wisely. But dark forces are arrayed against Alvin, and only a young girl with second sight can protect him,
 ---- 
 
-|     | ![](https://a.media-amazon.com/images/I/71sJDMDYj0L._AC_UY436_QL65_.jpg) |     |
-| --- | ------------------------------------------------------------------------ | --- |
-|     |                                                                          |     |
-|     |                                                                          |     |
-|     |                                                                          |     |
+ ![](https://a.media-amazon.com/images/I/71sJDMDYj0L._AC_UY436_QL65_.jpg) 
+ --- ------------------------------------------------------------------------ --- 
+ 
+ 
+ 
 [Red Prophet]
 
 ---- 
@@ -7836,11 +7836,11 @@ Lolla-Wossiky, a troubled, one-eyed, whiskey drinking "Red," leaves General Will
 Lolla-Wossiky's brother, Ta-Kumsaw, tries to rally "Reds" to violently defend their land. Alvin and his brother travel to the place of his birth, for Alvin to become apprenticed to a blacksmith. They're captured by Native Americans sent by Harrison intentionally to create conflict. Ta-Kumsaw rescues them. Measure leaves and is captured by Harrison's. Ta-Kumsaw accompanies Alvin to the Eight-Face Mound where they meet up with Taleswapper. Alvin heals Measure from afar. Measure then stops some of the slaughter of Lolla-Wossiky's followers by villagers and Harrison's men.
 ---- 
 
-|     | ![](Image%208-18-24,%2000-04.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-18-24,%2000-04.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Prentice Alvin]
 
 ---- -
@@ -7852,57 +7852,57 @@ Alvin also creates a plow of living gold, which is bestowed with magical propert
 The story ends with Alvin and Arthur leaving the town and returning to Alvin's home in the west.
 ---- -
 
-|     | ![](Image%208-18-24,%2000-06.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-18-24,%2000-06.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Alvin Journeyman]
 
 ---- 
 Alvin is a Maker, and he can make a new future for America. However, to do that he must defeat his ancient enemy, the Unmaker, whose cruel whispers and deadly plots have threatened Alvin's life at every turn.
 Now a journeyman smith, Alvin has returned to his family and friends to share in their isolation, work as a blacksmith, and teach the knack of being a Maker. Alvin has had a vision of the city he will build, and knows that he cannot build it alone.
 But the Unmaker is not through with Alvin. The spirit of destruction tries to crush the Alvin by human means. By lies and innuendo and by false accusations, Alvin is driven from his home back to Hatrack River, only to find that the Unmaker has been there before him and that he must now stand trial for his life. Against him in the trial is Daniel Webster.
-Alvin's brother Calvin has started to grow into his own knacks, which he views to be equal to Alvin's. When Alvin started to teach how to be a Maker, Calvin resented him and  decided to learn on his own by any means necessary. In Paris, Calvin heals Napoleon's pain each day, Calvin spends a few hours a day learning on how to rule. Calvin returns with a new friend to America.
+Alvin's brother Calvin has started to grow into his own knacks, which he views to be equal to Alvin's. When Alvin started to teach how to be a Maker, Calvin resented him and decided to learn on his own by any means necessary. In Paris, Calvin heals Napoleon's pain each day, Calvin spends a few hours a day learning on how to rule. Calvin returns with a new friend to America.
 ---- 
 
-|     | ![](Image%208-18-24,%2000-06-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-18-24,%2000-06-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Hearthfire]
 
 ---- 
 Alvin marries Peggy, and they conceive a daughter.
 Alvin, Verily Cooper, Arthur Stuart, and Mike Fink are joined by John James Audubon, a French-speaking painter of birds. This group ends up confronting the witch laws. Peggy has gone to the Crown Colonies in an attempt to free the slaves.
-Purity is introduced, a Puritan girl whose parents were hanged for their knacks, which are considered witchcraft by the Puritans.  Arthur tells her the story of their travels. Purity tells a local witcher, Quill, that they are witches. Quill intends to hang them as well as Purity.
+Purity is introduced, a Puritan girl whose parents were hanged for their knacks, which are considered witchcraft by the Puritans. Arthur tells her the story of their travels. Purity tells a local witcher, Quill, that they are witches. Quill intends to hang them as well as Purity.
 Alvin whisks away Arthur Stuart, Mike Fink, and Audubon by leading them into the greensong that lets them run hundreds of miles without tiring, but turning back without the others en route. Alvin gives himself up to the men sent to bring in the "witches" while Verily hides for the moment.
  At a trial, Verily makes a case for overturning the witchery laws. John Adams is sympathetic, but wants to avoid social instability. He suspends the licenses of witchers in New England for misconduct; it effectively ends the practice of witch trials while leaving the laws on the books.
 Calvin gets himself in serious trouble.
 ---- 
 
-|     | ![](Image%208-18-24,%2000-06-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-18-24,%2000-06-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Crystal City]
 
 ---- 
 Alvin and Arthur stay at a boarding house in which mixed-blood children are cared for. Alvin uses his knack. Dead Mary asks him to come with her and heal her mother. Alvin heals her, and yellow fever spreads throughout Nueva Barcelona averting an impending war with the United States over slavery. People begin to suspect Papa Moose and Mama Squirrel because Alvin's healing radiates outward through the city. Alvin is approached by La Tia to help all the slaves and the displaced French to escape.
-Calvin comes to help.  Alvin constructs a crystal bridge across Lake Ponchartrain. Arthur helps. Escapees flee north taking any slaves they find. Alvin goes to Tenskwa-Tawa to ask for safe passage. Alvin and Tenskwa-Tawa hold back the Mizzippy River to allow the people to cross. Calvin leaves with Jim Bowie and Steve Austin to conquer the Mexica. Verily seeks out Abe Lincoln for help with the runaways.
+Calvin comes to help. Alvin constructs a crystal bridge across Lake Ponchartrain. Arthur helps. Escapees flee north taking any slaves they find. Alvin goes to Tenskwa-Tawa to ask for safe passage. Alvin and Tenskwa-Tawa hold back the Mizzippy River to allow the people to cross. Calvin leaves with Jim Bowie and Steve Austin to conquer the Mexica. Verily seeks out Abe Lincoln for help with the runaways.
 Alvin discovers that Tenskwa-Tawa and La Tia are creating a volcanic eruption under the Mexica. Arthur initiates the eruption and warns, Calvin. Bowie and others leave with Arthur, using greensong. Lincoln and Cooper create a new county. Alvin starts building the crystal city that he saw in a vision. Calvin and Bowie arrive and decide to stay.
 
 # Patrick Rothfuss
-## The Name   
+## The Name 
 of the Wind
 
-|     | ![](Image%208-16-24,%2019-49.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-49.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Name of the Wind]
 
 ---- 
@@ -7912,11 +7912,11 @@ You may have heard of me.
 So begins a tale unequaled in fantasy literature—the story of a hero told in his own voice. It is a tale of sorrow, a tale of survival, a tale of one man’s search for meaning in his universe, and how that search, and the indomitable will that drove it, gave birth to a legend.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-49-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-49-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Wise Man's Fear]
 
 ---- 
@@ -7926,11 +7926,11 @@ So begins a tale told from his own point of view—a story unequaled in fantasy 
 All the while, Kvothe searches for answers, attempting to uncover the truth about the mysterious Amyr, the Chandrian, and the death of his parents. In The Wise Man's Fear, Kvothe takes his first steps on the path of the hero and learns how difficult life can be when a man becomes a legend in his own time.
 ---- 
 
-|     | ![](Image%208-18-24,%2011-00.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-18-24,%2011-00.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Narrow Road Between Desires]
 
 ---- 
@@ -7940,12 +7940,12 @@ The Narrow Road Between Desires is Bast's story. In it he traces the old ways of
 After all, what good is caution if it keeps him from danger and delight?
 ---- 
 
-|     | ![](Image%208-16-24,%2019-49-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[The Slow Regard  
+ ![](Image%208-16-24,%2019-49-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+[The Slow Regard 
 of Silent Things]
 
 ---- 
@@ -7956,11 +7956,11 @@ In this book, Patrick Rothfuss brings us into the world of one of The Kingkiller
 
 # Paul Tremblay
 
-|     | ![](Image%208-16-24,%2019-48.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-48.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Last Conversation]
 
 ---- 
@@ -7969,12 +7969,12 @@ Imagine you’ve woken up in an unfamiliar room with no memory of who you are, h
 
 # qntm
 
-|     | ![](Image%208-16-24,%2019-46.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[There is no   
+ ![](Image%208-16-24,%2019-46.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+[There is no 
 Antimemetics Division]
 
 ---- 
@@ -7984,12 +7984,12 @@ Antimemes are real. Think of any piece of information which you wouldn't share w
 # R Scott Baker
 ## Prince of Nothing
 
-|     | ![](Image%208-16-24,%2019-45.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[The Darkness   
+ ![](Image%208-16-24,%2019-45.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+[The Darkness 
 That Comes Before]
 
 ---- 
@@ -7997,11 +7997,11 @@ The first book in R. Scott Bakker's Prince of Nothing series introduces readers 
 Bakker’s Eärwa is a world scarred by an apocalyptic past, evoking a time both two thousand years past and two thousand years into the future. As untold thousands gather for a crusade, two men and two women are ensnared by a mysterious traveler, Anasûrimbor Kellhus—part warrior, part philosopher, part sorcerous, charismatic presence—from lands long thought dead. The Darkness That Comes Before is a history of this great holy war, and like all histories, the survivors write its conclusion.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-45-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-45-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Warrior Prophet]
 
 ---- 
@@ -8009,11 +8009,11 @@ The first battle against the heathen has been won, but while the Great Names squ
 Who is the Warrior-Prophet? A dangerous heretic who turns brother against brother? Or the only man who can avert the Second Apocalypse? With the fate of the Holy War hanging in the balance, the great powers will have to choose between their most desperate desires and their most ingrained prejudice. Between hatred and hope. Between the Warrior-Prophet and the end of the world.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-45-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-45-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Thousandfold Thought]
 
 ---- 
@@ -8024,12 +8024,12 @@ The final reckoning is at hand. Faceless assassins will strike in the dead of ni
 # R A Salvatore
 ## Chronicles of Inis Aielle
 
-|     | ![](Image%208-16-24,%2019-39.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[Echoes of the   
+ ![](Image%208-16-24,%2019-39.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+[Echoes of the 
 Fourth Magic]
 
 ---- 
@@ -8038,11 +8038,11 @@ Jeff "Del" DelGuidice was proud of his assignment to the research submarine The 
 Thus the Isle of Hope was raised from the poisoned seas and set like a jewel in Earth's ravaged crown. But the jewel had a flaw, a dark vein of evil. For a sinister expert of the mystical arts had embraced the forbidden third magic, the most deadly sorcery of all. Only Del could defeat it--a hero sworn to peace and fated to wield the dazzling power of the fourth magic.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-39-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-39-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Witch's Daughter]
 
 ---- 
@@ -8051,25 +8051,25 @@ Though many perished in the dark times past, a precious few survivors escaped, f
 Square in the path of peril was Rhiannon, the gently reared daughter of the Emerald Witch. As hamlets from the Crystal Mountains to Avalon fell before the fury of the Black Warlock, the young witch sensed a sudden call; strange, terrifying powers tingled within her body. Now Rhiannon had to summon these new, untested abilities to stop the ancient warlock, an enemy who had long since mastered the forces of the universe and bent them to his diabolical will. 
 ---- _
 
-|     | ![](Image%208-16-24,%2019-39-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-39-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Bastion of Darkness]
 
 ---- 
-Twice the combined might of Ynis Aielle's greatest heroes and wizards has hurled back the demon armies of Morgan Thalasi.  Always the Black Warlock has rebounded, stronger and more evil.  But never has he wielded such power as now.  With the Staff of Death, Thalasi can raise a new army from out of the very ground -- soldiers who cannot be killed because they are already dead.
-As the Black Warlock and his fearsome general -- the foul wraith that was once Hollis Mitchell -- prepares a devastating attack, the humans and elves of Ynis Aielle are staggered by a fresh calamity.  The beautiful Rhiannon, daughter of the Emerald Witch, has been captured by Mitchell and given over to his dark master.  Now the last hope of defeating Thalasi -- and Rhiannon's last hope as well -- lies at the heart of a mountain, guarded by a dragon as old as the world itself. 
+Twice the combined might of Ynis Aielle's greatest heroes and wizards has hurled back the demon armies of Morgan Thalasi. Always the Black Warlock has rebounded, stronger and more evil. But never has he wielded such power as now. With the Staff of Death, Thalasi can raise a new army from out of the very ground -- soldiers who cannot be killed because they are already dead.
+As the Black Warlock and his fearsome general -- the foul wraith that was once Hollis Mitchell -- prepares a devastating attack, the humans and elves of Ynis Aielle are staggered by a fresh calamity. The beautiful Rhiannon, daughter of the Emerald Witch, has been captured by Mitchell and given over to his dark master. Now the last hope of defeating Thalasi -- and Rhiannon's last hope as well -- lies at the heart of a mountain, guarded by a dragon as old as the world itself. 
 
 # Ramez Naam
 ## Nexus
 
-|     | ![](Image%208-16-24,%2019-37.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-37.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Nexus]
 
 ---- 
@@ -8078,11 +8078,11 @@ When a young scientist is caught improving Nexus, he's thrust over his head into
 From the halls of academe to the halls of power; from the headquarters of an elite agency in Washington DC to a secret lab beneath Shanghai; from the underground parties of San Francisco to the illegal biotech markets of Bangkok; from an international neuroscience conference to a remote monastery in the mountains of Thailand - Nexus is a thrill ride through a future on the brink of explosion.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-37-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-37-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Apex]
 
 ---- 
@@ -8091,11 +8091,11 @@ Against this backdrop, a new breed of post-human children are growing into their
 A new Apex species is here. The world will never be the same.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-37-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-37-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Crux]
 
 ---- 
@@ -8108,11 +8108,11 @@ The first blows in the war between human and posthuman have been struck. The wor
 
 # Rebecca Roanhorse
 
-|     | ![](Image%208-16-24,%2019-32.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-32.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Black Sun]
 
 ---- 
@@ -8125,12 +8125,12 @@ Meanwhile, a ship launches from a distant city bound for Tova and set to arrive 
 # Rebecca Thorne
 ## Tomes and Tea
 
-|     | ![](Image%208-17-24,%2012-16.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[Can't Spell Treason  
+ ![](Image%208-17-24,%2012-16.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+[Can't Spell Treason 
 Without Tea]
 
 ---- 
@@ -8139,12 +8139,12 @@ But after an assassin takes Reyna hostage, she decides she’s thoroughly done r
 What follows is a cozy tale of mishaps, mysteries, and a murderous queen throwing the realm’s biggest temper tantrum. In a story brimming with hurt/comfort and quiet fireside conversations, these two women will discover just what they mean to each other… and the world.
 ---- 
 
-|     | ![](Image%208-17-24,%2012-16-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[A Pirate's Life  
+ ![](Image%208-17-24,%2012-16-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+[A Pirate's Life 
 for Tea]
 
 ---- 
@@ -8154,11 +8154,11 @@ While Kianthe and Reyna watch this relation-shipwreck from afar, it quickly beco
 The dragon eggs may have to wait.
 ---- 
 
-|     | ![](Image%208-18-24,%2011-22.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-18-24,%2011-22.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Tea You at the Altar]
 
 ---- 
@@ -8167,11 +8167,11 @@ Between their baby dragons causing mayhem in Tawney, Kianthe's uptight parents i
 
 # Ren Hutchings
 
-|     | ![](Image%208-16-24,%2019-31.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-31.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Under Fortunate Stars]
 
 ---- 
@@ -8183,11 +8183,11 @@ But nothing else about Leesongronski and his crewmates seems to match up with th
 
 # Rich Larson
 
-|     | ![](Image%208-16-24,%2019-30.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-30.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Annex]
 
 ---- 
@@ -8198,11 +8198,11 @@ Except the invaders won't leave them alone for long.
 # Richard Phillips
 ## The Endarian Prophecy
 
-|     | ![](Image%208-16-24,%2019-29.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-29.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Mark of Fire]
 
 ---- 
@@ -8211,14 +8211,14 @@ Now, traversing the lawless western borderlands, Carol struggles to understand t
 
 # Robin Hobb
 ## Farseer Trilogy
-### (Realm of the   
+### (Realm of the 
 Elderlings 1-3)
 
-|     | ![](Image%208-16-24,%2019-19.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-19.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Assassin's Apprentice]
 
 ---- 
@@ -8226,11 +8226,11 @@ Young Fitz is the bastard son of the noble Prince Chivalry, raised in the shadow
 As barbarous raiders ravage the coasts, Fitz is growing to manhood. Soon he will face his first dangerous, soul-shattering mission. And though some regard him as a threat to the throne, he may just be the key to the survival of the kingdom.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-18.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-18.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Royal Assassin]
 
 ---- 
@@ -8238,11 +8238,11 @@ Fitz has barely survived his first hazardous mission as king’s assassin. Batte
 Renewing their vicious attacks on the coast, the Red-Ship Raiders leave burned-out villages and demented victims in their wake. The kingdom is also under assault from within, as treachery threatens the throne of the ailing king. In this time of great danger, the fate of the kingdom may rest in Fitz’s hands—and his role in its salvation may require the ultimate sacrifice.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-18-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-18-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Assassin's Quest]
 
 ---- 
@@ -8250,14 +8250,14 @@ King Shrewd is dead at the hands of his son Regal. As is Fitz—or so his enemie
 But Fitz will not wait. Driven by loss and bitter memories, he undertakes a quest: to kill Regal. The journey casts him into deep waters, as he discovers wild currents of magic within him—currents that will either drown him or make him something more than he was.
 ---- 
 ## Liveship Traders
-### (Realm of the   
+### (Realm of the 
 Elderlings 4-6)
 
-|     | ![](Image%208-16-24,%2019-22.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-22.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Ship of Magic]
 
 ---- 
@@ -8265,11 +8265,11 @@ Bingtown is a hub of exotic trade and home to a merchant nobility famed for its 
 For Althea Vestrit, the ship is her rightful legacy. For Althea’s young nephew, wrenched from his religious studies and forced to serve aboard the Vivacia, the ship is a life sentence. But the fate of the ship—and the Vestrits—may ultimately lie in the hands of an outsider: the ruthless buccaneer captain Kennit, who plans to seize power over the Pirate Isles by capturing a liveship and bending it to his will.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-22-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-22-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Mad Ship]
 
 ---- 
@@ -8277,11 +8277,11 @@ As the ancient tradition of Bingtown’s Old Traders slowly erodes under the col
 But the Vivacia has been seized by the ruthless pirate captain Kennit, who holds Althea’s nephew and his father hostage. Althea and her onetime sea mate Brashen resolve to liberate the liveship—but their plan may prove more dangerous than leaving the Vivacia in Kennit’s ambitious grasp.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-22-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-22-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Ship of Destiny]
 
 ---- 
@@ -8289,14 +8289,14 @@ As Bingtown slides toward disaster, clan matriarch Ronica Vestrit, branded a tra
 Bold though it is, Althea’s scheme may be in vain. For her beloved Vivacia will face the most terrible confrontation of all as the secret of the liveships is revealed. It is a truth so shattering, it may destroy the Vivacia and all who love her, including Althea’s nephew, whose life already hangs in the balance.
 ---- 
 ## Tawny Man
-### (Realm of the   
+### (Realm of the 
 Elderlings 7-9)
 
-|     | ![](Image%208-16-24,%2019-25.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-25.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Fool's Errand]
 
 ---- 
@@ -8304,11 +8304,11 @@ For fifteen years, FitzChivalry Farseer has lived in self-imposed exile, assumed
 Then comes the summons he cannot ignore. Prince Dutiful, the young heir to the Farseer throne, has vanished. Fitz, possessed of magical skills both royal and profane, is the only one who can retrieve him in time for his betrothal ceremony, thus sparing the Six Duchies profound political embarrassment . . . or worse. But even Fitz does not suspect the web of treachery that awaits him—or how his loyalties will be tested to the breaking point.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-25-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-25-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Golden Fool]
 
 ---- 
@@ -8316,11 +8316,11 @@ Prince Dutiful has been rescued from his Piebald kidnappers and the court has re
 Posing as a bodyguard, Fitz becomes the eyes and ears behind the walls, guiding a kingdom straying closer to civil strife each day. Amid a multitude of problems, Fitz must ensure that no one betrays the Prince’s secret: that he, like Fitz, possesses the dread “Beast Magic.” Only Fitz’s friendship with the Fool brings him solace. But even that is shattered when devastating revelations from the Fool’s past are exposed. Bereft of support and adrift in intrigue, Fitz finds that his biggest challenge may be simply to survive.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-26.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-26.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Fool's Fate]
 
 ---- 
@@ -8328,14 +8328,14 @@ FitzChivalry Farseer has become firmly ensconced in the queen’s court. Along w
 The Narcheska has set the prince an unfathomable task: to behead a dragon trapped in ice on the isle of Aslevjal. Yet not all the clans of the Out Islands support their effort. Are there darker forces at work behind Elliania’s demand? Knowing that the Fool has foretold he will die on the island of ice, Fitz plots to leave his dearest friend behind. But fate cannot so easily be defied.
 ---- 
 ## Rain Wilds Chronicles
-### (Realm of the   
+### (Realm of the 
 Elderlings 10-13)
 
-|     | ![](Image%208-16-24,%2019-23.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-23.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Dragon Keeper]
 
 ---- 
@@ -8345,11 +8345,11 @@ To ensure their safe passage, the Traders recruit a disparate group of young peo
 Embarking on an arduous journey that holds no promise of return, the band of humans and dragons must make their way along the toxic and inhospitable Rain Wild River—an extraordinary odyssey that will teach them lessons about themselves and one another, as they experience hardships, betrayals, and joys beyond their wildest dreams.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-23-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-23-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Dragon Haven]
 
 ---- 
@@ -8357,11 +8357,11 @@ Fifteen dragons have set off on a dangerous trek up the Rain Wild River, in hope
 As they forge ever deeper into uncharted wilderness, starvation, flashfloods, and predators imperil them all. But as dragons and humans alike soon learn, the most savage threats come from within their own company.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-23-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-23-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [City of Dragons]
 
 ---- 
@@ -8369,26 +8369,26 @@ Once dragons ruled the Rain Wilds, tended by privileged human servants known as 
 After a long and harsh journey, Kelsingra is finally near, on the far side of the toxic Rain Wild River. But the greatest trial still lies ahead for the dragons and their human keepers. Rapidly approaching enemies driven by wickedness, greed, and dark desires covet the treasures that await within the magical city's walls. And to reach their ancestral sanctuary, the dragons must reawaken a power lost to them generations earlier. The dragons must learn to fly.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-23-3.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-23-3.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Blood of the Dragons]
 
 ---- 
 The legendary dragon city of Kelsingra has been discovered. But most of the dragons now lack the strength for the final hazardous river crossing, and the mythical silver wells they need to survive are nowhere to be found. In a desperate attempt to unlock the whereabouts of the wells, the keepers risk "memory walking"—immersing themselves in the drug-like memories of long deceased Elderlings. The magic of the city and the final secret it conceals present their only chance of survival, not just for the queen dragon Tintaglia but for Malta and Reyn's infant Elderling son as well.
 To make matters worse, time is of the utmost importance. The Duke of Chalced has dispatched his forces to the Rain Wilds with a compelling mission: slaughter a dragon to stave off his own demise. The tide of history is about to turn on a life-and-death battle that will ultimately decide the dragons' fate. If they win, the regal serpents will rule the world once more. And if they lose, they will vanish from the world forever.
 ## Fitz and the Fool 
-### (Realm of the   
+### (Realm of the 
 Elderlings 14-16)
 ---- 
 
-|     | ![](Image%208-16-24,%2019-24.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-24.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Fools Assassin]
 
 ---- 
@@ -8397,11 +8397,11 @@ Though Fitz is haunted by the disappearance of the Fool, who did so much to shap
 Now, to protect his new life, the former assassin must once again take up his old one. 
 ---- 
 
-|     | ![](Image%208-16-24,%2019-24-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-24-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Fools Quest]
 
 ---- 
@@ -8411,11 +8411,11 @@ But FitzChivalry Farseer is not without weapons of his own. An ancient magic sti
 Now enemies and friends alike are about to learn that nothing is more dangerous than a man who has nothing left to lose.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-24-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-24-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Assassin's Fate]
 
 ---- 
@@ -8425,22 +8425,22 @@ For all his injuries, however, the Fool is not as helpless as he seems. He is a 
 ---- -
 ## Soldier Son
 
-|     | ![](Image%208-16-24,%2019-27.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-27.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Shaman's Crossing]
 
 ---- 
 Nevare Burvelle was destined from birth to be a soldier. The second son of a newly anointed nobleman, he must endure the rigors of military training at the elite King's Cavella Academy—and survive the hatred, cruelty, and derision of his aristocratic classmates—before joining the King of Gernia's brutal campaign of territorial expansion. The life chosen for him will be fraught with hardship, for he must ultimately face a forest-dwelling folk who will not submit easily to a king's tyranny. And they possess an ancient magic their would-be conquerors have long discounted—a powerful sorcery that threatens to claim Nevare Burvelle's soul and devastate his world once the Dark Evening brings the carnival to Old Thares.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-28.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-28.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Forest Mage]
 
 ---- 
@@ -8448,11 +8448,11 @@ Plague has ravaged the prestigious King's Cavalla of Gernia, decimating the rank
 But there is no haven in the bosom of his kinfolk, for his nights are haunted by grim visions of treachery—and his days are tormented by a strange side-effect of the plague that shames his family and repulses the lady of his heart. And as the still-potent magic in his blood roars to life, Nevare realizes a terrible truth: that the enemy who seeks to destroy everything he loves dwells perhaps not without but within him.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-27-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-27-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Renegade Magic]
 
 ---- 
@@ -8461,11 +8461,11 @@ Loyal, privileged, and brave—a soldier in the service of the King of Gernia—
 # Robin Sloan
 ## Penumbra
 
-|     | ![](Image%208-16-24,%2019-17.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-17.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Mr. Penumbra's 24 Hour Bookstore]
 
 ---- 
@@ -8473,11 +8473,11 @@ The Great Recession has shuffled Clay Jannon out of his life as a San Francisco 
 With irresistible brio and dazzling intelligence, Robin Sloan has crafted a literary adventure story for the twenty-first century, evoking both the fairy-tale charm of Haruki Murakami and the enthusiastic novel-of-ideas wizardry of Neal Stephenson or a young Umberto Eco, but with a unique and feisty sensibility that's rare to the world of literary fiction. Mr. Penumbra's 24-Hour Bookstore is exactly what it sounds like: an establishment you have to enter and will never want to leave, a modern-day cabinet of wonders ready to give a jolt of energy to every curious reader, no matter the time of day.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-17-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-17-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Ajax Penumbra 1969]
 
 ---- 
@@ -8486,11 +8486,11 @@ But young Ajax Penumbra has not arrived in San Francisco looking for free love o
 
 # Ruth Ozeki
 
-|     | ![](Image%208-16-24,%2019-15.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-15.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [A Tale for the Time Being]
 
 ---- 
@@ -8499,11 +8499,11 @@ Full of Ozeki’s signature humor and deeply engaged with the relationship betwe
 
 # Ruthanna Emrys
 
-|     | ![](Image%208-16-24,%2019-14.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-14.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [A Half-Built Garden]
 
 ---- 
@@ -8513,11 +8513,11 @@ Now corporations, nation-states, and networks all vie to represent humanity to t
 
 # Ryka Aoki
 
-|     | ![](Image%208-16-24,%2019-13.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-13.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [A Light From Uncommon Stars]
 
 Shizuka Satomi made a deal with the devil: to escape damnation, she must entice seven other violin prodigies to trade their souls for success. She has already delivered six. 
@@ -8527,11 +8527,11 @@ As the lives of these three women become entangled by chance and fate, a story o
 
 # Sangu Wandanna
 
-|     | ![](Image%208-16-24,%2019-12.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-12.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Secret Society of Irregular Witches]
 
 As one of the few witches in Britain, Mika Moon knows she has to hide her magic, keep her head down, and stay away from other witches so their powers don’t mingle and draw attention. And as an orphan who lost her parents at a young age and was raised by strangers, she’s used to being alone and she follows the rules...with one exception: an online account, where she posts videos "pretending" to be a witch. She thinks no one will take it seriously.
@@ -8541,11 +8541,11 @@ As Mika begins to find her place at Nowhere House, the thought of belonging some
 # Seanan McGuire
 ## Wayward Children
 
-|     | ![](Image%208-16-24,%2019-11.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-11.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Every Heart a Doorway]
 
 ---- _
@@ -8560,11 +8560,11 @@ But Nancy's arrival marks a change at the Home. There's a darkness just around e
 No matter the cost.
 ---- 
 
-|     | ![](Image%208-18-24,%2014-56.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-18-24,%2014-56.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Down Among the Sticks and Bones]
 
 ---- 
@@ -8577,11 +8577,11 @@ They were twelve when they walked down the impossible staircase and discovered t
 
 # Stephen Baxter
 
-|     | ![](Image%208-16-24,%2019-10.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-10.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Galaxias]
 
 ---- 
@@ -8593,11 +8593,11 @@ Someone has sent us a sign.
 
 ## World Engines
 
-|     | ![](Image%208-16-24,%2019-10-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-10-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Destroyer]
 
 ---- _
@@ -8610,11 +8610,11 @@ His culture-shock encounter with a conservative future is entertaining....
 But the Kernel itself turns out to be attached to a kind of wormhole, through which Malenfant and Emma II, exploring further, plummet back in time, across five billion years.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-10-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-10-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Creator]
 
 ---- 
@@ -8624,11 +8624,11 @@ Malenfant, Deidra and the rest of their party must find a way off the planet, ba
 
 # T Kingfisher
 
-|     | ![](Image%208-16-24,%2019-05.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-05.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [A House With Good Bones]
 
 ---- 
@@ -8638,11 +8638,11 @@ She brushes the thought away as she climbs the front steps. Sam's excited for th
 But stepping inside, she quickly realizes home isn’t what it used to be. Gone is the warm, cluttered charm her mom is known for; now the walls are painted a sterile white. Her mom jumps at the smallest noises and looks over her shoulder even when she’s the only person in the room. And when Sam steps out back to clear her head, she finds a jar of teeth hidden beneath the magazine-worthy rose bushes, and vultures are circling the garden from above.
 To find out what’s got her mom so frightened in her own home, Sam will go digging for the truth. But some secrets are better left buried.
 
-|     | ![](minor_mage.jpeg) |     |
-| --- | -------------------- | --- |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
+ ![](minor_mage.jpeg) 
+ --- -------------------- --- 
+ 
+ 
+ 
 [Minor Mage]
 
 ---- 
@@ -8651,11 +8651,11 @@ His attempts to summon elementals resulted in nosebleeds, and there is nothing m
 He was a very minor mage. Unfortunately, he was all they had.
 ---- 
 
-|     | ![](minor_mage-1.jpeg) |     |
-| --- | ---------------------- | --- |
-|     |                        |     |
-|     |                        |     |
-|     |                        |     |
+ ![](minor_mage-1.jpeg) 
+ --- ---------------------- --- 
+ 
+ 
+ 
 [A Wizard’s Guide to Defensive Baking]
 
 ---- 
@@ -8663,11 +8663,11 @@ Fourteen-year-old Mona isn't like the wizards charged with defending the city. S
 But Mona's life is turned upside down when she finds a dead body on the bakery floor. An assassin is stalking the streets of Mona's city, preying on magic folk, and it appears that Mona is his next target. And in an embattled city suddenly bereft of wizards, the assassin may be the least of Mona's worries.
 ---- 
 
-|     | ![](thornhedge.jpeg) |     |
-| --- | -------------------- | --- |
-|     |                      |     |
-|     |                      |     |
-|     |                      |     |
+ ![](thornhedge.jpeg) 
+ --- -------------------- --- 
+ 
+ 
+ 
 [Thorn Hedge]
 
 ---- 
@@ -8675,15 +8675,15 @@ There's a princess trapped in a tower. This isn't her story.
 Meet Toadling. On the day of her birth, she was stolen from her family by the fairies, but she grew up safe and loved in the warm waters of faerieland. Once an adult though, the fae ask a favor of Toadling: return to the human world and offer a blessing of protection to a newborn child. Simple, right?
 But nothing with fairies is ever simple.
 Centuries later, a knight approaches a towering wall of brambles, where the thorns are as thick as your arm and as sharp as swords. He's heard there's a curse here that needs breaking, but it's a curse Toadling will do anything to uphold…
-## The World of   
+## The World of 
 the White Rat
 ### Clocktaur War
 
-|     | ![](Image%208-16-24,%2019-07.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-07.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Clockwork Boys]
 
 ---- 
@@ -8691,11 +8691,11 @@ A paladin, an assassin, a forger, and a scholar ride out of town. It's not the s
 If they succeed, rewards and pardons await, but that requires a long journey through enemy territory, directly into the capital. It also requires them to refrain from killing each other along the way! At turns darkly comic and touching, Clockwork Boys puts together a broken group of people trying to make the most of the rest of their lives as they drive forward on their suicide mission.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-07-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-07-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Wonder Engines]
 
 ---- 
@@ -8703,11 +8703,11 @@ In the sequel to Clockwork Boys, Slate, Brenner, Caliban and Learned Edmund have
 Old foes and consequences of past decisions lurk in the shadows. Every team member's skills are required to succeed - even more so if they hope to survive.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-07-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-07-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Swordheart]
 
 ---- 
@@ -8715,11 +8715,11 @@ Halla is a housekeeper who has suddenly inherited her great-uncle's estate and, 
 ---- 
 ### The Saint of Steel
 
-|     | ![](Image%208-16-24,%2019-08.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-08.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Paladin’s Grace]
 
 ---- 
@@ -8728,11 +8728,11 @@ Three years later, Stephen is a broken paladin, living only for the chance to be
 From the Hugo and Nebula Award winning author of Swordheart and The Twisted Ones comes a saga of murder, magic, and love on the far side of despair.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-08-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-08-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Paladin’s Strength]
 
 ---- 
@@ -8740,11 +8740,11 @@ He’s a paladin of a dead god, tracking a supernatural killer across a continen
 When their paths cross at the point of a sword, Istvhan and Clara will be pitched headlong into each other’s quests, facing off against enemies both living and dead. But Clara has a secret that could jeopardize the growing trust between them, a secret that will lead them to the gladiatorial pits of a corrupt city, and beyond.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-09.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-09.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Paladin’s Hope]
 
 ---- 
@@ -8753,11 +8753,11 @@ Galen is a paladin of a dead god, lost to holiness and no longer entirely sane. 
 He’s just not sure if he can protect Piper from the most dangerous threat of all.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-09-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-09-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Paladin’s Faith]
 
 ---- 
@@ -8769,11 +8769,11 @@ Note: None of these blubs describe the Gnoles. Wtf? Job-Gnoles. Grave Gnoles. Ra
 # Tade Thompson
 ## Rosewater
 
-|     | ![](Image%208-16-24,%2019-03.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-03.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Rosewater]
 
 ---- 
@@ -8781,11 +8781,11 @@ Rosewater is a town on the edge. A community formed around the edges of a myster
 Kaaro is a government agent with a criminal past. He has seen inside the biodome, and doesn't care to again -- but when something begins killing off others like himself, Kaaro must defy his masters to search for an answer, facing his dark history and coming to a realization about a horrifying future.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-03-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-03-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Rosewater Insurrection]
 
 ---- 
@@ -8793,11 +8793,11 @@ All is quiet in the city of Rosewater as it expands on the back of the gargantua
 The government agent Aminat, the lover of the retired sensitive Kaaro, is at the forefront of the cold, silent conflict. She must capture a woman who is the key to the survival of the human race. But Aminat is stymied by the machinations of the Mayor of Rosewater and the emergence of an old enemy of Wormwood.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-03-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-03-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Rosewater Redemption]
 
 ---- 
@@ -8807,11 +8807,11 @@ Operating across spacetime, the xenosphere, and international borders, it is up 
 
 # Ted Chiang
 
-|     | ![](Image%208-16-24,%2019-02.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-02.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Exhilation]
 
 ---- 
@@ -8821,11 +8821,11 @@ In “The Merchant and the Alchemist’s Gate,” a portal through time forces a
 
 # T J Klune
 
-|     | ![](Image%208-16-24,%2019-00.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2019-00.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Under the Whispering Door]
 
 ---- 
@@ -8836,12 +8836,12 @@ Hilarious, haunting, and kind, Under the Whispering Door is an uplifting story a
 ---- 
 ## Cerulean
 
-|     | ![](Image%208-16-24,%2019-00-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[The House in   
+ ![](Image%208-16-24,%2019-00-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+[The House in 
 the Cerulean Sea]
 
 ---- 
@@ -8850,11 +8850,11 @@ Arthur Parnassus is the master of the orphanage. He would do anything to keep th
 The House in the Cerulean Sea is an enchanting love story, masterfully told, about the profound experience of discovering an unlikely family in an unexpected place—and realizing that family is yours.
 ---- 
 
-|     | ![](Image%208-16-24,%2019-00-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2019-00-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Somewhere Beyond the Sea]
 
 ---- 
@@ -8870,11 +8870,11 @@ Somewhere Beyond the Sea is a story of resistance, lovingly told, about the daun
 # Tomi Adeyemi
 ## Legacy of Orisha
 
-|     | ![](Image%208-16-24,%2018-58.png) |     |
-| --- | --------------------------------- | --- |
-|     |                                   |     |
-|     |                                   |     |
-|     |                                   |     |
+ ![](Image%208-16-24,%2018-58.png) 
+ --- --------------------------------- --- 
+ 
+ 
+ 
 [Children of Blood and Bone]
 
 ---- 
@@ -8888,11 +8888,11 @@ Now Zélie has one chance to bring back magic and strike against the monarchy. W
 Danger lurks in Orïsha, where snow leoponaires prowl and vengeful spirits wait in the waters. Yet the greatest danger may be Zélie herself as she struggles to control her powers and her growing feelings for an enemy.
 ---- 
 
-|     | ![](Image%208-16-24,%2018-58.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2018-58.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Children of Virtue and Vengance]
 
 ---- 
@@ -8902,12 +8902,12 @@ With civil war looming on the horizon, Zélie finds herself at a breaking point:
 Children of Virtue and Vengeance is the stunning sequel to Tomi Adeyemi's New York Times bestselling debut Children of Blood and Bone, the first title in her Legacy of Orïsha trilogy.
 ---- 
 
-|     | ![](Image%208-16-24,%2018-58-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[Children of   
+ ![](Image%208-16-24,%2018-58-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+[Children of 
 Anguish and Anarchy]
 
 ---- 
@@ -8922,11 +8922,11 @@ But as Baldyr closes in, catastrophe charges Orïsha’s shores. It will take ev
 # Travis Baldree
 ## Legends and Lattes
 
-|     | ![](Image%208-16-24,%2018-57.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2018-57.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Legends and Lattes]
 
 ---- 
@@ -8936,11 +8936,11 @@ If Viv wants to put the blade behind her and make her plans a reality, she won't
 But the true rewards of the uncharted path are the travelers you meet along the way. And whether drawn together by ancient magic, flaky pastry, or a freshly brewed cup, they may become partners, family, and something deeper than she ever could have dreamed.
 ---- 
 
-|     | ![](Image%208-16-24,%2018-57-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2018-57-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Bookshops and Bonedust]
 
 ---- 
@@ -8953,11 +8953,11 @@ Still, adventure isn't all that far away. A suspicious traveler in gray, a gnome
 # Ursula K LeGuin
 ## Earthsea Cycle
 
-|     | ![](Image%208-16-24,%2018-55.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2018-55.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Wizard of Earthsea]
 
 ---- 
@@ -8965,11 +8965,11 @@ Ged was the greatest sorcerer in Earthsea, but in his youth he was the reckless 
 This is the tumultuous tale of his testing, how he mastered the mighty words of power, tamed an ancient dragon, and crossed death's threshold to restore the balance.
 ---- 
 
-|     | ![](Image%208-18-24,%2015-40.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-18-24,%2015-40.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Tombs of Atuan]
 
 ---- 
@@ -8977,11 +8977,11 @@ In this second novel in the Earthsea series, Tenar is chosen as high priestess t
 Then a wizard, Ged Sparrowhawk, comes to steal the Tombs’ greatest hidden treasure, the Ring of Erreth-Akbe. Tenar’s duty is to protect the Ring, but Ged possesses the light of magic and tales of a world that Tenar has never known. Will Tenar risk everything to escape from the darkness that has become her domain?
 ---- 
 
-|     | ![](Image%208-18-24,%2015-40-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-18-24,%2015-40-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Farthest Shore]
 
 ---- 
@@ -8989,21 +8989,21 @@ In this third book in the Earthsea series, darkness threatens to overtake Earths
 Aided by Enlad’s young Prince Arren, Ged embarks on a treacherous journey that will test their strength and will. Because to restore magic, the two warriors must venture to the farthest reaches of their world—and even beyond the realm of death.
 ---- 
 
-|     | ![](Image%208-18-24,%2015-40-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-18-24,%2015-40-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Tehanu]
 
 ---- 
 In this fourth novel in the Earthsea series, we rejoin the young priestess the Tenar and powerful wizard Ged. Years before, they had helped each other at a time of darkness and danger. Together, they shared an adventure like no other. Tenar has since embraced the simple pleasures of an ordinary life, while Ged mourns the powers lost to him through no choice of his own.
-   Now the two must join forces again and help another in need—the physically, emotionally scarred child whose own destiny has yet to be revealed.
-----  
+ Now the two must join forces again and help another in need—the physically, emotionally scarred child whose own destiny has yet to be revealed.
+---- 
 
-|     | ![](Image%208-18-24,%2015-40-3.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
+ ![](Image%208-18-24,%2015-40-3.jpeg) 
+ --- ------------------------------------ --- 
+ 
 [Tales from Earthsea]
 
 ---- 
@@ -9020,11 +9020,11 @@ In this fourth novel in the Earthsea series, we rejoin the young priestess the T
 ### maps and history
 ---- 
 
-|     | ![](Image%208-18-24,%2015-40-4.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-18-24,%2015-40-4.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [The Other Wind]
 
 ---- 
@@ -9035,22 +9035,22 @@ With stories as perennial and universally beloved as The Chronicles of Narnia an
 ---- 
 ## Hainish Cycle
 
-|     | ![](Image%208-18-24,%2016-34.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-18-24,%2016-34.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Rocannon’s World]
 
 ---- 
 A world shared by three native humanoid races - the cavern-dwelling Gdemiar, elvish Fiia, and warrior clan, Liuar - is suddenly invaded and conquered by a fleet of ships from the stars. Earth scientist Rocannon is on that world, and he sees his friends murdered and his spaceship destroyed. Marooned among alien peoples, he leads the battle to free this new world - and finds that legends grow around him even as he fights.
 ---- 
 
-|     | ![](Image%208-18-24,%2016-36.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-18-24,%2016-36.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Planet of Exile]
 
 ---- 
@@ -9059,11 +9059,11 @@ The lonely & dwindling human settlement is beginning to feel the strain. Every w
 But hilfs & farborns have common enemies: the hordes of ravaging barbarians called gaals & eerie preying snow ghouls. Will they join forces or be annihilated?
 ---- 
 
-|     | ![](Image%208-18-24,%2016-37.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-18-24,%2016-37.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [City of Illusions]
 
 ---- 
@@ -9073,34 +9073,34 @@ The forest people took him in and raised him almost as a child, teaching him to 
 There he would find his true self ... and a universe of danger.
 ---- 
 
-|     | ![](Image%208-18-24,%2016-14.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-18-24,%2016-14.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Left Hand of Darkness]
 
 ---- 
 A groundbreaking work of science fiction, The Left Hand of Darkness tells the story of a lone human emissary to Winter, an alien world whose inhabitants can change their gender. His goal is to facilitate Winter's inclusion in a growing intergalactic civilization. But to do so he must bridge the gulf between his own views and those of the completely dissimilar culture that he encounters. Embracing the aspects of psychology, society, and human emotion on an alien world, The Left Hand of Darkness stands as a landmark achievement in the annals of intellectual science fiction.
 ---- 
 
-|     | ![](Image%208-18-24,%2016-24.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-18-24,%2016-24.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Word for World is Forest]
 
 ---- 
 On the planet Atsche, the cycle of life, culture, customs, mental processes are born and developed in the autonomous stability of the cosmos, but the arrival of a terrestrial expedition will dramatically change the peaceful way of life of the planet’s natives.
 ---- 
 
-|     | ![](Image%208-16-24,%2018-55-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[The Dispossessed:  
+ ![](Image%208-16-24,%2018-55-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+[The Dispossessed: 
 An Ambiguous Utopia]
 
 ---- 
@@ -9108,11 +9108,11 @@ An Ambiguous Utopia]
 Shevek is brilliant scientist who is attempting to find a new theory of time - but there are those who are jealous of his work, and will do anything to block him. So he leaves his homeland, hoping to find a place of more liberty and tolerance. Initially feted, Shevek soon finds himself being used as a pawn in a deadly political game.
 ---- 
 
-|     | ![](Image%208-18-24,%2016-30.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-18-24,%2016-30.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Telling]
 
 ---- 
@@ -9120,12 +9120,12 @@ Once a culturally rich world, the planet Aka has been utterly transformed by tec
 They still believe in the ancient ways and still practice its lost religion—the Telling. Intrigued by their beliefs, Sutty joins them on a sacred pilgrimage into the mountains … and into the dangerous terrain of her own heart, mind, and soul.
 ---- 
 
-|     | ![](Image%208-18-24,%2016-56.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[Five Ways   
+ ![](Image%208-18-24,%2016-56.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+[Five Ways 
 to Forgiveness]
 
 ---- 
@@ -9138,12 +9138,12 @@ Joined to them is “Old Music and the Slave Women,” in which the charismatic 
 
 # V E Schwab
 
-|     | ![](051caa909a7248d0b23cbfb81658b79a.jpeg) |     |
-| --- | ------------------------------------------ | --- |
-|     |                                            |     |
-|     |                                            |     |
-|     |                                            |     |
-[The Invisible Life   
+ ![](051caa909a7248d0b23cbfb81658b79a.jpeg) 
+ --- ------------------------------------------ --- 
+ 
+ 
+ 
+[The Invisible Life 
 of Addie LaRue]
 
 ---- 
@@ -9153,11 +9153,11 @@ But everything changes when, after nearly 300 years, Addie stumbles across a you
 
 # Veronica Roth
 
-|     | ![](Image%208-16-24,%2018-52.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2018-52.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Ark]
 
 ---- 
@@ -9167,11 +9167,11 @@ As certain doom hurtles nearer, the unexpected and beautiful potential for the f
 
 # Victor Lavelle
 
-|     | ![](Image%208-16-24,%2018-52-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-16-24,%2018-52-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [We Travel The Spaceways]
 
 ---- 
@@ -9181,12 +9181,12 @@ Grimace is a homeless man on a holy mission to free Black Americans from emotion
 # Victoria Goddard
 ## The Nine Worlds
 
-|     | ![](Image%208-20-24,%2021-09.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[Aurelius (to be   
+ ![](Image%208-20-24,%2021-09.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+[Aurelius (to be 
 called) Magnus]
 
 ---- 
@@ -9198,11 +9198,11 @@ Until now.
 ---- 
 ### Lays of the Hearthfire
 
-|     | ![](Image%208-15-24,%2016-20.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-15-24,%2016-20.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Hands of the Emperor]
 
 ---- 
@@ -9213,12 +9213,12 @@ Cliopher Mdang is the personal secretary of the Last Emperor of Astandalas, the 
 One day Cliopher invites the Sun-on-Earth home to the proverbially remote Vangavaye-ve for a holiday. The mere invitation could have seen Cliopher executed for blasphemy. The acceptance upends the world.
 ---- 
 
-|     | ![](Image%208-15-24,%2016-20-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[At the Feet   
+ ![](Image%208-15-24,%2016-20-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+[At the Feet 
 of the Sun]
 
 ---- 
@@ -9228,11 +9228,11 @@ All he has to do is wait patiently for his lord's return... until adventure quit
 Cliopher has always followed the stars of his chosen course: the epic oral histories of his people, the poetry of the rebel poet Fitzroy Angursell, decades of devotion and service to his Radiancy... They were enough to change the world. But are they enough to guide Cliopher home?
 ---- 
 
-|     | ![](Image%208-19-24,%2008-38.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-19-24,%2008-38.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Petty Treasons (novella)]
 
 ---- 
@@ -9241,11 +9241,11 @@ It has been three years since he woke from a magical coma caused by the collapse
 Enter Cliopher sayo Mdang, Fifth Degree Secretary of the Imperial Bureaucratic Service, and to everyone's surprise the apocalypse … ends.
 ---- 
 
-|     | ![](Image%208-20-24,%2020-25.webp) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-20-24,%2020-25.webp) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Game of Courts]
 
 ---- 
@@ -9253,12 +9253,12 @@ The Cavalier Conju enazo Argellian an Vilius--Conju to his friends, or he would 
 Until the Emperor woke up. At which point Conju wondered whether he might conceivably want to consider the other options. Even if cataloguing storerooms is a bit of a pain when you don't actually know what anything is. Sadly, neither perfumery nor fashion are particularly useful skills after a magical apocalypse. Unless you can finesse your way into attending said Emperor, that is.
 ---- 
 
-|     | ![](Image%208-20-24,%2020-26.webp) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[Portrait of a   
+ ![](Image%208-20-24,%2020-26.webp) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+[Portrait of a 
 Wide Seas Islander (novella)]
 
 ---- 
@@ -9270,12 +9270,12 @@ Of course, the simplest solution to Tovo’s doubts is to go and see for himself
 Someone always leaves, after all, even to the other side of the world.
 ---- 
 
-|     | ![](Image%208-20-24,%2020-29.webp) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[Those Who Hold   
+ ![](Image%208-20-24,%2020-29.webp) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+[Those Who Hold 
 the Fire (story)]
 
 ---- 
@@ -9283,12 +9283,12 @@ The tanà holds the fire of the community. Thirteen-year-old Kip's always felt a
 ---- 
 ## The Red Company Reformed
 
-|     | ![](Image%208-19-24,%2008-38-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[The Return of  
+ ![](Image%208-19-24,%2008-38-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+[The Return of 
 Fitzroy Angersell]
 
 ---- 
@@ -9298,11 +9298,11 @@ But Artorin Damara has a great secret, which he has kept hidden since before he 
 Another part of it is that his true name is not actually the one that everyone knows him by,
 ---- 
 
-|     | ![](Image%208-20-24,%2020-32.webp) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-20-24,%2020-32.webp) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Redoubtable Pali Avramapul]
 
 ---- 
@@ -9314,11 +9314,11 @@ She’s not very upset when she finds one or two of her old friends and it turns
 There’s respectable, after all, and then there’s respectable.
 ## Greenwing and Dart
 
-|     | ![](Image%208-19-24,%2008-57.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-19-24,%2008-57.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Clary Sage (novella)]
 
 ---- 
@@ -9328,23 +9328,23 @@ Theoretically.
 At some point he’ll have to write them.
 ---- 
 
-|     | ![](Image%208-19-24,%2008-55.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-19-24,%2008-55.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Traveler’s Joy (story)]
 
 ---- 
 Hal's university career ends quite satisfactorily for himself, but with heartbreak, drama, and painful ignominy for his best friend Jemis. Nevertheless, Hal stood with Jemis when academic argument turned violent, and he'll stand with him now as he finds his feet again.
 ---- 
 
-|     | ![](Image%208-19-24,%2008-40.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[Stone Speaks to   
+ ![](Image%208-19-24,%2008-40.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+[Stone Speaks to 
 Stone (story)]
 
 ---- 
@@ -9353,11 +9353,11 @@ At Loe, where the Stone Speakers can call down avalanches and landslides, he was
 He once held a border until the rest of his army joined him: nothing will stop him from attempting a rescue, though snow is falling in the mountains and he must fight those who can walk through stone.
 ---- 
 
-|     | ![](Image%208-19-24,%2008-54.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-19-24,%2008-54.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Stargazy Pie]
 
 ---- 
@@ -9369,11 +9369,11 @@ Unfortunately for his reputation, though fortunately for several other people, h
 Jemis expected the cut direct. The secret societies, criminal gangs, and illegal cult to the old gods--to say nothing of the mermaid--come as a complete surprise.
 ---- 
 
-|     | ![](Image%208-19-24,%2008-57-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-19-24,%2008-57-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Bee Sting Cake]
 
 ---- 
@@ -9386,11 +9386,11 @@ The odds on his placing are remarkably high—but the real bets are whether he m
 Lost heirs. Botanizing dukes. Riddling dragons. High Gothic melodrama. And all that’s just to get his name in the race. 
 ---- 
 
-|     | ![](Image%208-19-24,%2008-56.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-19-24,%2008-56.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Whiskeyjack]
 
 ---- 
@@ -9403,27 +9403,27 @@ Of one of the greatest folk heroes of legend.
 Trained to be a politically radical gentleman-of-leisure, Jemis thought he was doing fairly well as a bookstore clerk. That, of course, is before he ends up on the run in the Arguty Forest confronting highwaymen, illegal distillers, the odd relation, and the Wild Saint—not to mention the secrets a town truly committed to being infamously dull can hold. 
 ---- 
 
-|     | ![](Image%208-19-24,%2008-56-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-19-24,%2008-56-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Blackcurrant Fool]
 
 ---- 
 Magic is out of fashion.
 Orio City is where that's decided.
-When his best friend Mr. Dart unexpectedly needs to make an urgent trip to Orio City, Jemis Greenwing's immediate response to ask when.  He's willing to make up to his grandmother so she will lend them her falarode, he's willing to offer to run the errands of half the barony, and he's certainly willing to spend a week or so away from the gossips of Ragnor Bella.
-It's such a pity that Jemis and Mr. Dart are more than halfway to Orio City before Jemis remembers that his vindictive ex-lover Lark is a rising star in the criminal courts of Orio City.  It's an even greater pity when they realize just what her new position is in the legally instituted court there.
+When his best friend Mr. Dart unexpectedly needs to make an urgent trip to Orio City, Jemis Greenwing's immediate response to ask when. He's willing to make up to his grandmother so she will lend them her falarode, he's willing to offer to run the errands of half the barony, and he's certainly willing to spend a week or so away from the gossips of Ragnor Bella.
+It's such a pity that Jemis and Mr. Dart are more than halfway to Orio City before Jemis remembers that his vindictive ex-lover Lark is a rising star in the criminal courts of Orio City. It's an even greater pity when they realize just what her new position is in the legally instituted court there.
 What with the dragon Jemis slayed a month ago, his consequent ascension to the position of Viscount St-Noire, and his father's very recent second return from the dead, to say nothing of that still-famous play from the summer, Three Years Gone: the Tragicomedy of the Traitor of Loe, it's really too much to hope for that Jemis will be able to spend even three days in the old capital incognito.
 University students. Bear baiting. Unexpected relations. Wild magic. Literary criticism. Kittens. And always that whisper from the highwaymen of the Arguty Forest that someone's death is on the line.
 ---- 
 
-|     | ![](Image%208-19-24,%2008-56-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-19-24,%2008-56-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Love-in-a-Mist]
 
 ---- 
@@ -9434,11 +9434,11 @@ A sudden blizzard drives Jemis and his friends to seek refuge in an eccentric co
 Blizzards. Unicorns. Ciphers. Noblesse oblige. A budding romance. And that's before the murder.
 ---- 
 
-|     | ![](Image%208-19-24,%2008-55-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-19-24,%2008-55-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [Plum Duff]
 
 ---- 
@@ -9450,12 +9450,12 @@ Then the fairy fox shows up.
 Wild magic. Family secrets. Gifts from unknown admirers. Sainthood. And that's before the pageant.
 ---- 
 
-|     | ![](Image%208-20-24,%2020-21.webp) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[The Saint of   
+ ![](Image%208-20-24,%2020-21.webp) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+[The Saint of 
 the Bookstore (story)]
 
 ---- 
@@ -9464,12 +9464,12 @@ This story takes place after Plum Duff and does contain references to events fro
 ---- 
 ## The Sisters Avrampul
 
-|     | ![](Image%208-20-24,%2020-51.webp) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[The  Bride of the   
+ ![](Image%208-20-24,%2020-51.webp) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+[The Bride of the 
 Blue Wind (story)]
 
 ---- 
@@ -9477,11 +9477,11 @@ A longish short story for the winter holidays! Early in the new year, Sister Mir
 This story takes place after Plum Duff and does contain references to events from earlier in Greenwing & Dart. However, it's also a good entry point to the series--a taster, rather like at the grocery store ...
 ---- 
 
-|     | ![](Image%208-20-24,%2020-53.webp) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-20-24,%2020-53.webp) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Warrior of the Third Veil]
 
 ---- 
@@ -9490,12 +9490,12 @@ She walks veiled and silent, as befits one who is rumoured to be the widow of a 
 Sardeet's sister Pali, however, knows that this is true--and that there are consequences.
 ---- 
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-[The Weaver of  
+ 
+ --- --- --- 
+ 
+ 
+ 
+[The Weaver of 
 the Middle Desert]
 
 ---- 
@@ -9503,61 +9503,61 @@ Not yet published.
 ---- 
 ### Tales of the Red Company
 
-|     | ![](Image%208-20-24,%2021-03.webp) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[The Tower at the   
+ ![](Image%208-20-24,%2021-03.webp) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+[The Tower at the 
 Edge of the World]
 
 ---- 
 ---- 
 
-|     | ![](Image%208-20-24,%2021-03-1.webp) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-20-24,%2021-03-1.webp) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
 [In the Company of Gentlemen]
 
 ---- 
 ---- 
 
-|     | ![](Image%208-20-24,%2021-04.webp) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-20-24,%2021-04.webp) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Derring-Do for Beginners]
 
 ---- 
 ---- 
 ### Tales from Ysthar
 
-|     | ![](Image%208-20-24,%2021-04-1.webp) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[Till Human Voices   
+ ![](Image%208-20-24,%2021-04-1.webp) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+[Till Human Voices 
 Wake Us]
 
 ---- 
 ---- 
-Behind the corners of our world, there is magic.  As the Lord of Ysthar, Raphael is responsible for it.
+Behind the corners of our world, there is magic. As the Lord of Ysthar, Raphael is responsible for it.
 An honest man, his lies are legion. An infamous recluse, his social circle includes Scheherezade, Shakespeare, and the Crown Prince of Faerie. He is a great mage to his enemies, a movie star to strangers, and a hundred mostly boring pseudonymous half-lives to history. He is dutifully trying to prevent the end of the world when his long-lost twin brother Kasian gate-crashes his life.
 Raphael is prepared to sacrifice his soul, his reputation, and his crown to save his beloved Ysthar. Saving himself is another matter entirely.
 There is magic. It's not enough.
 ---- 
 ---- 
 
-|     | ![](Image%208-20-24,%2021-04-2.webp) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-[In the Realms of   
+ ![](Image%208-20-24,%2021-04-2.webp) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+[In the Realms of 
 Gold (5 stories)]
 
 ---- 
@@ -9570,11 +9570,11 @@ Inkebarrow: William Shakespeare takes a wrong turn going beyond the fields he kn
 ---- 
 ---- 
 
-|     | ![](Image%208-20-24,%2021-06.webp) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-20-24,%2021-06.webp) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [The Glassblower]
 
 ---- 
@@ -9583,11 +9583,11 @@ Inkebarrow: William Shakespeare takes a wrong turn going beyond the fields he kn
 ---- 
 ---- 
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+ 
+ --- --- --- 
+ 
+ 
+ 
 [The Storyteller]
 
 Not yet published.
@@ -9597,11 +9597,11 @@ Not yet published.
 ---- 
 ---- 
 
-|     | ![](Image%208-20-24,%2021-09.webp) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-20-24,%2021-09.webp) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Terec and the Wild]
 
 ---- 
@@ -9616,11 +9616,11 @@ If, on the other hand, you head north, towards the edge of the Empire, the edge 
 ---- 
 ---- 
 
-|     | ![](Image%208-20-24,%2021-10.webp) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-20-24,%2021-10.webp) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
 [Terece and the Wall]
 
 ---- 
@@ -9630,133 +9630,133 @@ But there are those for whom the Wild is not only out there but a magic within t
 
 # William Gibson
 
-|     | ![](Image%208-20-24,%2021-34.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     | Collected non-fiction              |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-[Distrust that  
+ ![](Image%208-20-24,%2021-34.jpeg) 
+ --- ---------------------------------- --- 
+ Collected non-fiction 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Distrust that 
 Particular Flavor (essays)]
 
 ---- 
 ## Burning Chrome (stories)
 
-|     | ![](Image%208-16-24,%2018-49.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2018-49.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Johnny Mnemonic]
 
 ---- 
 The story is narrated by a professional computer hacker, Automatic Jack. Along with his friend and fellow hacker, a twenty-eight year-old man named Bobby Quine, Jack is trying to hack into a system so he can steal money from a powerful criminal: the ‘Chrome’ of the story’s title. Chrome, it turns out, is a powerful woman in the mob world, who worked her way up from sex work and drug dealing to become a well-connected career criminal.
 ---- 
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+ 
+ --- --- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Gernsback Continuum]
 
 A photographer is sent to take photos of art deco architecture of a futuristic kind. Said photographer starts hallucinating an alternate 1980s with flying cars, massive highways, and people dressed like they’re from the planet Krypton. Anyone who has played Fallout has an idea of what this looks like as there’s the Red Rocket stations and Robbie the Robot-esque machines. His agent is surprisingly sympathetic to his losing his mind and says to basically “cool down” by watching a lot of porn and bad TV to shock his system back to normal.
 ---- 
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-[Fragments of a   
+ 
+ --- --- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Fragments of a 
 Hologram Rose]
 
 ---- 
@@ -9764,196 +9764,196 @@ There Simstim technology called 'Apparent Sensory Perception' (ASP). The narrato
 He shreds the postcard into a thousand fragments and watches the tape, which has been erased except for a short sequence of Angela's holiday in Greece. Afterwards, he muses about what it was like before being able to record and play back the full range of sensory perception of another person. He compares people with the fragments of the hologram, since every fragment shows the whole image from a different angle.
 ---- 
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-[The Belonging Kind  
+ 
+ --- --- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[The Belonging Kind 
 with John Shirley]
 
 ---- 
 By John Shirley and William Gibson. Coretti frequently goes to bars but doesn't know how to dress and how to contact people. One day, he meets a beautiful woman in a bar and notices her ability to adapt to other people's style. He follows her to another place and sees her transform into another woman. She meets with a man, and they continue going to different bars while changing their look. He realizes that they are some kind advanced species who can transform into whatever form and create matter out of nothing. After a while, he quits his job and finally turns into one of the 'belonging kind'.
 ---- 
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+ 
+ --- --- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Hinterlands]
 
 ---- 
 This story takes place in the not-so-distant future where humankind has gotten into contact with an alien civilisation. But the only way to reach them is to drop a single astronaut in a spaceship at specified coordinates in space and wait if he is taken away by their superior power. Returning spacemen usually carry some advanced knowledge, like the cure for cancer with them, but they always go insane and commit suicide. Toby Halpert works in a space station called Heaven where arriving spaceships are taken to. Toby meets arriving astronauts and tries to cure their insanity, but so far it never works out. When he finds the latest arrival inside of her spaceship, he realizes that she already killed herself with a surgical machine. She left some ballpoint paintings which reveal new molecular structures. In the end we learn that Toby had been on such a mission but was refused by the aliens, which is why he still feels connected to the whole thing.
 ---- 
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-[Red Star, Winter Orbit  
+ 
+ --- --- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Red Star, Winter Orbit 
 with Bruce Sterling]
 
 ---- 
 By Bruce Sterling and William Gibson. This story takes places on a Soviet space station in the middle of the 21st century. The Soviets are the only power in space since the Americans have given up their space program. As the space station Kosmograd is about to be shut down, the remaining astronauts decide to flee in escape pods and publish what the Russians plan. As all but the old Korolev have left, he is joined by American families who decided to live on the space station and came up with their sun balloons. 
 ---- 
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+ 
+ --- --- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [New Rose Motel]
 
 ---- 
 The anonymous narrator tells about the corporate defection of Hiroshi, a very talented genetic engineer who works for Maas Biolabs GmbH in Frankfurt. The protagonist and his partner Fox cut a deal with Hosaka corporation to deliver them Hiroshi. They contact Hiroshi via Sandii, the narrator's latest affair, who prepares the defection in Vienna. Hiroshi disappears in Berlin and is flown to a Hosaka lab in Marrakech. During the next few days, Hosaka's leading engineers are flown to Marrakech to learn from Hiroshi, but then they all die from a virus that was created by a DNA sequencer modified by Sandii. In Vienna, she defected to Maas Biolabs and programmed their virus. Hosaka kills Fox and hunts the protagonist, who hides in 'New Rose Hotel' near Narita International Airport and reflects about his lost love Sandii.
 ---- 
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+ 
+ --- --- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Winter Market]
 
 ---- 
 Casey is an editor for a kind of simstim called fast-wipe. His friend Rubin is a famous artist who makes art out of gomi (trash). On one of Rubin's parties Casey comes to know Lise. Lise has a severe disease which forces her to wear an exoskeleton and causes much pain so she is also addicted to a drug called wizz. Lise's extraordinary dreams are recorded and edited by Casey and published under the title 'Kings of Sleep'. This tape becomes very famous and makes both of them rich, and Lise decides to merge with the net and have a ROM contruct of her personality built. She also wants Casey to cut her next film. 
 ---- 
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-[Dogfight  
+ 
+ --- --- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Dogfight 
 with Michael Stanwick]
 
 ---- 
 By Michael Swanwick and William Gibson. The story is about a no-future guy named Deke who comes to a town in Virginia. In an arcade he watches a game called 'Spads & Fokkers' which is played with miniature planes created by the mind. From then on he is obsessed by the game and does anything to play against Tiny, a war veteran in a wheelchair. During the war, he got addicted by a drug called hype which was used by the military to provide extra concentration. Deke starts practicing and gets his equipment augmented by Nance, a girl who he meets at his highstack. 17-year old Nance is a student and works on some holographic projections with ultramodern equipment, but her parents provided her with a chastity brainlock which makes it impossible for her to be touched by someone. She manages to get two hits of hype for her presentation, but Deke steals it from her by sexually abusing her. With the hype he is able to win against Tiny, but after his victory Tiny has a breakdown and Deke realizes that there is nobody left to talk to. 
 ---- 
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+ 
+ --- --- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Burning Chrome]
 
 ---- 
@@ -9963,26 +9963,26 @@ Automatic Jack and Bobby Quine are console cowboys and have been partners for a 
 
 ## Blue Ant
 
-|     | ![](Image%208-20-24,%2021-27.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-20-24,%2021-27.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Pattern Recognition]
 
 ---- 
@@ -9990,81 +9990,81 @@ Cayce Pollard is a new kind of prophet—a world-renowned “coolhunter” who p
 Still haunted by the memory of her missing father—a Cold War security guru who disappeared in downtown Manhattan on the morning of September 11, 2001—Cayce is soon traveling through parallel universes of marketing, globalization, and terror, heading always for the still point where the three converge. From London to Tokyo to Moscow, she follows the implications of a secret as disturbing—and compelling—as the twenty-first century promises to be.
 ---- 
 
-|     | ![](Image%208-20-24,%2021-27-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-20-24,%2021-27-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Spook Country]
 
 ---- 
 ---- 
 
-|     | ![](Image%208-20-24,%2021-27-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-20-24,%2021-27-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Zero History]
 
 ---- 
 ---- 
 ## Sprawl Trilogy
 
-|     | ![](Image%208-20-24,%2021-23.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-20-24,%2021-23.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Neuromancer]
 
 ---- 
@@ -10072,83 +10072,83 @@ Case was the sharpest data-thief in the matrix—until he crossed the wrong peop
 Neuromancer was the first fully-realized glimpse of humankind’s digital future—a shocking vision that has challenged our assumptions about technology and ourselves, reinvented the way we speak and think, and forever altered the landscape of our imaginations.
 ---- 
 
-|     | ![](Image%208-20-24,%2021-23-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-20-24,%2021-23-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Count Zero]
 
 ---- 
 A corporate mercenary wakes in a reconstructed body, a beautiful woman by his side. Then Hosaka Corporation reactivates him, for a mission more dangerous than the one he’s recovering from: to get a defecting chief of R&D—and the biochip he’s perfected—out intact. But this proves to be of supreme interest to certain other parties—some of whom aren’t remotely human.
 ---- 
 
-|     | ![](Image%208-20-24,%2021-22.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-20-24,%2021-22.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Mona Lisa Overdrive]
 
 ---- 
-Enter Gibson's unique world—lyric and mechanical, sensual and violent, sobering and exciting—where multinational corporations and high tech outlaws vie for power, traveling into the computer-generated universe known as cyberspace.  Into this world comes Mona, a young girl with a murky past and an uncertain future whose life is on a collision course with internationally famous Sense/Net star Angie Mitchell.  Since childhood, Angie has been able to tap into cyberspace without a computer.  Now, from inside cyberspace, a kidnapping plot is masterminded by a phantom entity who has plans for Mona, Angie, and all humanity, plans that cannot be controlled . . . or even known.  And behind the intrigue lurks the shadowy Yazuka, the powerful Japanese underworld, whose leaders ruthlessly manipulate people and events to suit their own purposes . . . or so they think.
+Enter Gibson's unique world—lyric and mechanical, sensual and violent, sobering and exciting—where multinational corporations and high tech outlaws vie for power, traveling into the computer-generated universe known as cyberspace. Into this world comes Mona, a young girl with a murky past and an uncertain future whose life is on a collision course with internationally famous Sense/Net star Angie Mitchell. Since childhood, Angie has been able to tap into cyberspace without a computer. Now, from inside cyberspace, a kidnapping plot is masterminded by a phantom entity who has plans for Mona, Angie, and all humanity, plans that cannot be controlled . . . or even known. And behind the intrigue lurks the shadowy Yazuka, the powerful Japanese underworld, whose leaders ruthlessly manipulate people and events to suit their own purposes . . . or so they think.
 ---- 
 ## Jackpot Trilogy
 
-|     | ![](Image%208-16-24,%2018-46.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2018-46.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [The Peripheral]
 
 ---- 
@@ -10158,28 +10158,28 @@ Burton’s been moonlighting online, secretly working security in some game prot
 Flynne and Wilf are about to meet one another. Her world will be altered utterly, irrevocably, and Wilf’s, for all its decadence and power, will learn that some of these third-world types from the past can be badass.
 ---- 
 
-|     | ![](Image%208-16-24,%2018-47.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-16-24,%2018-47.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Agency]
 
 ---- 
@@ -10187,63 +10187,63 @@ Verity Jane, gifted app whisperer, takes a job as the beta tester for a new prod
 Meanwhile, a century ahead in London, in a different time line entirely, Wilf Netherton works amid plutocrats and plunderers, survivors of the slow and steady apocalypse known as the jackpot. His boss, the enigmatic Ainsley Lowbeer, can look into alternate pasts and nudge their ultimate directions. Verity and Eunice are her current project. Wilf can see what Verity and Eunice can’t: their own version of the jackpot, just around the corner, and the roles they both may play in it.
 ---- 
 
-|     |                   |     |
-| --- | ----------------- | --- |
-|     | Not published yet |     |
+ 
+ --- ----------------- --- 
+ Not published yet 
 [Jackpot #3]
 
 ---- 
 ---- 
 ## Bridge Trilogy
 
-|     | ![](Image%208-20-24,%2021-31.jpeg) |     |
-| --- | ---------------------------------- | --- |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
-|     |                                    |     |
+ ![](Image%208-20-24,%2021-31.jpeg) 
+ --- ---------------------------------- --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Virtual Light]
 
 ---- 
-The millennium has come and gone, leaving in its wake only stunned survivors. In Los Angeles, Berry Rydell is a former armed-response rentacop now working for a bounty hunter. Chevette Washington is a bicycle messenger turned pickpocket who impulsively snatches a pair of innocent-looking sunglasses. But  these are no ordinary shades. What you can see through these high-tech specs can make you rich—or get you killed. Now Berry and Chevette are on the  run, zeroing in on the digitalized heart of DatAmerica, where pure information is the greatest high. And a mind can be a terrible thing to crash.
+The millennium has come and gone, leaving in its wake only stunned survivors. In Los Angeles, Berry Rydell is a former armed-response rentacop now working for a bounty hunter. Chevette Washington is a bicycle messenger turned pickpocket who impulsively snatches a pair of innocent-looking sunglasses. But these are no ordinary shades. What you can see through these high-tech specs can make you rich—or get you killed. Now Berry and Chevette are on the run, zeroing in on the digitalized heart of DatAmerica, where pure information is the greatest high. And a mind can be a terrible thing to crash.
 ---- 
 
-|     | ![](Image%208-20-24,%2021-31-1.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-20-24,%2021-31-1.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [Idoru]
 
 ---- 
@@ -10253,28 +10253,28 @@ Chia McKenzie is here on a rescue mission. She’s fourteen. Her idol is the sin
 Rei Toei is the idoru—the beautiful, entirely virtual media star adored by all Japan. Rez has declared that he will marry her. This is the rumor that has brought Chia to Tokyo. True or not, the idoru and the powerful interests surrounding her are enough to put all their lives in danger.
 ---- 
 
-|     | ![](Image%208-20-24,%2021-31-2.jpeg) |     |
-| --- | ------------------------------------ | --- |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
-|     |                                      |     |
+ ![](Image%208-20-24,%2021-31-2.jpeg) 
+ --- ------------------------------------ --- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 [All Tomorrow’s Parties]
 
 ---- 

@@ -34,16 +34,22 @@ class BookCollection
     titles - ['']
   end
 
-  def author_names_to_paths
-    author_names.map {|author| directory_name_for author}
+  def author_names
+    @source_file
+      .select {|line| is_author? line}
+      .map {|header_line| header_line[1..-1].strip}
   end
 
-  def directory_name_for name
+  def author_names_to_paths
+    author_names.map {|author| path_version_of author}
+  end
+
+  def path_version_of name
     name.downcase.gsub(" ", "-")
   end
 
   def write_directories_for paths
-    paths&.each {|directory_name|
+    paths.each {|directory_name|
       path = @target_file_path + directory_name
       unless File.directory?(path)
         FileUtils.mkpath(path)

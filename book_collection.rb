@@ -11,16 +11,11 @@ class BookCollection
     if is_title_beginning? line
       title = line[1..-1].strip.chomp
       until is_title_end? @source_file[i-1]
-        title << ' ' << next_line(i)
+        title << ' ' << @source_file[i+1]
         i += 1
       end
     end
     title.gsub(']','').gsub("\n", '').strip
-  end
-
-  def next_line i
-    line = @source_file[i+1]
-    line
   end
 
   def is_title_end? line

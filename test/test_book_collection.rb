@@ -20,18 +20,6 @@ end
         .must_equal 97
     end
 
-    it "knows when the first thing is an author" do
-      _(@book_collection.author_names.first)
-        .must_equal "Ada Palmer"
-    end
-
-    it "knows which things are authors" do
-      _(@book_collection.author_names[0..2])
-        .must_equal ["Ada Palmer",
-                     "Adrian Tchaikovsky",
-                     "Alex White"]
-    end
-
     it "knows what a book title is" do
       titles = @book_collection.titles 
       _(titles).must_include("Too Like the Lightning")
@@ -51,14 +39,14 @@ end
                      "4_perhaps_the_stars.jpeg"]
     end
 
-    it "knows author directory names" do
-      _(@book_collection.author_names_to_paths[0..2]).must_equal ["ada-palmer","adrian-tchaikovsky", "alex-white"]
-    end
-
     it "has files for authors" do
       _(File.exist?("#{DESTINATION_FILE_PATH}ada-palmer")).must_equal(true)
       _(File.exist?("#{DESTINATION_FILE_PATH}becky-chambers")).must_equal(true)
       _(File.exist?("#{DESTINATION_FILE_PATH}ursula-k-leguin")).must_equal(true)
+    end
+
+    it "has a directory for Terra Ignota" do
+      _(File.exist?("#{DESTINATION_FILE_PATH}ada-palmer/terra-ignota")).must_equal(true)
     end
   end
 end

@@ -4,6 +4,37 @@ class BookCollection
     @source_file = File.readlines(source_file_path)
     @target_file_path = target_file_path
     write_directories
+    write_world_directories
+  end
+
+  def write_directories
+    paths = author_names.map {|author| path_version_of author}
+    paths.each {|directory_name|
+      path = @target_file_path + directory_name
+      unless File.directory?(path)
+        FileUtils.mkpath(path)
+      end                
+    }
+  end
+
+  def write_world_directories
+    current_author_directory = ""
+    @source_file.each {|line|
+      if is_author? line
+        current_author_directory = path_version_of(author_name line)
+      elsif is_world? line
+        path = path_version_of (name_from line), 
+          (@target_file_path + current_author_directory)
+        unless File.directory?(path)
+          FileUtils.mkpath(path)
+        end                
+      end
+    }
+  end
+
+  def is_world? line
+    world_line = Regexp.new /^[#][#]\s.*/
+    line.match?(world_line)
   end
 
   def is_author? line
@@ -11,27 +42,26 @@ class BookCollection
     line.match? author_line
   end
 
+  def world_name line
+    line[2..-1].strip
+  end
+
+  def author_name line
+      line[1..-1].strip
+  end
+
+  def name_from line
+    (line.gsub('#', '')).strip
+  end
+
   def author_names
     @source_file
       .select {|line| is_author? line}
-      .map {|header_line| header_line[1..-1].strip}
-  end
-
-  def author_names_to_paths
-    author_names.map {|author| path_version_of author}
+      .map {|line| author_name line}
   end
 
   def path_version_of name, path=''
-    path + name.downcase.gsub(" ", "-")
-  end
-
-  def write_directories
-    author_names_to_paths.each {|directory_name|
-      path = @target_file_path + directory_name
-      unless File.directory?(path)
-        FileUtils.mkpath(path)
-      end                
-    }
+    path + name.downcase.gsub(" ", "-") + '/'
   end
 
   def image_filenames
@@ -60,17 +90,6 @@ class BookCollection
     image_line  = Regexp.new /!\[\]\(.*\)/
     line.match? image_line 
   end
-  def title(line, i)
-    title = ''
-    if is_title_beginning? line
-      title = line[1..-1].strip.chomp
-      until is_title_end? @source_file[i-1]
-        title << ' ' << @source_file[i+1]
-        i += 1
-      end
-    end
-    title.gsub(']','').gsub("\n", '').strip
-  end
 
   def is_title_end? line
     line.strip.end_with? ']'
@@ -92,4 +111,15 @@ class BookCollection
     titles.map {|title| path_version_of title}
   end
 
+  def title(line, i)
+    title = ''
+    if is_title_beginning? line
+      title = line[1..-1].strip.chomp
+      until is_title_end? @source_file[i-1]
+        title << ' ' << @source_file[i+1]
+        i += 1
+      end
+    end
+    title.gsub(']','').gsub("\n", '').strip
+  end
 end

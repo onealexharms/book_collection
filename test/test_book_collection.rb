@@ -9,7 +9,6 @@ class TestBookCollection < Minitest::Spec
   SOURCE_FILE_PATH = "./test/test_data/fake_index.md"
 
 before do
-  puts "-----------------------------------"
   FileUtils.remove_dir DESTINATION_FILE_PATH if Dir.exist?(DESTINATION_FILE_PATH)
   @book_collection = BookCollection.new SOURCE_FILE_PATH, DESTINATION_FILE_PATH 
 end

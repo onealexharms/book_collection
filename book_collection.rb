@@ -20,7 +20,6 @@ class BookCollection
   
   def next_line i
     line = @source_file[i+1]
-    #why does .gsub not work on the next line but it works on title?
     line
   end
   

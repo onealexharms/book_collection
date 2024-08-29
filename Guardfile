@@ -4,7 +4,7 @@ guard :shell do
 end
 
 guard :minitest do
-#guard :minitest, cli: "--color" do
+#guard :minitest, cli: "--verbose" do
   # with Minitest::Unit
   watch(%r{^test/(.*)\/?test_(.*)\.rb$}) { |m| "test/#{m[1]}test_#{m[2]}.rb" }
   watch(%r{^(.+).rb$})     { |m| "test/#{m[1]}test_#{m[2]}.rb" }

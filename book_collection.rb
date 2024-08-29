@@ -1,11 +1,45 @@
 class BookCollection
- 
+
   def initialize source_file_path,target_file_path
     @source_file = File.readlines(source_file_path)
     @target_file_path = target_file_path
     write_author_directories
   end
+
+  def title(line, i)
+    title = ''
+    if is_title_beginning? line
+      title = line[1..-1].strip.chomp
+      until is_title_end? @source_file[i-1]
+        title << ' ' << next_line(i)
+        i += 1
+      end
+    end
+    title.gsub(']','').gsub("\n", '').strip
+  end
   
+  def next_line i
+    line = @source_file[i+1]
+    #why does .gsub not work on the next line but it works on title?
+    line
+  end
+  
+  def is_title_end? line
+    line.strip.end_with? ']'
+  end
+
+  def is_title_beginning? line
+    line.strip.start_with? '['
+  end
+
+  def titles 
+    titles = []
+    @source_file.each_with_index {|line, i|
+      titles.push title(line, i) 
+      }
+    titles - ['']
+    end
+
   def write_author_directories
     author_names_to_paths.each {|directory_name|
       path = @target_file_path + directory_name
@@ -28,7 +62,7 @@ class BookCollection
   def author_names_to_paths
     author_names.map {|author| directory_name_for author}
   end
-  
+
   def image_filenames
     @source_file
       .select {|line| is_image? line}
@@ -46,12 +80,6 @@ class BookCollection
       .strip
   end
 
-  def titles
-    @source_file
-      .select {|line| is_title? line}
-      .map {|book_title_line| book_title_line[1..-3]}
-  end
-
   def is_author? line
     author_line = Regexp.new /^[\#][^#].*/
     line.match? author_line
@@ -62,8 +90,4 @@ class BookCollection
     line.match image_line 
   end
 
-  def is_title? line
-    line.start_with? "["
-  end
 end
-

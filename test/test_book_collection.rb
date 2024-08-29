@@ -9,9 +9,9 @@ class TestBookCollection < Minitest::Spec
   SOURCE_FILE_PATH = "./test/test_data/fake_index.md"
 
 before do
+  puts "-----------------------------------"
   FileUtils.remove_dir DESTINATION_FILE_PATH if Dir.exist?(DESTINATION_FILE_PATH)
   @book_collection = BookCollection.new SOURCE_FILE_PATH, DESTINATION_FILE_PATH 
-  puts "-----------------------------------"
 end
 
   describe "book collection" do
@@ -34,8 +34,10 @@ end
     end
 
     it "knows what a book title is" do
-      _(@book_collection.titles.first)
-        .must_equal "Too Like the Lightning"
+      titles = @book_collection.titles 
+      _(titles).must_include("Too Like the Lightning")
+      _(titles).must_include("Neuromancer")
+      _(titles).must_include("A Closed and Common Orbit")
     end
 
     it "knows what an image is" do

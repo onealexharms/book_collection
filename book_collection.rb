@@ -3,7 +3,7 @@ class BookCollection
   def initialize source_file_path,target_file_path
     @source_file = File.readlines(source_file_path)
     @target_file_path = target_file_path
-    write_author_directories
+    write_directories_for author_names_to_paths
   end
 
   def title(line, i)
@@ -17,12 +17,12 @@ class BookCollection
     end
     title.gsub(']','').gsub("\n", '').strip
   end
-  
+
   def next_line i
     line = @source_file[i+1]
     line
   end
-  
+
   def is_title_end? line
     line.strip.end_with? ']'
   end
@@ -37,10 +37,18 @@ class BookCollection
       titles.push title(line, i) 
       }
     titles - ['']
-    end
+  end
 
-  def write_author_directories
-    author_names_to_paths.each {|directory_name|
+  def author_names_to_paths
+    author_names.map {|author| directory_name_for author}
+  end
+
+  def directory_name_for name
+    name.downcase.gsub(" ", "-")
+  end
+
+  def write_directories_for paths
+    paths&.each {|directory_name|
       path = @target_file_path + directory_name
       unless File.directory?(path)
         FileUtils.mkpath(path)
@@ -52,14 +60,6 @@ class BookCollection
     @source_file
       .select {|line| is_author? line}
       .map {|header_line| header_line[1..-1].strip}
-  end
-
-  def directory_name_for author_name
-    author_name.downcase.gsub(" ", "-")
-  end
-
-  def author_names_to_paths
-    author_names.map {|author| directory_name_for author}
   end
 
   def image_filenames

@@ -3,7 +3,7 @@ class BookCollection
   def initialize source_file_path,target_file_path
     @source_file = File.readlines(source_file_path)
     @target_file_path = target_file_path
-    write_directories_for author_names_to_paths
+    write_directories
   end
 
   def is_author? line
@@ -25,8 +25,8 @@ class BookCollection
     path + name.downcase.gsub(" ", "-")
   end
 
-  def write_directories_for paths
-    paths&.each {|directory_name|
+  def write_directories
+    author_names_to_paths.each {|directory_name|
       path = @target_file_path + directory_name
       unless File.directory?(path)
         FileUtils.mkpath(path)

@@ -9,13 +9,13 @@ class TestBookCollection < Minitest::Spec
   SOURCE_FILE_PATH = "./test/test_data/fake_index.md"
   #fake_index.md is actually the good one
 
-before do
-  FileUtils.remove_dir(DESTINATION_FILE_PATH)if Dir.exist?(DESTINATION_FILE_PATH)
-  @book_collection = BookCollection.new SOURCE_FILE_PATH, DESTINATION_FILE_PATH 
-end
+  before do
+    FileUtils.remove_dir(DESTINATION_FILE_PATH)if Dir.exist?(DESTINATION_FILE_PATH)
+    @book_collection = BookCollection.new SOURCE_FILE_PATH, DESTINATION_FILE_PATH 
+  end
 
   describe "book collection" do
-      
+
     it "test data is vetted" do
       _(@book_collection.author_names.size)
         .must_equal 97
@@ -40,17 +40,25 @@ end
                      "4_perhaps_the_stars.jpeg"]
     end
 
-    it "has files for authors" do
+    it "has directories for authors" do
       _(File.exist?("#{DESTINATION_FILE_PATH}ada_palmer")).must_equal(true)
       _(File.exist?("#{DESTINATION_FILE_PATH}becky_chambers")).must_equal(true)
       _(File.exist?("#{DESTINATION_FILE_PATH}ursula_k_leguin")).must_equal(true)
     end
 
-    it "has a directories for world level" do
-      _(File.exist?("#{DESTINATION_FILE_PATH}ada_palmer/terra_ignota")).must_equal(true)
-      _(File.exist?("#{DESTINATION_FILE_PATH}victoria_goddard/the_nine_worlds")).must_equal(true)
-      _(File.exist?("#{DESTINATION_FILE_PATH}/william_gibson/burning_chrome_stories")).must_equal(true)
-      
+    it "has directories for world level" do
+      _(File.exist?("#{DESTINATION_FILE_PATH}ada_palmer/terra_ignota"))
+        .must_equal(true)
+      _(File.exist?("#{DESTINATION_FILE_PATH}victoria_goddard/the_nine_worlds")).
+        must_equal(true)
+      _(File.exist?("#{DESTINATION_FILE_PATH}/william_gibson/burning_chrome_stories"))
+        .must_equal(true)
     end
+
+  #    it "has directories for series level"
+  #      _(File.exist?("#{DESTINATION_FILE_PATH}t_kingfisher/the_nine_worlds/clocktaur_war")).must_equal(true)
+  #      _(File.exist?("#{DESTINATION_FILE_PATH}robin_hobb/realm_of_the_elderlings/farseer")).must_equal(true)
+  #      _(File.exist?("#{DESTINATION_FILE_PATH}kristin_cashore/graceling_realm/daggerspell")).must_equal(true)
+  #  end  
   end
 end

@@ -4,31 +4,22 @@ class BookCollection
     @source_file = File.readlines(source_file_path)
     @target_file_path = target_file_path
     write_directories
-    write_world_directories
   end
 
   def write_directories
-    paths = author_names.map {|author| path_version_of author}
-    paths.each {|directory_name|
-      path = @target_file_path + directory_name
-      unless File.directory?(path)
-        FileUtils.mkpath(path)
-      end                
-    }
-  end
-
-  def write_world_directories
-    current_author_directory = ""
+    path = ''
+    current_author_directory = ''
     @source_file.each {|line|
       if is_author? line
+        path = path_version_of (name_from line), @target_file_path
         current_author_directory = path_version_of(author_name line)
       elsif is_world? line
         path = path_version_of (name_from line), 
           (@target_file_path + current_author_directory)
-        unless File.directory?(path)
-          FileUtils.mkpath(path)
-        end                
       end
+      unless File.directory?(path)
+        FileUtils.mkpath(path)
+      end                
     }
   end
 
@@ -61,7 +52,10 @@ class BookCollection
   end
 
   def path_version_of name, path=''
-    path + name.downcase.gsub(" ", "-") + '/'
+    punctuation = Regexp.new /[^\w]/
+    name.downcase!
+    dir = name.gsub(' ', '_')
+    path + dir.gsub(punctuation, '') + '/'
   end
 
   def image_filenames

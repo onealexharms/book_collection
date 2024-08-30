@@ -7,9 +7,10 @@ require 'fileutils'
 class TestBookCollection < Minitest::Spec
   DESTINATION_FILE_PATH = "./test/test_data/target/"
   SOURCE_FILE_PATH = "./test/test_data/fake_index.md"
+  #fake_index.md is actually the good one
 
 before do
-  FileUtils.remove_dir DESTINATION_FILE_PATH if Dir.exist?(DESTINATION_FILE_PATH)
+  FileUtils.remove_dir(DESTINATION_FILE_PATH)if Dir.exist?(DESTINATION_FILE_PATH)
   @book_collection = BookCollection.new SOURCE_FILE_PATH, DESTINATION_FILE_PATH 
 end
 
@@ -40,13 +41,16 @@ end
     end
 
     it "has files for authors" do
-      _(File.exist?("#{DESTINATION_FILE_PATH}ada-palmer")).must_equal(true)
-      _(File.exist?("#{DESTINATION_FILE_PATH}becky-chambers")).must_equal(true)
-      _(File.exist?("#{DESTINATION_FILE_PATH}ursula-k-leguin")).must_equal(true)
+      _(File.exist?("#{DESTINATION_FILE_PATH}ada_palmer")).must_equal(true)
+      _(File.exist?("#{DESTINATION_FILE_PATH}becky_chambers")).must_equal(true)
+      _(File.exist?("#{DESTINATION_FILE_PATH}ursula_k_leguin")).must_equal(true)
     end
 
-    it "has a directory for Terra Ignota" do
-      _(File.exist?("#{DESTINATION_FILE_PATH}ada-palmer/terra-ignota")).must_equal(true)
+    it "has a directories for world level" do
+      _(File.exist?("#{DESTINATION_FILE_PATH}ada_palmer/terra_ignota")).must_equal(true)
+      _(File.exist?("#{DESTINATION_FILE_PATH}victoria_goddard/the_nine_worlds")).must_equal(true)
+      _(File.exist?("#{DESTINATION_FILE_PATH}/william_gibson/burning_chrome_stories")).must_equal(true)
+      
     end
   end
 end

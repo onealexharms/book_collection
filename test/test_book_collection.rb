@@ -46,11 +46,23 @@ end
       _(File.exist?("#{DESTINATION_FILE_PATH}ursula_k_leguin")).must_equal(true)
     end
 
-    it "has a directories for world level" do
-      _(File.exist?("#{DESTINATION_FILE_PATH}ada_palmer/terra_ignota")).must_equal(true)
-      _(File.exist?("#{DESTINATION_FILE_PATH}victoria_goddard/the_nine_worlds")).must_equal(true)
-      _(File.exist?("#{DESTINATION_FILE_PATH}/william_gibson/burning_chrome_stories")).must_equal(true)
-      
+    describe "has directories for world level" do
+      it "has them when the world level is the series name" do
+        _(File.exist?("#{DESTINATION_FILE_PATH}ada_palmer/terra_ignota"))
+          .must_equal(true)
+      end
+
+      it "has them when the world has series below it" do
+        _(File.exist?("#{DESTINATION_FILE_PATH}victoria_goddard/the_nine_worlds"))
+          .must_equal(true)
+      end
+
+      it "has them when the world has punctuation" do
+        _(File.exist?("#{DESTINATION_FILE_PATH}/william_gibson/burning_chrome_stories"))
+          .must_equal(true)
+        _(File.exist?("#{DESTINATION_FILE_PATH}/john_scalzi/old_mans_war"))
+          .must_equal(true)
+      end
     end
   end
 end

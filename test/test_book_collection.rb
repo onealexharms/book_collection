@@ -7,7 +7,6 @@ require 'fileutils'
 class TestBookCollection < Minitest::Spec
   DESTINATION_FILE_PATH = "./test/test_data/target/"
   SOURCE_FILE_PATH = "./test/test_data/fake_index.md"
-  #fake_index.md is actually the good one
 
 before do
   FileUtils.remove_dir(DESTINATION_FILE_PATH)if Dir.exist?(DESTINATION_FILE_PATH)

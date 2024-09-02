@@ -7,23 +7,22 @@ class BookCollection
   end
 
   def write_directories
-    path = ''
+    path_to_write = ''
     current_author_directory = ''
     @source_file.each {|line|
       if is_author? line
-        path = path_name_for (name_from line), @target_file_path
-        current_author_directory = path_name_for (author_name line)
+        current_author_directory = path_name_for (name_from line)
+        path_to_write = path_name_for @target_file_path, (name_from line)
       elsif is_world? line
-        path = path_name_for (name_from line), 
-          (@target_file_path + current_author_directory)
+        path_to_write = path_name_for (@target_file_path + current_author_directory), (name_from line) 
       end
-      unless File.directory?(path)
-        FileUtils.mkpath(path)
+      unless File.directory?(path_to_write)
+        FileUtils.mkpath(path_to_write)
       end                
     }
   end
 
-  def path_name_for name, path=''
+  def path_name_for path='', name
     punctuation = Regexp.new /[^\w]/
     name.downcase!
     dir = name.gsub(' ', '_')

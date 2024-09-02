@@ -73,6 +73,11 @@ end
         directory = Dir.new "#{DESTINATION_FILE_PATH}william_gibson/jackpot_trilogy"
         _(directory.children).must_be_empty
       end
+      #it "has a directory for a series within a world" do
+      # deverry_world = 
+      #   Dir.new "#{DESTINATION_FILE_PATH}katherine_kerr/deverry_world"
+      #  _(deverry_world.children).must_include "westlands"
+      #end
     end
   end
 end

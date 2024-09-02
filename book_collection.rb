@@ -11,10 +11,10 @@ class BookCollection
     current_author_directory = ''
     @source_file.each {|line|
       if is_author? line
-        path = path_version_of (name_from line), @target_file_path
-        current_author_directory = path_version_of(author_name line)
+        path = path_name_for (name_from line), @target_file_path
+        current_author_directory = path_name_for (author_name line)
       elsif is_world? line
-        path = path_version_of (name_from line), 
+        path = path_name_for (name_from line), 
           (@target_file_path + current_author_directory)
       end
       unless File.directory?(path)
@@ -23,6 +23,13 @@ class BookCollection
     }
   end
 
+  def path_name_for name, path=''
+    punctuation = Regexp.new /[^\w]/
+    name.downcase!
+    dir = name.gsub(' ', '_')
+    path + dir.gsub(punctuation, '') + '/'
+  end
+  
   def is_world? line
     world_line = Regexp.new /^[#][#]\s.*/
     line.match?(world_line)
@@ -49,13 +56,6 @@ class BookCollection
     @source_file
       .select {|line| is_author? line}
       .map {|line| author_name line}
-  end
-
-  def path_version_of name, path=''
-    punctuation = Regexp.new /[^\w]/
-    name.downcase!
-    dir = name.gsub(' ', '_')
-    path + dir.gsub(punctuation, '') + '/'
   end
 
   def image_filenames
@@ -102,7 +102,7 @@ class BookCollection
   end
 
   def titles_to_paths
-    titles.map {|title| path_version_of title}
+    titles.map {|title| path_name_for title}
   end
 
   def title(line, i)

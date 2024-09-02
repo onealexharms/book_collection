@@ -46,7 +46,7 @@ end
       _(File.exist?("#{DESTINATION_FILE_PATH}ursula_k_leguin")).must_equal(true)
     end
 
-    describe "has directories for world level" do
+    describe "directories for world level" do
       it "has them when the world level is the series name" do
         _(File.exist?("#{DESTINATION_FILE_PATH}ada_palmer/terra_ignota"))
           .must_equal(true)
@@ -58,10 +58,17 @@ end
       end
 
       it "has them when the world has punctuation" do
-        _(File.exist?("#{DESTINATION_FILE_PATH}/william_gibson/burning_chrome_stories"))
-          .must_equal(true)
-        _(File.exist?("#{DESTINATION_FILE_PATH}/john_scalzi/old_mans_war"))
-          .must_equal(true)
+        directory_with_parens = Dir.new "#{DESTINATION_FILE_PATH}william_gibson"
+        _(directory_with_parens.children).must_include 'burning_chrome_stories'
+        directory_with_apostrophe = Dir.new "#{DESTINATION_FILE_PATH}john_scalzi"
+        _(directory_with_apostrophe.children).must_include "old_mans_war"
+      end
+    end 
+
+  describe "series level directories" do
+      it "doesn't have one where the world is the series" do
+        directory = Dir.new "#{DESTINATION_FILE_PATH}william_gibson/jackpot_trilogy"
+        _(directory.children).must_be_empty
       end
     end
   end

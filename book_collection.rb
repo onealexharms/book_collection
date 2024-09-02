@@ -10,10 +10,15 @@ class BookCollection
     current_author_directory = ''
     @source_file.each {|line|
       if is_author? line
-        current_author_directory = path_name_for (name_from line)
-        path_to_write = path_name_for target_file_path, (name_from line)
+        author = name_from line
+        current_author_directory = path_name_for author
+        path_to_write =   
+          path_name_for target_file_path, author
       elsif is_world? line
-        path_to_write = path_name_for (target_file_path + current_author_directory), (name_from line) 
+        world = name_from line
+        current_world_directory = path_name_for world
+        path_to_write = 
+          path_name_for (target_file_path + current_author_directory), world 
       end
       unless File.directory?(path_to_write)
         FileUtils.mkpath(path_to_write)

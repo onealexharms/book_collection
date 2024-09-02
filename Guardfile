@@ -7,7 +7,7 @@ guard :minitest do
 #guard :minitest, cli: "--verbose" do
   # with Minitest::Unit
   watch(%r{^test/(.*)\/?test_(.*)\.rb$}) { |m| "test/#{m[1]}test_#{m[2]}.rb" }
-  watch(%r{^(.+).rb$})     { |m| "test/#{m[1]}test_#{m[2]}.rb" }
+  watch(%r{^(.+).rb$})     { |m| "test/test_#{m[1]}.rb" }
   watch(%r{^test/test_helper\.rb$}) { 'test' }
 
   # with Minitest::Spec

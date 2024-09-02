@@ -2,19 +2,18 @@ class BookCollection
 
   def initialize source_file_path,target_file_path
     @source_file = File.readlines(source_file_path)
-    @target_file_path = target_file_path
-    write_directories
+    write_directories target_file_path
   end
 
-  def write_directories
+  def write_directories target_file_path
     path_to_write = ''
     current_author_directory = ''
     @source_file.each {|line|
       if is_author? line
         current_author_directory = path_name_for (name_from line)
-        path_to_write = path_name_for @target_file_path, (name_from line)
+        path_to_write = path_name_for target_file_path, (name_from line)
       elsif is_world? line
-        path_to_write = path_name_for (@target_file_path + current_author_directory), (name_from line) 
+        path_to_write = path_name_for (target_file_path + current_author_directory), (name_from line) 
       end
       unless File.directory?(path_to_write)
         FileUtils.mkpath(path_to_write)

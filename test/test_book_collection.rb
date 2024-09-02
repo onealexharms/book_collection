@@ -16,13 +16,13 @@ end
 
   describe "book collection" do
       
-    it "test data is vetted" do
+    it "test data is not obviously broken" do
       _(@book_collection.author_names.size)
         .must_equal 97
     end
 
     it "knows what a book title is" do
-      titles = @book_collection.titles 
+      titles = @book_collection.titles
       _(titles).must_include("Too Like the Lightning")
       _(titles).must_include("Neuromancer")
       _(titles).must_include("A Closed and Common Orbit")
@@ -41,20 +41,23 @@ end
     end
 
     it "has files for authors" do
-      _(File.exist?("#{DESTINATION_FILE_PATH}ada_palmer")).must_equal(true)
-      _(File.exist?("#{DESTINATION_FILE_PATH}becky_chambers")).must_equal(true)
-      _(File.exist?("#{DESTINATION_FILE_PATH}ursula_k_leguin")).must_equal(true)
+      directory = Dir.new DESTINATION_FILE_PATH
+      author_directories = directory.children
+      _(author_directories).must_include "ada_palmer"
+      _(author_directories).must_include "becky_chambers"
+      _(author_directories).must_include "ursula_k_leguin"
     end
 
     describe "directories for world level" do
       it "has them when the world level is the series name" do
-        _(File.exist?("#{DESTINATION_FILE_PATH}ada_palmer/terra_ignota"))
-          .must_equal(true)
+        author_directory = Dir.new "#{DESTINATION_FILE_PATH}ada_palmer" 
+        _(author_directory.children).must_include "terra_ignota"
       end
 
       it "has them when the world has series below it" do
         _(File.exist?("#{DESTINATION_FILE_PATH}victoria_goddard/the_nine_worlds"))
-          .must_equal(true)
+        author_directory = Dir.new "#{DESTINATION_FILE_PATH}victoria_goddard" 
+        _(author_directory.children).must_include "the_nine_worlds"
       end
 
       it "has them when the world has punctuation" do

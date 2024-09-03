@@ -64,6 +64,8 @@ end
         _(directory_with_parens.children).must_include 'burning_chrome_stories'
         directory_with_apostrophe = Dir.new "#{DESTINATION_FILE_PATH}john_scalzi"
         _(directory_with_apostrophe.children).must_include "old_mans_war"
+        newline_manually_fixed = Dir.new "#{DESTINATION_FILE_PATH}patrick_rothfuss"
+        _(newline_manually_fixed.children).must_include "the_name_of_the_wind"
       end
     end 
 

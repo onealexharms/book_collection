@@ -54,7 +54,6 @@ end
       end
 
       it "has them when the world has series below it" do
-        _(File.exist?("#{DESTINATION_FILE_PATH}victoria_goddard/the_nine_worlds"))
         author_directory = Dir.new "#{DESTINATION_FILE_PATH}victoria_goddard" 
         _(author_directory.children).must_include "the_nine_worlds"
       end
@@ -70,15 +69,15 @@ end
     end 
 
   describe "series level directories" do
-      it "doesn't have one where the world is the series" do
+      it "knows the jackpot trilogy is its own world" do
         directory = Dir.new "#{DESTINATION_FILE_PATH}william_gibson/jackpot_trilogy"
         _(directory.children).must_be_empty
       end
-      #it "has a directory for a series within a world" do
-      # deverry_world = 
-      #   Dir.new "#{DESTINATION_FILE_PATH}katherine_kerr/deverry_world"
-      #  _(deverry_world.children).must_include "westlands"
-      #end
+      it "has a westlands series under the deverry world" do
+        deverry_world = 
+          Dir.new "#{DESTINATION_FILE_PATH}katherine_kerr/deverry_world"
+          _(deverry_world.children).must_include "westlands"
+      end
     end
   end
 end

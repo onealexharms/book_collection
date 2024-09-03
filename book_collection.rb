@@ -9,14 +9,18 @@ class BookCollection
     path = ''
     author = ''
     world = ''
+    series = ''
     @source_file.each {|line|
-      if is_author? line
-        author = name_from line
-        path = path_name_for author
-      elsif is_world? line
-        world = name_from line
-        path = (path_name_for author) + (path_name_for world)
-      end
+       if is_author? line
+         author = name_from line
+         path = path_name_for author
+       elsif is_world? line
+         world = name_from line
+         path = (path_name_for author) + (path_name_for world)
+       #elsif is_series? line
+       #  series = name_from line
+       #  path = (path_name_for author) + (path_name_for world) + (path_name_for series)
+       end
       path_to_write = target_file_path + path
       unless File.directory? path_to_write
         FileUtils.mkpath path_to_write
@@ -30,6 +34,10 @@ class BookCollection
     dir = name.gsub(' ', '_')
     dir.gsub(punctuation, '') + '/'
   end
+
+  def is_series? line
+    series_line = Regexp.new /^[#][#][#]\s.*/
+  end
   
   def is_world? line
     world_line = Regexp.new /^[#][#]\s.*/
@@ -37,7 +45,7 @@ class BookCollection
   end
 
   def is_author? line
-    author_line = Regexp.new /^[\#][^#].*/
+    author_line = Regexp.new /^[#][^#].*/
     line.match? author_line
   end
 

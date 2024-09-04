@@ -1,16 +1,16 @@
 class BookCollection
 
   def initialize source_file_path,target_file_path
-    @source_file = File.readlines(source_file_path)
-    write_directories target_file_path
+    source_file = File.readlines(source_file_path)
+    write_directories(source_file,target_file_path)
   end
 
-  def write_directories target_file_path
+  def write_directories(source_file,target_file_path)
     path = ''
     author = ''
     world = ''
     series = ''
-    @source_file.each {|line|
+    source_file.each {|line|
       if is_author? line
         author = name_from line
         path = path_name_for author
@@ -54,12 +54,13 @@ class BookCollection
     (line.gsub('#', '')).strip
   end
 
-  def image_filenames
+=begin
+def image_filenames
     @source_file
       .select {|line| is_image? line}
       .map {|image_line| 
-        image_line_to_filename image_line
-      }
+       image_line_to_filename image_line
+        }
   end
 
   def image_line_to_filename image_line
@@ -70,6 +71,7 @@ class BookCollection
       .gsub("![]", "")
       .strip
   end
+=end
 
   def is_world_level? line
     world_level_line = Regexp.new /^[#][#]\s/

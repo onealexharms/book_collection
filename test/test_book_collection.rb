@@ -75,6 +75,13 @@ end
           Dir.new "#{DESTINATION_FILE_PATH}katherine_kerr/deverry_world"
           _(deverry_world.children).must_include "westlands"
       end
+
+#      it "has A Time of Omens in the Westlands folder" do
+# 
+#        westlands = 
+#          Dir.new "#{DESTINATION_FILE_PATH}katherine_kerr/deverry_world/westlands/
+#          _(westlands.children).must_include "a-time-of-ooomens"
+#      end
     end
   end
 end

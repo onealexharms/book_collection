@@ -7,16 +7,18 @@ class BookCollection
 
   def write_directories(source_file,target_file_path)
     path, author, world, series = '','','',''
-    source_file.each {|line|
+    source_file.each_with_index {|line, line_number|
       if is_author? line
         author = name_from line
         path = path_name_for author
       elsif is_world? line
         world = name_from line
         path = (path_name_for author) + (path_name_for world)
-       elsif is_series? line
-         series = name_from line
-         path = (path_name_for author) + (path_name_for world) + (path_name_for series)
+      elsif is_series? line
+        series = name_from line
+        path = (path_name_for author) + (path_name_for world) + (path_name_for series)
+      elsif is_title? line
+        puts title(line, source_file, line_number)
       end
       path_to_write = target_file_path + path
       unless File.directory? path_to_write
@@ -32,23 +34,52 @@ class BookCollection
     dir.gsub(punctuation, '') + '/'
   end
 
+  def is_author? line
+     line.include?('AUTHOR_')
+  end
+
   def is_series? line
-    series_line = Regexp.new /^[#][#][#]\s.*/
-    line.match?(series_line)
+    line.include?('SERIES_')
   end
   
   def is_world? line
-    world_line = Regexp.new /^[#][#]\s.*/
-    line.match?(world_line)
+    line.include?('WORLD_')
   end
 
-  def is_author? line
-    author_line = Regexp.new /^[#][^#].*/
-    line.match? author_line
+  def is_image? line
+    line.include?('IMAGE_LINK_')
+  end
+
+  def is_title? line
+    line.include?('TITLE_')
+  end
+
+  def titles_to_paths
+    titles.map {|title| path_name_for title}
+  end
+
+  def titles 
+    titles = []
+    @source_file.each_with_index {|line, i|
+      titles.push title(line, i) 
+      }
+    titles - ['']
+  end
+
+  def title(line, lines, line_number)
+    if is_title? line
+      line.gsub('TITLE_', '')
+    else
+      " "
+    end
   end
 
   def name_from line
-    (line.gsub('#', '')).strip
+    (line.gsub!('AUTHOR_', ''))
+    (line.gsub!('TITLE_', ''))
+    (line.gsub!('SERIES_', ''))
+    (line.gsub!('WORLD_', ''))
+    line.strip
   end
 
 =begin
@@ -70,45 +101,4 @@ def image_filenames
   end
 =end
 
-  def is_world_level? line
-    world_level_line = Regexp.new /^[#][#]\s/
-    line.match? world_level_line
-  end
-  
-  def is_image? line
-    image_line  = Regexp.new /!\[\]\(.*\)/
-    line.match? image_line 
-  end
-
-  def is_title_end? line
-    line.strip.end_with? ']'
-  end
-
-  def is_title_beginning? line
-    line.strip.start_with? '['
-  end
-
-  def titles 
-    titles = []
-    @source_file.each_with_index {|line, i|
-      titles.push title(line, i) 
-      }
-    titles - ['']
-  end
-
-  def titles_to_paths
-    titles.map {|title| path_name_for title}
-  end
-
-  def title(line, i)
-    title = ''
-    if is_title_beginning? line
-      title = line[1..-1].strip.chomp
-      until is_title_end? @source_file[i-1]
-        title << ' ' << @source_file[i+1]
-        i += 1
-      end
-    end
-    title.gsub(']','').gsub("\n", '').strip
-  end
 end

@@ -15,11 +15,6 @@ end
 
   describe "book collection" do
       
-    it "test data is not obviously broken" do
-      _(@book_collection.author_names.size)
-        .must_equal 97
-    end
-
     it "knows what a book title is" do
       titles = @book_collection.titles
       _(titles).must_include("Too Like the Lightning")

@@ -50,22 +50,8 @@ class BookCollection
     line.match? author_line
   end
 
-  def world_name line
-    line[2..-1].strip
-  end
-
-  def author_name line
-      line[1..-1].strip
-  end
-
   def name_from line
     (line.gsub('#', '')).strip
-  end
-
-  def author_names
-    @source_file
-      .select {|line| is_author? line}
-      .map {|line| author_name line}
   end
 
   def image_filenames

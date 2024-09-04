@@ -35,7 +35,8 @@ end
                      "4_perhaps_the_stars.jpeg"]
     end
 =end
-    it "has files for authors" do
+
+    it "has directories for authors" do
       directory = Dir.new DESTINATION_FILE_PATH
       author_directories = directory.children
       _(author_directories).must_include "ada_palmer"

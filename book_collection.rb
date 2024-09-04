@@ -6,10 +6,7 @@ class BookCollection
   end
 
   def write_directories(source_file,target_file_path)
-    path = ''
-    author = ''
-    world = ''
-    series = ''
+    path, author, world, series = '','','',''
     source_file.each {|line|
       if is_author? line
         author = name_from line

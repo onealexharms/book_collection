@@ -8,7 +8,7 @@ class BookCollection
 
   def write_directories(source_file,target_file_path)
     @the_tree = []
-    path, author, world, series, title = '','','','',''
+    path, author, world, series, title, image = '','','','','',''
     source_file.each_with_index {|line, line_number|
       if is_author? line
         author = name_from line
@@ -25,21 +25,33 @@ class BookCollection
         path = (path_name_for author) + (path_name_for world) + (path_name_for series)
         title = ''
         the_tree << path
+      elsif is_image? line
+        image = name_from line
       elsif is_title? line
         title = name_from line
         path = (path_name_for author)+(path_name_for world)+(path_name_for series)+(path_name_for title)
-        the_tree << path + (file_name_for title)
+        the_tree << path + (file_name_for title, '.md')
+        the_tree << path + (file_name_for image)
       end
     }
     puts the_tree
 end
 
-  def file_name_for name
-    punctuation = Regexp.new /[^\w]/
+  def name_from line
+    (line.gsub!('AUTHOR_', ''))
+    (line.gsub!('TITLE_', ''))
+    (line.gsub!('SERIES_', ''))
+    (line.gsub!('WORLD_', ''))
+    (line.gsub!('IMAGE_LINK_', ''))
+    line.strip
+  end
+
+  def file_name_for name, extension = ''
+    punctuation = Regexp.new /['\(\),\[\]\{\}]/
     name.downcase!
     name.gsub!(' ', '_')
     name.gsub!(punctuation, '')
-    name + '.md'
+    name + extension
   end
 
   def path_name_for name
@@ -78,13 +90,6 @@ end
     titles.map {|title| path_name_for title}
   end
 
-  def name_from line
-    (line.gsub!('AUTHOR_', ''))
-    (line.gsub!('TITLE_', ''))
-    (line.gsub!('SERIES_', ''))
-    (line.gsub!('WORLD_', ''))
-    line.strip
-  end
 
 =begin
 def image_filenames

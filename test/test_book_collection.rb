@@ -18,6 +18,10 @@ class TestBookCollection < Minitest::Spec
       _(@book_collection.the_tree).must_include("ada_palmer/terra_ignota/too_like_the_lightning/too_like_the_lightning.md") 
     end
 
+    it "has a pic for Too Like the Lightning" do
+      _(@book_collection.the_tree).must_include("ada_palmer/terra_ignota/too_like_the_lightning/1_too_like_the_lightning.jpg") 
+    end
+
     it "has directories for authors" do
       _(@book_collection.the_tree)
         .must_include "ada_palmer/"

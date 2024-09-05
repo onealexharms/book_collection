@@ -21,7 +21,7 @@ class TestBookCollection < Minitest::Spec
     it "has the right pic for Too Like the Lightning" do
       _(@book_collection.the_tree).must_include("ada_palmer/terra_ignota/too_like_the_lightning/1_too_like_the_lightning.jpg") 
     end
-    
+
     it 'has the right pic for the last one' do
       _(@book_collection.the_tree).must_include('william_gibson/bridge_trilogy/all_tomorrows_parties/image%208-20-24%2021-31-2.jpeg') 
     end
@@ -44,17 +44,16 @@ class TestBookCollection < Minitest::Spec
         .wont_include "/ursula_k_leguin/"
     end
 
-    describe "directories for world level" do
-      it "has them when the world level is the series name" do
+    it "when the world level is the series name" do
         _(@book_collection.the_tree)
           .must_include 'ada_palmer/terra_ignota/'
       end
 
-      it "has them when the world has series below it" do
+      it "when the world has series below it" do
         _(@book_collection.the_tree)
           .must_include 'victoria_goddard/the_nine_worlds/'
       end
-      it "has them when the world has punctuation" do
+      it "when the world has punctuation" do
         _(@book_collection.the_tree)
           .must_include 'william_gibson/burning_chrome_stories/'
         _(@book_collection.the_tree)
@@ -62,24 +61,20 @@ class TestBookCollection < Minitest::Spec
         _(@book_collection.the_tree)
           .must_include 'patrick_rothfuss/the_name_of_the_wind/'
       end
-    end 
 
-    describe "series level directories" 
+      it "knows the jackpot trilogy is its own world" do
+        _(@book_collection.the_tree)
+          .must_include 'william_gibson/jackpot_trilogy/'
+      end
 
-    it "knows the jackpot trilogy is its own world" do
-      _(@book_collection.the_tree)
-        .must_include 'william_gibson/jackpot_trilogy/'
-    end
+      it "has a westlands series under the deverry world" do
+        _(@book_collection.the_tree)
+          .must_include 'katherine_kerr/deverry_world/westlands/'
+      end
 
-    it "has a westlands series under the deverry world" do
-      _(@book_collection.the_tree)
-        .must_include 'katherine kerr/deverry_world/westlands/'
-    end
-
-    it "has A Time of Omens in the Westlands folder" do
-      westlands = 
-        Dir.new "#{DESTINATION_FILE_PATH}katherine_kerr/deverry_world/westlands/"
-      _(westlands.children).must_include "a-time-of-ooomens"
+      it "has A Time of Omens in the Westlands folder" do
+        _(@book_collection.the_tree)
+          .must_include 'katherine_kerr/deverry_world/westlands/a_time_of_omens/a_time_of_omens.md'
+      end
     end
   end
-end

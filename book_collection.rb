@@ -3,11 +3,15 @@ class BookCollection
 
   def initialize source_file_path,target_file_path
     source_file = File.readlines(source_file_path)
-    the_tree = write_directories(source_file,target_file_path)
+    @the_tree = tree(source_file,target_file_path)
+    write @the_tree
   end
 
-  def write_directories(source_file,target_file_path)
-    @the_tree = []
+  def write tree
+  end
+
+  def tree(source_file,target_file_path)
+    the_tree = []
     path, author, world, series, title, image = '','','','','',''
     source_file.each_with_index {|line, line_number|
       if is_author? line
@@ -34,7 +38,7 @@ class BookCollection
         the_tree << path + (file_name_for image)
       end
     }
-    puts the_tree
+  the_tree
 end
 
   def name_from line

@@ -34,8 +34,8 @@ class BookCollection
       elsif is_title? line
         title = name_from line
         path = (path_name_for author)+(path_name_for world)+(path_name_for series)+(path_name_for title)
-        the_tree << path + (file_name_for title, '.md')
-        the_tree << path + (file_name_for image)
+        the_tree << path + (path_name_for title, '.md')
+        the_tree << path + (image_file_name_for image)
       end
     }
   the_tree
@@ -50,21 +50,19 @@ end
     line.strip
   end
 
-  def file_name_for name, extension = ''
-    punctuation = Regexp.new /['\(\),\[\]\{\}]/
-    name.downcase!
-    name.gsub!(' ', '_')
+  def image_file_name_for name
+    punctuation = Regexp.new /(\(|\))/
     name.gsub!(punctuation, '')
-    name + extension
+    name
   end
 
-  def path_name_for name
+  def path_name_for name, extension = '/'
     if name>'' 
-      punctuation = Regexp.new /[^\w]/
+      punctuation = Regexp.new /[\’\(\),\[\]\{\}]/
       name.downcase!
       name.gsub!(' ', '_')
       name.gsub!(punctuation, '')
-      name + '/'
+      name + extension
     else
       ''
     end
@@ -93,25 +91,4 @@ end
   def titles_to_paths
     titles.map {|title| path_name_for title}
   end
-
-
-=begin
-def image_filenames
-    @source_file
-      .select {|line| is_image? line}
-      .map {|image_line| 
-       image_line_to_filename image_line
-        }
-  end
-
-  def image_line_to_filename image_line
-    image_line
-      .gsub("|", "")
-      .gsub("(", "")
-      .gsub(")", "")
-      .gsub("![]", "")
-      .strip
-  end
-=end
-
 end

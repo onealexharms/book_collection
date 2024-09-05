@@ -23,7 +23,7 @@ class TestBookCollection < Minitest::Spec
     end
 
     it 'has the right pic for the last one' do
-      _(@book_collection.the_tree).must_include('william_gibson/bridge_trilogy/all_tomorrows_parties/image%208-20-24%2021-31-2.jpeg') 
+      _(@book_collection.the_tree).must_include('william_gibson/bridge_trilogy/all_tomorrows_parties/Image%208-20-24,%2021-31-2.jpeg')
     end
 
     it "has directories for authors" do

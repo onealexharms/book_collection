@@ -6,32 +6,53 @@ class BookCollection
   end
 
   def write_directories(source_file,target_file_path)
+    titles = []
     path, author, world, series = '','','',''
     source_file.each_with_index {|line, line_number|
       if is_author? line
         author = name_from line
         path = path_name_for author
+        world, series = '',''
       elsif is_world? line
         world = name_from line
         path = (path_name_for author) + (path_name_for world)
+        series = ''
       elsif is_series? line
         series = name_from line
         path = (path_name_for author) + (path_name_for world) + (path_name_for series)
       elsif is_title? line
-        puts title(line, source_file, line_number)
+        titles << (path_name_for author)+(path_name_for world)+(path_name_for series)+(file_name_for(name_from line))
       end
-      path_to_write = target_file_path + path
-      unless File.directory? path_to_write
-        FileUtils.mkpath path_to_write
-      end
+#      path_to_write = target_file_path + path
+#      unless File.directory? path_to_write
+#        FileUtils.mkpath path_to_write
+#      end
     }
+    write_files(titles)
+  end
+
+  def write_files(titles)
+    puts titles 
+  end
+
+  def file_name_for name
+    punctuation = Regexp.new /[^\w]/
+    name.downcase!
+    name.gsub!(' ', '_')
+    name.gsub!(punctuation, '')
+    name + '.md'
   end
 
   def path_name_for name
-    punctuation = Regexp.new /[^\w]/
-    name.downcase!
-    dir = name.gsub(' ', '_')
-    dir.gsub(punctuation, '') + '/'
+    if name>'' 
+      punctuation = Regexp.new /[^\w]/
+      name.downcase!
+      name.gsub!(' ', '_')
+      name.gsub!(punctuation, '')
+      name + '/'
+    else
+      ''
+    end
   end
 
   def is_author? line
@@ -56,22 +77,6 @@ class BookCollection
 
   def titles_to_paths
     titles.map {|title| path_name_for title}
-  end
-
-  def titles 
-    titles = []
-    @source_file.each_with_index {|line, i|
-      titles.push title(line, i) 
-      }
-    titles - ['']
-  end
-
-  def title(line, lines, line_number)
-    if is_title? line
-      line.gsub('TITLE_', '')
-    else
-      " "
-    end
   end
 
   def name_from line

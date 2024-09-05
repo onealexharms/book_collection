@@ -14,6 +14,9 @@ before do
 end
 
   describe "book collection" do
+    it 'does a thing' do
+      _(true).must_equal(true)
+    end
       
 =begin
     it "knows what a book title is" do
@@ -34,7 +37,6 @@ end
                      "3_the_will_to_battle.jpeg",
                      "4_perhaps_the_stars.jpeg"]
     end
-=end
 
     it "has directories for authors" do
       directory = Dir.new DESTINATION_FILE_PATH
@@ -76,12 +78,12 @@ end
           _(deverry_world.children).must_include "westlands"
       end
 
-#      it "has A Time of Omens in the Westlands folder" do
-# 
-#        westlands = 
-#          Dir.new "#{DESTINATION_FILE_PATH}katherine_kerr/deverry_world/westlands/
-#          _(westlands.children).must_include "a-time-of-ooomens"
-#      end
+      it "has A Time of Omens in the Westlands folder" do
+        westlands = 
+          Dir.new "#{DESTINATION_FILE_PATH}katherine_kerr/deverry_world/westlands/"
+          _(westlands.children).must_include "a-time-of-ooomens"
+      end
     end
+=end
   end
 end

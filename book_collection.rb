@@ -1,39 +1,38 @@
 class BookCollection
+  attr_accessor :the_tree
 
   def initialize source_file_path,target_file_path
     source_file = File.readlines(source_file_path)
-    write_directories(source_file,target_file_path)
+    the_tree = write_directories(source_file,target_file_path)
   end
 
   def write_directories(source_file,target_file_path)
-    titles = []
-    path, author, world, series = '','','',''
+    @the_tree = []
+    path, author, world, series, title = '','','','',''
     source_file.each_with_index {|line, line_number|
       if is_author? line
         author = name_from line
         path = path_name_for author
-        world, series = '',''
+        world, series, title = '','',''
+        the_tree << path
       elsif is_world? line
         world = name_from line
         path = (path_name_for author) + (path_name_for world)
-        series = ''
+        series, title = '',''
+        the_tree << path
       elsif is_series? line
         series = name_from line
         path = (path_name_for author) + (path_name_for world) + (path_name_for series)
+        title = ''
+        the_tree << path
       elsif is_title? line
-        titles << (path_name_for author)+(path_name_for world)+(path_name_for series)+(file_name_for(name_from line))
+        title = name_from line
+        path = (path_name_for author)+(path_name_for world)+(path_name_for series)+(path_name_for title)
+        the_tree << path + (file_name_for title)
       end
-#      path_to_write = target_file_path + path
-#      unless File.directory? path_to_write
-#        FileUtils.mkpath path_to_write
-#      end
     }
-    write_files(titles)
-  end
-
-  def write_files(titles)
-    puts titles 
-  end
+    puts the_tree
+end
 
   def file_name_for name
     punctuation = Regexp.new /[^\w]/

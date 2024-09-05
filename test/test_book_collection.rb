@@ -14,17 +14,19 @@ before do
 end
 
   describe "book collection" do
-    it 'does a thing' do
-      _(true).must_equal(true)
+    it "has Too Like the Lightning" do
+      _(@book_collection.the_tree).must_include("ada_palmer/terra_ignota/too_like_the_lightning/too_like_the_lightning.md") 
     end
-      
+
 =begin
-    it "knows what a book title is" do
-      titles = @book_collection.titles
-      _(titles).must_include("Too Like the Lightning")
-      _(titles).must_include("Neuromancer")
-      _(titles).must_include("A Closed and Common Orbit")
-    end
+
+=====================================================
+ Need to a) figure out how to make that test work ^^^
+ and b) add text to the title files
+ and maybe c) put images in directory with title.md,
+ but maybe not.
+=====================================================
+
 
     it "knows what an image is" do
       _(@book_collection.image_filenames.first).must_equal "1_too_like_the_lightning.jpg"

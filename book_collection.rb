@@ -1,3 +1,5 @@
+require 'fileutils'
+
 class BookCollection
   attr_accessor :the_tree
 
@@ -9,9 +11,12 @@ class BookCollection
 
   def write(tree, target_file_path)
     tree.each {|line| 
-      unless File.exist? line
-        Pathname('target_file_path' + 'line').dirname.mkpath
-        #File.write('/a/b/c/d.txt', content)
+      path = target_file_path + line
+      unless File.exist? path
+        FileUtils.mkdir_p path
+        if line.end_with? ".md"
+        FileUtils.touch(path)
+        end
       end
     }
   end

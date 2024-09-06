@@ -47,7 +47,7 @@ class BookCollection
         title = name_from line
         path = (path_name_for author)+(path_name_for world)+(path_name_for series)+(path_name_for title)
         the_tree << path + (path_name_for title, '.md')
-        the_tree << path + (image_file_name_for image)
+        the_tree << path + image.gsub(/(\(|\))/,'')
       end
     }
     the_tree
@@ -60,12 +60,6 @@ class BookCollection
     (line.gsub!('WORLD_', ''))
     (line.gsub!('IMAGE_LINK_', ''))
     line.strip
-  end
-
-  def image_file_name_for name
-    punctuation = Regexp.new /(\(|\))/
-    name.gsub!(punctuation, '')
-    name
   end
 
   def path_name_for name, extension = '/'

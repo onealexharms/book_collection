@@ -13,24 +13,32 @@ class BookCollection
   def write_tree
     @the_tree.each_with_index {|line, index| 
       path = @target + line
-      if not line.end_with? '.md'
-        unless Dir.exist? path
+      if line_is_a_directory? line 
+        unless there_is_already_a_directory? path
           FileUtils.mkdir_p path
         end
       else
-#        until (@the_tree[index].strip).end_with? ('.jpg)'||'jpeg)'||'png)'||'webp)')
-          puts index
+        until line_is_a_file_name? @the_tree[index]
           puts @the_tree[index]
           index += 1
+        end
 #        end
 #        File.open(path, 'w')
 #        File.close
       end
     }
   end
+  
+  def line_is_a_file_name? line
+    line.end_with?('.md', '.jpg', '.jpeg', '.JPEG', '.webp')
+  end
 
   def line_is_a_directory? line
-    not line.end_with? '.md'
+    not line_is_a_file_name? line
+  end
+
+  def there_is_already_a_directory? path
+    Dir.exist? path
   end
 
   def tree

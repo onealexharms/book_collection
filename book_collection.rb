@@ -2,12 +2,18 @@ class BookCollection
   attr_accessor :the_tree
 
   def initialize source_file_path,target_file_path
-    source_file = File.readlines(source_file_path)
+    source_file = (File.readlines source_file_path)
     @the_tree = tree(source_file,target_file_path)
-    write @the_tree
+    write(@the_tree, target_file_path)
   end
 
-  def write tree
+  def write(tree, target_file_path)
+    tree.each {|line| 
+      unless File.exist? line
+        Pathname('target_file_path' + 'line').dirname.mkpath
+        #File.write('/a/b/c/d.txt', content)
+      end
+    }
   end
 
   def tree(source_file,target_file_path)
@@ -38,8 +44,8 @@ class BookCollection
         the_tree << path + (image_file_name_for image)
       end
     }
-  the_tree
-end
+    the_tree
+  end
 
   def name_from line
     (line.gsub!('AUTHOR_', ''))
@@ -69,13 +75,13 @@ end
   end
 
   def is_author? line
-     line.include?('AUTHOR_')
+    line.include?('AUTHOR_')
   end
 
   def is_series? line
     line.include?('SERIES_')
   end
-  
+
   def is_world? line
     line.include?('WORLD_')
   end

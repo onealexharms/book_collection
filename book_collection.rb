@@ -4,14 +4,15 @@ class BookCollection
   attr_accessor :the_tree
 
   def initialize source_file_path,target_file_path
-    source_file = (File.readlines source_file_path)
-    @the_tree = tree(source_file,target_file_path)
-    write(@the_tree, target_file_path)
+    @source_file = File.readlines source_file_path
+    @target = target_file_path
+    @the_tree = tree
+    write_tree
   end
 
-  def write(tree, target_file_path)
-    tree.each {|line| 
-      path = target_file_path + line
+  def write_tree
+    @the_tree.each {|line| 
+      path = @target + line
       unless File.exist? path
         FileUtils.mkdir_p path
         if line.end_with? ".md"
@@ -21,10 +22,10 @@ class BookCollection
     }
   end
 
-  def tree(source_file,target_file_path)
+  def tree
     the_tree = []
     path, author, world, series, title, image = '','','','','',''
-    source_file.each_with_index {|line, line_number|
+    @source_file.each_with_index {|line, line_number|
       if is_author? line
         author = name_from line
         path = path_name_for author

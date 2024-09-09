@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 gem 'guard'
-gem 'guard-minitest' 
+gem 'guard-minitest'
 gem 'guard-shell'
 gem 'guard-yield'

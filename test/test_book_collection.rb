@@ -1,80 +1,85 @@
-$LOAD_PATH.unshift File.expand_path('../..', __FILE__)
+$LOAD_PATH.unshift File.expand_path('..', __dir__)
 require 'book_collection'
 require 'minitest/autorun'
 require 'minitest/pride'
 require 'fileutils'
 
 class TestBookCollection < Minitest::Spec
-  DESTINATION_FILE_PATH = "./test/test_data/target/"
-  SOURCE_FILE_PATH = "./test/test_data/fake_index.md"
+  DESTINATION_FILE_PATH = './test/test_data/target/'
+  SOURCE_FILE_PATH = './test/test_data/fake_index.md'
 
   before do
-    FileUtils.remove_dir(DESTINATION_FILE_PATH)if Dir.exist?(DESTINATION_FILE_PATH)
-    @book_collection = BookCollection.new SOURCE_FILE_PATH, DESTINATION_FILE_PATH 
+    FileUtils.remove_dir(DESTINATION_FILE_PATH) if Dir.exist?(DESTINATION_FILE_PATH)
+    @book_collection = BookCollection.new SOURCE_FILE_PATH, DESTINATION_FILE_PATH
   end
 
-  describe "book collection" do
-    it "has Too Like the Lightning" do
-      _(@book_collection.the_tree).must_include("ada_palmer/terra_ignota/too_like_the_lightning/too_like_the_lightning.md") 
+  describe 'book collection' do
+    it 'has Too Like the Lightning' do
+      _(@book_collection.the_tree).must_include('Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/Too_Like_the_Lightning.md')
     end
 
-    it "has the right pic for Too Like the Lightning" do
-      _(@book_collection.the_tree).must_include("ada_palmer/terra_ignota/too_like_the_lightning/1_too_like_the_lightning.jpg") 
+    it 'has the right pic for Too Like the Lightning' do
+      path = 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/1_too_like_the_lightning.jpg'
+      _(@book_collection.the_tree)
+        .must_include(path);
     end
 
     it 'has the right pic for the last one' do
-      _(@book_collection.the_tree).must_include('william_gibson/bridge_trilogy/all_tomorrows_parties/Image%208-20-24,%2021-31-2.jpeg')
+      image = 
+        'William_Gibson/Bridge_Trilogy/All_Tomorrows_Parties/Image%208-20-24,%2021-31-2.jpeg'
+      _(@book_collection.the_tree)
+        .must_include('William_Gibson/Bridge_Trilogy/All_Tomorrows_Parties/Image%208-20-24,%2021-31-2.jpeg')
     end
 
-    it "has directories for authors" do
+    it 'has directories for authors' do
       _(@book_collection.the_tree)
-        .must_include "ada_palmer/"
+        .must_include 'Ada_Palmer/'
       _(@book_collection.the_tree)
-        .must_include "becky_chambers/"
+        .must_include 'Becky_Chambers/'
       _(@book_collection.the_tree)
-        .must_include "ursula_k_leguin/"
+        .must_include 'Ursula_K_LeGuin/'
     end
 
     it 'does not have authors as sub-directories' do
       _(@book_collection.the_tree)
-        .wont_include "/ada_palmer/"
+        .wont_include '/Ada_Palmer/'
       _(@book_collection.the_tree)
-        .wont_include "/becky_chambers/"
+        .wont_include '/Becky_Chambers/'
       _(@book_collection.the_tree)
-        .wont_include "/ursula_k_leguin/"
+        .wont_include '/Ursula_K_Leguin/'
     end
 
-    it "when the world level is the series name" do
-        _(@book_collection.the_tree)
-          .must_include 'ada_palmer/terra_ignota/'
-      end
+    it 'when the world level is the series name' do
+      _(@book_collection.the_tree)
+        .must_include 'Ada_Palmer/Terra_Ignota/'
+    end
 
-      it "when the world has series below it" do
-        _(@book_collection.the_tree)
-          .must_include 'victoria_goddard/the_nine_worlds/'
-      end
-      it "when the world has punctuation" do
-        _(@book_collection.the_tree)
-          .must_include 'william_gibson/burning_chrome_stories/'
-        _(@book_collection.the_tree)
-          .must_include 'john_scalzi/old_mans_war/'
-        _(@book_collection.the_tree)
-          .must_include 'patrick_rothfuss/the_name_of_the_wind/'
-      end
+    it 'when the world has series below it' do
+      _(@book_collection.the_tree)
+        .must_include 'Victoria_Goddard/The_Nine_Worlds/'
+    end
+    it 'when the world has punctuation' do
+      _(@book_collection.the_tree)
+        .must_include 'William_Gibson/Burning_Chrome_stories/'
+      _(@book_collection.the_tree)
+        .must_include 'John_Scalzi/Old_Mans_War/'
+      _(@book_collection.the_tree)
+        .must_include 'Patrick_Rothfuss/The_Name_of_the_Wind/'
+    end
 
-      it "knows the jackpot trilogy is its own world" do
-        _(@book_collection.the_tree)
-          .must_include 'william_gibson/jackpot_trilogy/'
-      end
+    it 'knows the jackpot trilogy is its own world' do
+      _(@book_collection.the_tree)
+        .must_include 'William_Gibson/Jackpot_Trilogy/'
+    end
 
-      it "has a westlands series under the deverry world" do
-        _(@book_collection.the_tree)
-          .must_include 'katherine_kerr/deverry_world/westlands/'
-      end
+    it 'has a Westlands series under the deverry world' do
+      _(@book_collection.the_tree)
+        .must_include 'Katherine_Kerr/Deverry_World/Westlands/'
+    end
 
-      it "has A Time of Omens in the Westlands folder" do
-        _(@book_collection.the_tree)
-          .must_include 'katherine_kerr/deverry_world/westlands/a_time_of_omens/a_time_of_omens.md'
-      end
+    it 'has A Time of Omens in the Westlands folder' do
+      _(@book_collection.the_tree)
+        .must_include 'Katherine_Kerr/Deverry_World/Westlands/A_Time_of_Omens/A_Time_of_Omens.md'
     end
   end
+end

@@ -6,17 +6,14 @@ class BookCollection
     @target = target_file_path
     @the_tree = tree
   end
-  
-  attr_reader :the_tree
 
-<<<<<<< HEAD
   attr_reader :the_tree
 
   def populate_tree
     @the_tree.each_with_index {|path, i|
     if is_title?(path)
       title = name_from line
-      puts 'title', title
+      puts 'title: ' + title
       new_path = 
         (path_name_for author) + 
         (path_name_for world) + 
@@ -33,18 +30,6 @@ class BookCollection
   def write_tree
     @the_tree.each_with_index { |path, index|
       target_path = @target + path
-=======
-  def write_tree
-    @the_tree.each_with_index { |path, index|
-      target_path = @target + path
-#     case target_path
-#     when 
-#     when
-#     when
-#     else
-#     end
-
->>>>>>> main
       if line_is_a_directory? target_path
         FileUtils.mkdir_p target_path unless there_is_already_a_directory? path
       end
@@ -63,7 +48,6 @@ class BookCollection
     else
       line.end_with?('.jpg', '.jpeg', '.JPEG', '.webp')
     end
-<<<<<<< HEAD
   end
 
   def line_is_a_file_name?(line)
@@ -81,19 +65,21 @@ class BookCollection
   def tree
     tree = []
     path, author, world, series, title, image = '', '', '', '', '', ''
-    @source_file.each_with_index { |line, _line_number|
+    @source_file.each { |line|
       if is_author?(line)  
         author = name_from line
         path = path_name_for author
         world, series, title = '', '', ''
         tree << path 
-      elsif is_world?(line)
+      end
+      if is_world?(line)
         world = name_from line
         path = (path_name_for author) + 
           (path_name_for world)
         series, title = '', ''
         tree << path 
-      elsif is_series?(line)
+      end
+      if is_series?(line)
         series = name_from line
         path = 
           (path_name_for author) + 
@@ -102,10 +88,17 @@ class BookCollection
         title = ''
         tree << path 
       end
+      if is_title?(line)
+        title = name_from line
+        path = 
+          (path_name_for author) +
+          (path_name_for world) +
+          (path_name_for series) +
+          (path_name_for title)
+        tree << path
+      end
     }
-    puts "======================================="
     puts tree
-    
     tree
   end
 
@@ -149,106 +142,5 @@ class BookCollection
 
   def is_title?(line)
     line.include?('TITLE_')
-=======
->>>>>>> main
   end
-
-  def line_is_a_file_name?(line)
-    line && line.end_with?('.md', '.jpg', '.jpeg', '.JPEG', '.webp')
-  end
-
-  def line_is_a_directory?(line)
-    !line_is_a_file_name? line
-  end
-
-  def there_is_already_a_directory_or_file?(path)
-    File.exist? path
-  end
-
-  def tree
-    tree = []
-    path, author, world, series, title, image = '', '', '', '', '', ''
-    @source_file.each_with_index { |line, _line_number|
-      if is_author? line
-        author = name_from line
-        puts '----------------'
-        puts 'author', author
-        path = path_name_for author
-        world, series, title = '', '', ''
-        tree << path
-      elsif is_world? line
-        world = name_from line
-        puts 'world', world
-        path = (path_name_for author) + 
-          (path_name_for world)
-        series, title = '', ''
-        tree << path
-      elsif is_series? line
-        series = name_from line
-        puts 'series', series
-        path = 
-          (path_name_for author) + 
-          (path_name_for world) + 
-          (path_name_for series)
-        title = ''
-        tree << path
-      elsif is_image? line
-        image = name_from line
-        puts 'path', (path_name_for image)
-      elsif is_title? line
-        title = name_from line
-        puts 'title', title
-        path = 
-          (path_name_for author) + 
-          (path_name_for world) + 
-          (path_name_for series) + 
-          (path_name_for title)
-        parens = Regexp.new '[(\(|\))]'
-        tree << (path + (path_name_for title, '.md'))
-        tree << (path + image.gsub(parens, ''))
-      end
-    }
-    tree
-  end
-
-  def name_from(line)
-    line.gsub!('AUTHOR_', '')
-    line.gsub!('TITLE_', '')
-    line.gsub!('SERIES_', '')
-    line.gsub!('WORLD_', '')
-    line.gsub!('IMAGE_LINK_', '')
-    line.strip
-  end
-
-  def path_name_for(name, extension = '/')
-    if name > ''
-      punctuation = Regexp.new '[’\()\[\]\{}]'
-      name.gsub!(' ', '_')
-      name.gsub!(punctuation, '')
-      name + extension
-    else
-      ''
-    end
-  end
-
-  def is_author?(line)
-    line.include?('AUTHOR_')
-  end
-
-  def is_series?(line)
-    line.include?('SERIES_')
-  end
-
-  def is_world?(line)
-    line.include?('WORLD_')
-  end
-
-  def is_image?(line)
-    line.include?('IMAGE_LINK_')
-  end
-
-  def is_title?(line)
-    line.include?('TITLE_')
-  end
-
 end

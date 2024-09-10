@@ -5,7 +5,6 @@ class BookCollection
     @source_file = File.readlines source_file_path
     @target = target_file_path
     @the_tree = tree
-    populate_tree
   end
 
   attr_reader :the_tree
@@ -69,31 +68,28 @@ class BookCollection
     @source_file.each_with_index { |line, _line_number|
       if is_author?(line)  
         author = name_from line
-        puts '----------------'
-        puts 'author', author
         path = path_name_for author
         world, series, title = '', '', ''
         tree << path 
       elsif is_world?(line)
         world = name_from line
-        puts 'world', world
         path = (path_name_for author) + 
           (path_name_for world)
         series, title = '', ''
         tree << path 
       elsif is_series?(line)
         series = name_from line
-        puts 'series', series
         path = 
           (path_name_for author) + 
           (path_name_for world) + 
           (path_name_for series)
         title = ''
         tree << path 
-      elsif is_title? line
-
       end
     }
+    puts "======================================="
+    puts tree
+    
     tree
   end
 
@@ -138,5 +134,4 @@ class BookCollection
   def is_title?(line)
     line.include?('TITLE_')
   end
-
 end

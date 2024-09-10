@@ -14,6 +14,7 @@ class TestBookCollection < Minitest::Spec
   end
 
   describe 'book collection' do
+<<<<<<< HEAD
 =begin
     it 'has Too Like the Lightning' do
       _(@book_collection.the_tree).must_include('Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/Too_Like_the_Lightning.md')
@@ -74,6 +75,74 @@ class TestBookCollection < Minitest::Spec
     it 'knows the jackpot trilogy is its own world' do
       _(@book_collection.the_tree)
         .must_include 'William_Gibson/Jackpot_Trilogy/'
+=======
+    it 'has Too Like the Lightning' do
+      _(@book_collection.the_tree).must_include('Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/Too_Like_the_Lightning.md')
+    end
+
+    it 'has the right pic for Too Like the Lightning' do
+      path = 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/1_too_like_the_lightning.jpg'
+      _(@book_collection.the_tree)
+        .must_include(path);
+    end
+
+    it 'has the right pic for the last one' do
+      image = 
+        'William_Gibson/Bridge_Trilogy/All_Tomorrows_Parties/Image%208-20-24,%2021-31-2.jpeg'
+      _(@book_collection.the_tree)
+        .must_include('William_Gibson/Bridge_Trilogy/All_Tomorrows_Parties/Image%208-20-24,%2021-31-2.jpeg')
+    end
+
+    it 'has directories for authors' do
+      _(@book_collection.the_tree)
+        .must_include 'Ada_Palmer/'
+      _(@book_collection.the_tree)
+        .must_include 'Becky_Chambers/'
+      _(@book_collection.the_tree)
+        .must_include 'Ursula_K_LeGuin/'
+    end
+
+    it 'does not have authors as sub-directories' do
+      _(@book_collection.the_tree)
+        .wont_include '/Ada_Palmer/'
+      _(@book_collection.the_tree)
+        .wont_include '/Becky_Chambers/'
+      _(@book_collection.the_tree)
+        .wont_include '/Ursula_K_Leguin/'
+    end
+
+    it 'when the world level is the series name' do
+      _(@book_collection.the_tree)
+        .must_include 'Ada_Palmer/Terra_Ignota/'
+    end
+
+    it 'when the world has series below it' do
+      _(@book_collection.the_tree)
+        .must_include 'Victoria_Goddard/The_Nine_Worlds/'
+    end
+    it 'when the world has punctuation' do
+      _(@book_collection.the_tree)
+        .must_include 'William_Gibson/Burning_Chrome_stories/'
+      _(@book_collection.the_tree)
+        .must_include 'John_Scalzi/Old_Mans_War/'
+      _(@book_collection.the_tree)
+        .must_include 'Patrick_Rothfuss/The_Name_of_the_Wind/'
+    end
+
+    it 'knows the jackpot trilogy is its own world' do
+      _(@book_collection.the_tree)
+        .must_include 'William_Gibson/Jackpot_Trilogy/'
+    end
+
+    it 'has a Westlands series under the deverry world' do
+      _(@book_collection.the_tree)
+        .must_include 'Katherine_Kerr/Deverry_World/Westlands/'
+    end
+
+    it 'has A Time of Omens in the Westlands folder' do
+      _(@book_collection.the_tree)
+        .must_include 'Katherine_Kerr/Deverry_World/Westlands/A_Time_of_Omens/A_Time_of_Omens.md'
+>>>>>>> main
     end
 
     it 'has a Westlands series under the deverry world' do

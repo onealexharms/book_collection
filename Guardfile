@@ -1,18 +1,13 @@
-guard :shell do
-  watch(//) {|modified_files|
-  modified_files } 
-end
-
 guard :minitest do
-#guard :minitest, cli: "--verbose" do
+  # guard :minitest, cli: "--verbose" do
   # with Minitest::Unit
-  watch(%r{^test/(.*)\/?test_(.*)\.rb$}) { |m| "test/#{m[1]}test_#{m[2]}.rb" }
-  watch(%r{^(.+).rb$})     { |m| "test/#{m[1]}test_#{m[2]}.rb" }
+  watch(%r{^test/(.*)/?test_(.*)\.rb$}) { |m| "test/#{m[1]}test_#{m[2]}.rb" }
+  watch(/^(.+).rb$/) { |m| "test/test_#{m[1]}.rb" }
   watch(%r{^test/test_helper\.rb$}) { 'test' }
 
   # with Minitest::Spec
   watch(%r{^spec/(.*)_spec\.rb$})
-  watch(%r{^/(.+)\.rb$})         { |m| "spec/#{m[1]}_spec.rb" }
+  watch(%r{^/(.+)\.rb$}) { |m| "spec/#{m[1]}_spec.rb" }
   watch(%r{^spec/spec_helper\.rb$}) { 'spec' }
 end
 
@@ -20,10 +15,10 @@ end
 # Example 1: Run a single command whenever a file is added
 
 notifier = proc do |title, _, changes|
-  Guard::Notifier.notify(changes * ",", title: title )
+  Guard::Notifier.notify(changes * ',', title: title)
 end
 
-guard :yield, { run_on_additions: notifier, object: "Add missing specs!" } do
+guard :yield, { run_on_additions: notifier, object: 'Add missing specs!' } do
   watch(/^(.*)\.rb$/) { |m| "spec/#{m}_spec.rb" }
 end
 
@@ -31,14 +26,14 @@ end
 
 require 'logger'
 yield_options = {
-  object: ::Logger.new(STDERR), # passed to every other call
+  object: ::Logger.new($stderr), # passed to every other call
 
   start: proc { |logger| logger.level = Logger::INFO },
-  stop: proc { |logger| logger.info "Guard::Yield - Done!" },
+  stop: proc { |logger| logger.info 'Guard::Yield - Done!' },
 
   run_on_modifications: proc { |log, _, files| log.info "!! #{files * ','}" },
   run_on_additions: proc { |log, _, files| log.warn "++ #{files * ','}" },
-  run_on_removals: proc { |log, _, files| log.error "xx #{files * ','}" },
+  run_on_removals: proc { |log, _, files| log.error "xx #{files * ','}" }
 }
 
 guard :yield, yield_options do
@@ -68,4 +63,3 @@ end
 #  $ ln -s config/Guardfile .
 #
 # and, you'll have to watch "config/Guardfile" instead of "Guardfile"
-

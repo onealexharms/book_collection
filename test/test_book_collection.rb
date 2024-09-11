@@ -35,49 +35,49 @@ class TestBookCollection < Minitest::Spec
     end
 =end
     it 'has directories for authors' do
-      _(@book_collection.the_tree)
+      _(@book_collection.the_tree.to_s)
         .must_include 'Ada_Palmer/'
-      _(@book_collection.the_tree)
+      _(@book_collection.the_tree.to_s)
         .must_include 'Becky_Chambers/'
-      _(@book_collection.the_tree)
+      _(@book_collection.the_tree.to_s)
         .must_include 'Ursula_K_LeGuin/'
     end
 
     it 'does not have authors as sub-directories' do
-      _(@book_collection.the_tree)
+      _(@book_collection.the_tree.to_s)
         .wont_include '/Ada_Palmer/'
-      _(@book_collection.the_tree)
+      _(@book_collection.the_tree.to_s)
         .wont_include '/Becky_Chambers/'
-      _(@book_collection.the_tree)
+      _(@book_collection.the_tree.to_s)
         .wont_include '/Ursula_K_Leguin/'
     end
 
     it 'when the world level is the series name' do
-      _(@book_collection.the_tree)
+      _(@book_collection.the_tree.to_s)
         .must_include 'Ada_Palmer/Terra_Ignota/'
     end
 
     it 'when the world has series below it' do
-      _(@book_collection.the_tree)
+      _(@book_collection.the_tree.to_s)
         .must_include 'Victoria_Goddard/The_Nine_Worlds/'
     end
 
     it 'when the world has punctuation' do
-      _(@book_collection.the_tree)
+      _(@book_collection.the_tree.to_s)
         .must_include 'William_Gibson/Burning_Chrome_stories/'
-      _(@book_collection.the_tree)
+      _(@book_collection.the_tree.to_s)
         .must_include 'John_Scalzi/Old_Mans_War/'
-      _(@book_collection.the_tree)
+      _(@book_collection.the_tree.to_s)
         .must_include 'Patrick_Rothfuss/The_Name_of_the_Wind/'
     end
 
     it 'knows the jackpot trilogy is its own world' do
-      _(@book_collection.the_tree)
+      _(@book_collection.the_tree.to_s)
         .must_include 'William_Gibson/Jackpot_Trilogy/'
     end
 
     it 'has a Westlands series under the deverry world' do
-      _(@book_collection.the_tree)
+      _(@book_collection.the_tree.to_s)
         .must_include 'Katherine_Kerr/Deverry_World/Westlands/'
     end
 

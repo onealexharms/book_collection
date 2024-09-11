@@ -5,6 +5,7 @@ class BookCollection
     @source_file = File.readlines source_file_path
     @target = target_file_path
     @the_tree = tree
+    puts tree
   end
 
   attr_reader :the_tree
@@ -43,8 +44,7 @@ class BookCollection
   end
 
   def line_is_an_image?(line)
-    if line.nil? or line == ''
-      ''
+    if not (line.nil? or line == '')
     else
       line.end_with?('.jpg', '.jpeg', '.JPEG', '.webp')
     end
@@ -66,39 +66,29 @@ class BookCollection
     tree = []
     path, author, world, series, title, image = '', '', '', '', '', ''
     @source_file.each { |line|
-      if is_author?(line)  
+      if is_blank?(line)
+      elsif is_author?(line)  
         author = name_from line
-        path = path_name_for author
         world, series, title = '', '', ''
-        tree << path 
-      end
-      if is_world?(line)
+ 
+      elsif is_world?(line)
         world = name_from line
-        path = (path_name_for author) + 
-          (path_name_for world)
         series, title = '', ''
-        tree << path 
-      end
-      if is_series?(line)
+
+      elsif is_series?(line)
         series = name_from line
-        path = 
-          (path_name_for author) + 
-          (path_name_for world) + 
-          (path_name_for series)
         title = ''
-        tree << path 
-      end
-      if is_title?(line)
-        title = name_from line
+ 
+      elsif is_image?(line)
+        files_for (line)
         path = 
           (path_name_for author) +
           (path_name_for world) +
           (path_name_for series) +
           (path_name_for title)
-        tree << path
+          tree << path
       end
     }
-    puts tree
     tree
   end
 
@@ -122,6 +112,36 @@ class BookCollection
     else
       ''
     end
+  end
+
+  def files_for line
+    i = @source_file.find_index line 
+    title = title_from i
+    description = description_from i
+  end
+  
+  def title_from i
+    lines = @source_file[i..-1] 
+    lines.each do |line|
+      if is_title? line
+        title = name_from line 
+      end
+      return title
+    end
+  end
+
+  def description_from i
+  ''         
+  end
+
+  def is_blank? line
+    not line.match? /\w/
+  end
+
+  def is_a_header? line 
+    is_author? line or  
+      is_series? line or 
+      is_world? line
   end
 
   def is_author?(line)

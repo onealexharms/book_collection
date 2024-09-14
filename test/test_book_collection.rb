@@ -23,13 +23,14 @@ class TestBookCollection < Minitest::Spec
       _(@book_collection.the_tree.to_s)
         .must_include 'Ursula_K_LeGuin/'
     end
+
+    it 'has a file for Too Like the Lightning' do
+      _(@book_collection.the_tree).must_include('Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/Too_Like_the_Lightning.md')
+    end
   end
 end
 
 =begin
-    it 'has Too Like the Lightning' do
-      _(@book_collection.the_tree).must_include('Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/Too_Like_the_Lightning.md')
-    end
     it 'has the right pic for Too Like the Lightning' do
       path = 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/1_too_like_the_lightning.jpg'
       _(@book_collection.the_tree)

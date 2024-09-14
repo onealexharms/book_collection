@@ -1,9 +1,7 @@
 require 'fileutils'
 
-# why does the tree contain images
 # what do I do with the nulls and the \n in this data grrr 
 # how do I get a trace (or how to use logger but I'd rather just have a trace)
-# does there have to be a difference between returns and evaluates to?
 class BookCollection
   def initialize(source_file_path, target_file_path)
     @source_file = File.readlines source_file_path
@@ -14,7 +12,7 @@ class BookCollection
   attr_reader :the_tree
 
   def tree
-    tree = []
+    tree = {} 
     description = ''
     author = ''
     world = ''
@@ -35,11 +33,12 @@ class BookCollection
         title = ''
       elsif title?(line)
         title = line
-        tree << [(path_name_for author) + 
+        filename = (path_name_for author) + 
           (path_name_for world) + 
           (path_name_for series) + 
-          (path_name_for title) + "\n" +
-          (description_from line)] 
+          (path_name_for title) +
+          (path_name_for title,'.md')
+        tree[filename] = nil
       end
     end
     tree

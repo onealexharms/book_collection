@@ -16,6 +16,8 @@ class BookCollection
 
   attr_reader :the_tree
 
+  # ["path\ndescription" ]
+
   def tree
     tree = {} 
     description = ''
@@ -43,6 +45,7 @@ class BookCollection
           (path_name_for series) + 
           (path_name_for title) +
           (path_name_for title,'.md')
+        
         tree[filename] = nil
       end
     end

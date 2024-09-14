@@ -32,9 +32,7 @@ class TestBookCollection < Minitest::Spec
       _(@book_collection.the_tree)
         .must_include 'Katherine_Kerr/Deverry_World/Westlands/A_Time_of_Omens/A_Time_of_Omens.md'
     end
-  end
-end
-=begin
+
     it 'does not have authors as sub-directories' do
       _(@book_collection.the_tree.to_s)
         .wont_include '/Ada_Palmer/'
@@ -74,9 +72,13 @@ end
     end
 
     it 'has a directory for A Time of Omens' do
-     _(@book_collection.the_tree)
+      _(@book_collection.the_tree.to_s)
       .must_include 'Katherine_Kerr/Deverry_World/Westlands/A_Time_of_Omens/'
      end
+
+  end
+end
+=begin
      Galaxy and the Ground Within has no image in the test file
     it 'has the right pic for Too Like the Lightning' do
       path = 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/1_too_like_the_lightning.jpg'

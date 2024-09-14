@@ -16,12 +16,12 @@ class TestBookCollection < Minitest::Spec
   describe 'book collection' do
     
     it 'has directories for authors' do
-      _(@book_collection.the_tree[0..8])
+      _(@book_collection.the_tree.to_s)
         .must_include 'Ada_Palmer/'
-#      _(@book_collection.the_tree.to_s)
-#        .must_include 'Becky_Chambers/'
-#      _(@book_collection.the_tree.to_s)
-#        .must_include 'Ursula_K_LeGuin/'
+      _(@book_collection.the_tree.to_s)
+        .must_include 'Becky_Chambers/'
+      _(@book_collection.the_tree.to_s)
+        .must_include 'Ursula_K_LeGuin/'
     end
   end
 end

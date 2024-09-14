@@ -15,7 +15,6 @@ class BookCollection
 
   def tree
     tree = []
-    path = []
     description = ''
     author = ''
     world = ''
@@ -36,16 +35,14 @@ class BookCollection
         title = ''
       elsif title?(line)
         title = line
-        path = [(path_name_for author) + 
+        tree << [(path_name_for author) + 
           (path_name_for world) + 
           (path_name_for series) + 
           (path_name_for title) + "\n" +
           (description_from line)] 
-        puts '--------'
-        puts path
-        path
       end
     end
+    tree
   end
 
   def name_from(line)
@@ -74,11 +71,9 @@ class BookCollection
     index = @source_file.find_index(line) + 1
     description = ''
     if @source_file[index]
-      until header?(@source_file[index])
-        if !@source_file[index].nil?
+      until @source_file[index].nil? or header?(@source_file[index])
           description = description.concat(non_blank_line(index))
           index += 1
-        end
       end
     end
     description

@@ -27,25 +27,14 @@ class TestBookCollection < Minitest::Spec
     it 'has a file for Too Like the Lightning' do
       _(@book_collection.the_tree).must_include('Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/Too_Like_the_Lightning.md')
     end
-  end
-end
 
-=begin
-    it 'has the right pic for Too Like the Lightning' do
-      path = 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/1_too_like_the_lightning.jpg'
-      _(@book_collection.the_tree)
-        .must_include(path);
-    end
-    it 'has the right pic for the last one' do
-      image = 
-        'William_Gibson/Bridge_Trilogy/All_Tomorrows_Parties/Image%208-20-24,%2021-31-2.jpeg'
-      _(@book_collection.the_tree)
-        .must_include('William_Gibson/Bridge_Trilogy/All_Tomorrows_Parties/Image%208-20-24,%2021-31-2.jpeg')
-    end
     it 'has A Time of Omens in the Westlands folder' do
       _(@book_collection.the_tree)
         .must_include 'Katherine_Kerr/Deverry_World/Westlands/A_Time_of_Omens/A_Time_of_Omens.md'
     end
+  end
+end
+=begin
     it 'does not have authors as sub-directories' do
       _(@book_collection.the_tree.to_s)
         .wont_include '/Ada_Palmer/'
@@ -89,4 +78,15 @@ end
       .must_include 'Katherine_Kerr/Deverry_World/Westlands/A_Time_of_Omens/'
      end
      Galaxy and the Ground Within has no image in the test file
+    it 'has the right pic for Too Like the Lightning' do
+      path = 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/1_too_like_the_lightning.jpg'
+      _(@book_collection.the_tree)
+        .must_include(path);
+    end
+    it 'has the right pic for the last one' do
+      image = 
+        'William_Gibson/Bridge_Trilogy/All_Tomorrows_Parties/Image%208-20-24,%2021-31-2.jpeg'
+      _(@book_collection.the_tree)
+        .must_include('William_Gibson/Bridge_Trilogy/All_Tomorrows_Parties/Image%208-20-24,%2021-31-2.jpeg')
+    end
 =end

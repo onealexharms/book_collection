@@ -4,9 +4,14 @@ require 'fileutils'
 # how do I get a trace (or how to use logger but I'd rather just have a trace)
 class BookCollection
   def initialize(source_file_path, target_file_path)
-    @source_file = File.readlines source_file_path
+    @source_file = lines_from source_file_path 
     @target = target_file_path
     @the_tree = tree
+  end
+
+  def lines_from source_file_path
+    contents = File.read source_file_path   
+    contents.gsub(/\0+/, "\n").lines
   end
 
   attr_reader :the_tree

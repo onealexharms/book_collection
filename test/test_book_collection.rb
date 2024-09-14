@@ -72,10 +72,11 @@ class TestBookCollection < Minitest::Spec
     end
 
     it 'has a directory for A Time of Omens' do
-      _(@book_collection.the_tree.to_s)
-      .must_include 'Katherine_Kerr/Deverry_World/Westlands/A_Time_of_Omens/'
-     end
-
+      directories = @book_collection.the_tree.keys.map do |path|
+        File.dirname(path)
+      end
+      _(directories).must_include "Katherine_Kerr/Deverry_World/Westlands/A_Time_of_Omens"
+    end
   end
 end
 =begin

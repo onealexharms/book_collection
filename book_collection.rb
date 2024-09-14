@@ -25,10 +25,10 @@ class BookCollection
     world = ''
     series = ''
     title = ''
-    image = ''
+    image = nil 
     @source_file.each do |line|
       if image? line
-        line = ''
+        image = line
       elsif author?(line)  
         author = line
         world, series, title = '', '', ''
@@ -40,13 +40,23 @@ class BookCollection
         title = ''
       elsif title?(line)
         title = line
-        filename = (path_name_for author) + 
+        title_filename = (path_name_for author) + 
           (path_name_for world) + 
           (path_name_for series) + 
           (path_name_for title) +
           (path_name_for title,'.md')
-        
-        tree[filename] = nil
+        tree[title_filename] = nil
+
+        unless image.nil?
+          image_filename = (path_name_for author) +
+            (path_name_for world) +
+            (path_name_for series) +
+            (path_name_for title) +
+            (path_name_for image, '')
+
+          tree[image_filename] = nil
+          image = nil
+        end
       end
     end
     tree

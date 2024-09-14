@@ -77,16 +77,18 @@ class TestBookCollection < Minitest::Spec
       end
       _(directories).must_include "Katherine_Kerr/Deverry_World/Westlands/A_Time_of_Omens"
     end
-  end
-end
-=begin
-     Galaxy and the Ground Within has no image in the test file
+#     Galaxy and the Ground Within has no image in the test file
+
     it 'has the right pic for Too Like the Lightning' do
       path = 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/1_too_like_the_lightning.jpg'
       _(@book_collection.the_tree)
         .must_include(path);
     end
-    it 'has the right pic for the last one' do
+  end
+end
+
+=begin
+it 'has the right pic for the last one' do
       image = 
         'William_Gibson/Bridge_Trilogy/All_Tomorrows_Parties/Image%208-20-24,%2021-31-2.jpeg'
       _(@book_collection.the_tree)

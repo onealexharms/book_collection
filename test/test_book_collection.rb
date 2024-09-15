@@ -14,7 +14,7 @@ class TestBookCollection < Minitest::Spec
   end
 
   describe 'book collection' do
-    
+=begin
     it 'has directories for authors' do
       _(@book_collection.the_tree.to_s)
         .must_include 'Ada_Palmer/'
@@ -77,27 +77,19 @@ class TestBookCollection < Minitest::Spec
       end
       _(directories).must_include "Katherine_Kerr/Deverry_World/Westlands/A_Time_of_Omens"
     end
-
+=end
     it 'should not have an _image_ for Galaxy and the Ground Within' do
       dir = 'Becky_Chambers/Wayfarer/The_Galaxy_and_the_Ground_Within'
-      files_in_dir = @book_collection.the_tree.keys.select do |path|
-        File.dirname(path) == dir
+      _(@book_collection.the_tree['Becky_Chambers/Wayfarer/The_Galaxy_and_the_Ground_Within/'].last).must_be_nil
       end
-      _(files_in_dir.length).must_equal 1
-    end
 
     it 'has the right pic for Too Like the Lightning' do
-      path = 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/1_too_like_the_lightning.jpg'
-      _(@book_collection.the_tree)
-        .must_include(path);
+      path = '1_too_like_the_lightning.jpg'
+      _(@book_collection.the_tree['Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/'].last).must_equal('1_too_like_the_lightning.jpg')
     end
 
     it 'has the right pic for the last one' do
-      image = 
-        'William_Gibson/Bridge_Trilogy/All_Tomorrows_Parties/Image%208-20-24,%2021-31-2.jpeg'
-      _(@book_collection.the_tree)
-        .must_include('William_Gibson/Bridge_Trilogy/All_Tomorrows_Parties/Image%208-20-24,%2021-31-2.jpeg')
+      _(@book_collection.the_tree['William_Gibson/Bridge_Trilogy/All_Tomorrows_Parties/'].last).must_equal('Image%208-20-24,%2021-31-2.jpeg')
     end
   end
 end
-

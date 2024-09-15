@@ -1,6 +1,5 @@
 require 'fileutils'
 
-# what do I do with the nulls and the \n in this data grrr 
 # how do I get a trace (or how to use logger but I'd rather just have a trace)
 class BookCollection
   def initialize(source_file_path, target_file_path)
@@ -16,8 +15,6 @@ class BookCollection
 
   attr_reader :the_tree
 
-  # ["path\ndescription" ]
-
   def tree
     tree = {} 
     description = ''
@@ -29,37 +26,50 @@ class BookCollection
     @source_file.each do |line|
       if image? line
         image = line
-      elsif author?(line)  
+      elsif author? line  
         author = line
         world, series, title = '', '', ''
-      elsif world?(line)
+      elsif world? line
         world = line
         series, title = '', ''
-      elsif series?(line)
+      elsif series? line
         series = line
         title = ''
-      elsif title?(line)
+      elsif title? line
         title = line
-        title_filename = path_name_for(title, '.md')
-        unless image.nil?
-          image_filename = path_name_for(image, '')
-        end
-
-        path = (path_name_for author) + 
-          (path_name_for world) + 
-          (path_name_for series) + 
-          (path_name_for title)
-
-        title_path = path + title_filename
-        image_path = path + image_filename
-
-        tree[title_path] = description_from title
-
-        tree[image_path] = '' 
+        description = description_from line
+        paths = get_your_shit_together(author, 
+                                       world, 
+                                       series, 
+                                       title, 
+                                       description,
+                                       image) 
+        
+        tree[paths.first] = paths.last
         image = ''
-      end
-    end
+      end 
+    end 
+    puts tree.inspect
     tree
+  end 
+
+  def get_your_shit_together(author, 
+                             world, 
+                             series, 
+                             title, 
+                             description,
+                             image)
+    
+    base_path = (path_name_for author) + 
+      (path_name_for world) + 
+      (path_name_for series) + 
+      (path_name_for title)
+
+    title_path = base_path + path_name_for(title, '.md')
+    unless image == ''
+      image_path = path_name_for(image, '')
+    end
+    [base_path, [description, image_path]]
   end
 
   def name_from(line)

@@ -1,19 +1,27 @@
 require 'fileutils'
 
-# how do I get a trace (or how to use logger but I'd rather just have a trace)
 class BookCollection
   def initialize(source_file_path, target_file_path)
     @source_file = lines_from source_file_path 
-    @target = target_file_path
     @the_tree = tree
+    write_directories(target_file_path, @the_tree)
+  end
+
+  attr_reader :the_tree
+
+  def write_directories(target_file_path, tree)
+    tree.keys.each do |path|
+      full_path = target_file_path + path
+      unless File.exist?(full_path)
+        FileUtils.mkdir_p(full_path)
+      end
+    end
   end
 
   def lines_from source_file_path
     contents = File.read source_file_path   
     contents.gsub(/\0+/, "\n").lines
   end
-
-  attr_reader :the_tree
 
   def tree
     tree = {} 
@@ -38,28 +46,27 @@ class BookCollection
       elsif title? line
         title = line
         description = description_from line
-        paths = get_your_shit_together(author, 
-                                       world, 
-                                       series, 
-                                       title, 
-                                       description,
-                                       image) 
-        
+        paths = collect_paths(author, 
+                              world, 
+                              series, 
+                              title, 
+                              description,
+                              image) 
+ 
         tree[paths.first] = paths.last
         image = ''
       end 
     end 
-    puts tree.inspect
     tree
   end 
 
-  def get_your_shit_together(author, 
-                             world, 
-                             series, 
-                             title, 
-                             description,
-                             image)
-    
+  def collect_paths(author, 
+                    world, 
+                    series, 
+                    title, 
+                    description,
+                    image)
+
     base_path = (path_name_for author) + 
       (path_name_for world) + 
       (path_name_for series) + 
@@ -73,15 +80,16 @@ class BookCollection
   end
 
   def name_from(line)
+    content = line.clone
     punctuation = Regexp.new '[’\(\)\[\]\{}]'
-    line.gsub!('AUTHOR_', '')
-    line.gsub!('TITLE_', '')
-    line.gsub!('SERIES_', '')
-    line.gsub!('WORLD_', '')
-    line.gsub!('IMAGE_LINK_', '')
-    line.gsub!(punctuation, '')
-    line.gsub!("\n", '')
-    line.strip
+    content.gsub!('AUTHOR_', '')
+    content.gsub!('TITLE_', '')
+    content.gsub!('SERIES_', '')
+    content.gsub!('WORLD_', '')
+    content.gsub!('IMAGE_LINK_', '')
+    content.gsub!(punctuation, '')
+    content.gsub!("\n", '')
+    content.strip
   end
 
   def path_name_for(line, extension = '/')

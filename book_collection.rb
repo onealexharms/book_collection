@@ -22,20 +22,23 @@ class BookCollection
   def write_images(source_file_path, target_file_path)
     source_image_directory = File.dirname(source_file_path) + '/images/'
     @the_tree.keys.each do |title_directory|
-      image_filename = 'placeholder.jpg'
       image_reference = @the_tree[title_directory][1]
       if image_reference
-        unless image_reference.start_with?('http')
+        if image_reference.start_with?('http')
+          image_filename = 'placeholder.jpg'
+        else
           image_filename = image_reference
         end
-      end
-      target_image_path = title_directory + image_filename
-      if File.exist?(source_file_path + image_filename)
-        source_path = 
-          source_image_directory + image_filename
-          FileUtils.copy_file(source_path, target_image_path) 
       else
-          FileUtils.touch(target_image_path)
+        image_filename = 'placeholder.jpg'
+      end
+
+      target_image_path = target_file_path + title_directory + image_filename
+      if File.exist?(source_file_path + image_filename)
+          source_image_directory + image_filename
+        FileUtils.copy_file((source_image_directory + image_filename), target_image_path) 
+      else
+        FileUtils.touch(target_image_path)
       end
     end
   end

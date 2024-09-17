@@ -4,16 +4,38 @@ class BookCollection
   def initialize(source_file_path, target_file_path)
     @source_file = lines_from source_file_path 
     @the_tree = tree
-    write_directories(target_file_path, @the_tree)
+    write_directories(target_file_path)
+    write_images(source_file_path, target_file_path)
   end
 
   attr_reader :the_tree
 
-  def write_directories(target_file_path, tree)
-    tree.keys.each do |path|
-      full_path = target_file_path + path
-      unless File.exist?(full_path)
-        FileUtils.mkdir_p(full_path)
+  def write_directories(target_file_path)
+    @the_tree.keys.each do |title_directory|
+      title_path = target_file_path + title_directory
+      unless File.exist?(title_path)
+        FileUtils.mkdir_p(title_path)
+      end
+    end
+  end
+
+  def write_images(source_file_path, target_file_path)
+    source_image_directory = File.dirname(source_file_path) + '/images/'
+    @the_tree.keys.each do |title_directory|
+      image_filename = 'placeholder.jpg'
+      image_reference = @the_tree[title_directory][1]
+      if image_reference
+        unless image_reference.start_with?('http')
+          image_filename = image_reference
+        end
+      end
+      target_image_path = title_directory + image_filename
+      if File.exist?(source_file_path + image_filename)
+        source_path = 
+          source_image_directory + image_filename
+          FileUtils.copy_file(source_path, target_image_path) 
+      else
+          FileUtils.touch(target_image_path)
       end
     end
   end

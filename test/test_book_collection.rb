@@ -26,5 +26,10 @@ class TestBookCollection < Minitest::Spec
     it 'has a world and series' do
       _(@book_collection.the_tree.keys).must_include 'Robin_Hobb/Realm_of_the_Elderlings/Farseer_Trilogy/Assassins_Apprentice/'
     end
+
+    it 'has images' do
+      title = 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning'
+      _(@book_collection.the_tree['Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/'][1]).must_equal '1_too_like_the_lightning.jpg'
+    end
   end
 end

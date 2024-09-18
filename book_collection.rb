@@ -4,9 +4,6 @@ class BookCollection
   def initialize(source_file)
     @source_file = source_file
     @the_tree = tree
-    #write_directories target_file_path
-    #write_images(source_file_path, target_file_path)
-    #write_descriptions target_file_path
   end
 
   attr_reader :the_tree
@@ -69,7 +66,7 @@ class BookCollection
 
   def name_from(line)
     content = line.clone
-    punctuation = Regexp.new /[\’\(\)\[\]\{}\#']/
+    punctuation = Regexp.new /[’\(\)\[\]\{}\#'!|]/
     content.gsub!(punctuation, '')
     content.gsub!("\n", '')
     content.strip
@@ -131,7 +128,7 @@ class BookCollection
   end
 
   def image?(line)
-    false
+    line.include?"![]"
   end
 
   def title?(line)

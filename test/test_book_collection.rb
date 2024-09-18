@@ -6,8 +6,8 @@ require 'fileutils'
 
 class TestBookCollection < Minitest::Spec
   before do
-    fake_data = File.readlines('test/test_data/test_index.md')
-    @book_collection = BookCollection.new fake_data
+    data = File.readlines('test/test_data/normalized_index.md')
+    @book_collection = BookCollection.new data
   end
 
   describe 'book collection' do
@@ -21,6 +21,10 @@ class TestBookCollection < Minitest::Spec
     
     it 'has a world for Too Like the Lightning' do
       _(@book_collection.the_tree.keys).must_include 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/'
+    end
+    
+    it 'has a world and series' do
+      _(@book_collection.the_tree.keys).must_include 'Robin_Hobb/Realm_of_the_Elderlings/Farseer_Trilogy/Assassins_Apprentice/'
     end
   end
 end

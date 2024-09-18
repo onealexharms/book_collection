@@ -1,67 +1,15 @@
 require 'fileutils'
 
 class BookCollection
-  def initialize(source_file_path, target_file_path)
-    @source_file = lines_from source_file_path 
+  def initialize(source_file)
+    @source_file = source_file
     @the_tree = tree
-    write_directories target_file_path
-    write_images(source_file_path, target_file_path)
-    write_descriptions target_file_path
+    #write_directories target_file_path
+    #write_images(source_file_path, target_file_path)
+    #write_descriptions target_file_path
   end
 
   attr_reader :the_tree
-
-  def write_directories(target_file_path)
-    @the_tree.keys.each do |title_directory|
-      title_path = target_file_path + title_directory
-      unless File.exist?(title_path)
-        FileUtils.mkdir_p(title_path)
-      end
-    end
-  end
-
-  def write_descriptions target_file_path
-    @the_tree.keys.each do |title_path|
-      filename = title_path.split('/').last + ('.md')
-      description_path = target_file_path + title_path + filename
-      description = @the_tree[title_path][0]
-      IO.write(description_path, description)
-    end
-  end
-
-  def image_filename_for image_reference
-    if image_reference
-      if image_reference.start_with?('http')
-        image_filename = 'placeholder.jpg'
-      else
-        image_filename = image_reference
-      end
-    else
-      image_filename= 'placeholder.jpg'
-    end
-  end
-
-  def write_image(source_image, target)
-      if File.exist?(source_image)
-        FileUtils.copy_file(source_image, target)
-      else
-        FileUtils.touch(target)
-      end
-  end
-
-  def write_images(source_file_path, target_file_path)
-    source_image_directory = File.dirname(source_file_path) + '/images/'
-    @the_tree.keys.each do |title_directory|
-      image_filename = image_filename_for @the_tree[title_directory][1]
-      target_image_path = target_file_path + title_directory + image_filename
-      write_image((source_image_directory + image_filename), target_image_path)
-    end
-  end
-
-  def lines_from source_file_path
-    contents = File.read source_file_path   
-    contents.gsub(/\0+/, "\n").lines
-  end
 
   def tree
     tree = {} 
@@ -122,11 +70,6 @@ class BookCollection
   def name_from(line)
     content = line.clone
     punctuation = Regexp.new '[’\(\)\[\]\{}]'
-    content.gsub!('AUTHOR_', '')
-    content.gsub!('TITLE_', '')
-    content.gsub!('SERIES_', '')
-    content.gsub!('WORLD_', '')
-    content.gsub!('IMAGE_LINK_', '')
     content.gsub!(punctuation, '')
     content.gsub!("\n", '')
     content.strip
@@ -176,22 +119,22 @@ class BookCollection
   end
 
   def author?(line)
-    line&.include?('AUTHOR_')
+    false
   end
 
   def series?(line)
-    line&.include?('SERIES_')
+    false
   end
 
   def world?(line)
-    line&.include?('WORLD_')
+    false
   end
 
   def image?(line)
-    line&.include?('IMAGE_LINK_')
+    false
   end
 
   def title?(line)
-    line&.include?('TITLE_')
+    line.match? /^\[.*\]/
   end
 end

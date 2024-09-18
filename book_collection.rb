@@ -119,14 +119,14 @@ class BookCollection
   end
 
   def author?(line)
-    line.match /^[\#][\s](.+)/
-  end
-
-  def series?(line)
-    false
+    line.match? /^[\#][\s](.+)/
   end
 
   def world?(line)
+    line.match? /^[\#][\#][\s](.+)/ 
+  end
+
+  def series?(line)
     false
   end
 

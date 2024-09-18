@@ -16,11 +16,11 @@ class TestBookCollection < Minitest::Spec
     end
 
     it 'has a title path for All Tomorrow\'s Parties without apostrophe' do
-      _(@book_collection.the_tree.keys).must_include 'William_Gibson/All_Tomorrows_Parties/' 
+      _(@book_collection.the_tree.keys).must_include 'William_Gibson/Bridge_Trilogy/All_Tomorrows_Parties/' 
     end
-
-    it 'has an author for Too Like the Lightning' do
-      _(@book_collection.the_tree.keys).must_include 'Ada_Palmer/Too_Like_the_Lightning/'
+    
+    it 'has a world for Too Like the Lightning' do
+      _(@book_collection.the_tree.keys).must_include 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/'
     end
   end
 end

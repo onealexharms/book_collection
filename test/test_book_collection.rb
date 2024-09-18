@@ -15,9 +15,12 @@ class TestBookCollection < Minitest::Spec
       _(@book_collection.the_tree.keys).must_be_kind_of Array
     end
 
-    it 'has a title path for Too Like the Lightning' do
-      title = '[Too Like the Lightning]'
-      _(@book_collection.the_tree.keys).must_include 'Too_Like_the_Lightning/'
+    it 'has a title path for All Tomorrow\'s Parties without apostrophe' do
+      _(@book_collection.the_tree.keys).must_include 'William_Gibson/All_Tomorrows_Parties/' 
+    end
+
+    it 'has an author for Too Like the Lightning' do
+      _(@book_collection.the_tree.keys).must_include 'Ada_Palmer/Too_Like_the_Lightning/'
     end
   end
 end

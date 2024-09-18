@@ -69,7 +69,7 @@ class BookCollection
 
   def name_from(line)
     content = line.clone
-    punctuation = Regexp.new '[’\(\)\[\]\{}]'
+    punctuation = Regexp.new '[’\(\)\[\]\{}\#]'
     content.gsub!(punctuation, '')
     content.gsub!("\n", '')
     content.strip
@@ -119,7 +119,7 @@ class BookCollection
   end
 
   def author?(line)
-    false
+    line.match /^[\#][\s](.+)/
   end
 
   def series?(line)

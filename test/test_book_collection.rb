@@ -28,8 +28,13 @@ class TestBookCollection < Minitest::Spec
     end
 
     it 'has images' do
-      title = 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning'
-      _(@book_collection.the_tree['Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/'][1]).must_equal '1_too_like_the_lightning.jpg'
+      title = 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/'
+      _(@book_collection.the_tree[title][1]).must_equal '1_too_like_the_lightning.jpg'
+    end
+
+    it 'has descriptions' do
+      title = 'William_Gibson/Jackpot_Trilogy/The_Peripheral/'
+      _(@book_collection.the_tree[title][0]).must_include 'Flynne Fisher lives down a country road,'
     end
   end
 end

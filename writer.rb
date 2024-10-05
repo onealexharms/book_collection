@@ -1,18 +1,30 @@
+require 'fileutils'
+require './book_collection'
 
-  def write_directories(target_file_path)
-    @the_tree.keys.each do |title_directory|
-      title_path = target_file_path + title_directory
+class Writer
+  def initialize()
+    @target_path = "./data/books/"
+    book_collection = BookCollection.new('./data/index.md')
+    @collection = book_collection.the_tree
+    write_directories
+    write_descriptions
+    move_images
+  end
+
+  def write_directories
+    @collection.keys.each do |title_directory|
+      title_path = @target_path + title_directory
       unless File.exist?(title_path)
         FileUtils.mkdir_p(title_path)
       end
     end
   end
 
-  def write_descriptions target_file_path
-    @the_tree.keys.each do |title_path|
+  def write_descriptions 
+    @collection.keys.each do |title_path|
       filename = title_path.split('/').last + ('.md')
-      description_path = target_file_path + title_path + filename
-      description = @the_tree[title_path][0]
+      description_path = @target_path + title_path + filename
+      description = @collection[title_path][0]
       IO.write(description_path, description)
     end
   end
@@ -29,10 +41,18 @@
     end
   end
 
-  def write_image(source_image, target)
-      if File.exist?(source_image)
-        FileUtils.copy_file(source_image, target)
+  def move_images
+    @collection.keys.each do |title_path|
+      image = image_filename_for(@collection[title_path][1])
+      source = './data/images/' + image
+      image_path = @target_path + title_path + image 
+      if File.exist?(source)
+        FileUtils.copy_file(source, image_path)
       else
-        FileUtils.touch(target)
+        FileUtils.touch(image_path)
       end
+    end
   end
+
+  writer = Writer.new
+end

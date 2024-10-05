@@ -1,8 +1,6 @@
-require 'fileutils'
-
 class BookCollection
-  def initialize(source_file)
-    @source_file = source_file
+  def initialize(source_path)
+    @source_file = File.readlines(source_path)
     @the_tree = tree
   end
 
@@ -16,9 +14,11 @@ class BookCollection
     series = ''
     title = ''
     image = '' 
+    new_image = ''
     @source_file.each do |line|
       if image? line
         image = line
+        new_image = new_image_from line
       elsif author? line  
         author = line
         world, series, title = '', '', ''
@@ -30,27 +30,30 @@ class BookCollection
         title = ''
       elsif title? line
         title = line
-        description = description_from line
-        paths = collect_paths(author, 
+        description = description_from line 
+        paths = collect_path(author, 
                               world, 
                               series, 
                               title, 
                               description,
-                              image) 
+                              image,
+                              new_image) 
  
         tree[paths.first] = paths.last
         image = ''
-      end 
+        new_image = ''
+      end
     end 
     tree
   end 
 
-  def collect_paths(author, 
+  def collect_path(author, 
                     world, 
                     series, 
                     title, 
                     description,
-                    image)
+                    image,
+                    new_image)
 
     base_path = (path_name_for author) + 
       (path_name_for world) + 
@@ -61,15 +64,20 @@ class BookCollection
     unless image == ''
       image_path = path_name_for(image, '')
     end
-    [base_path, [description, image_path]]
+    [base_path, [description, image_path, new_image]]
   end
 
   def name_from(line)
     content = line.clone
-    punctuation = Regexp.new /[’\(\)\[\]\{}\#'!|]/
+    punctuation = Regexp.new /[’\(\)\[\]\{}\#'!|:]/
     content.gsub!(punctuation, '')
     content.gsub!("\n", '')
     content.strip
+  end
+
+  def new_image_from(image)
+    extension = (image.partition(".").last).partition(")").first
+    "cover."+extension
   end
 
   def path_name_for(line, extension = '/')
@@ -87,7 +95,7 @@ class BookCollection
     description = ''
     if @source_file[index]
       until @source_file[index].nil? or header?(@source_file[index])
-          description = description.concat(non_blank_line(index))
+        description = (description.concat(non_blank_line(index)).strip)
           index += 1
       end
     end

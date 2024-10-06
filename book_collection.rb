@@ -1,3 +1,5 @@
+require './writer'
+
 class BookCollection
   def initialize(source_path)
     @source_file = File.readlines(source_path)
@@ -7,19 +9,19 @@ class BookCollection
   attr_reader :the_tree
 
   def tree
-    tree = {} 
+    tree = {}
     description = ''
     author = ''
     world = ''
     series = ''
     title = ''
-    image = '' 
+    image = ''
     new_image = ''
     @source_file.each do |line|
       if image? line
         image = line
         new_image = new_image_from line
-      elsif author? line  
+      elsif author? line
         author = line
         world, series, title = '', '', ''
       elsif world? line
@@ -30,34 +32,34 @@ class BookCollection
         title = ''
       elsif title? line
         title = line
-        description = description_from line 
-        paths = collect_path(author, 
-                              world, 
-                              series, 
-                              title, 
+        description = description_from line
+        paths = collect_path(author,
+                              world,
+                              series,
+                              title,
                               description,
                               image,
-                              new_image) 
- 
+                              new_image)
+
         tree[paths.first] = paths.last
         image = ''
         new_image = ''
       end
-    end 
+    end
     tree
-  end 
+  end
 
-  def collect_path(author, 
-                    world, 
-                    series, 
-                    title, 
+  def collect_path(author,
+                    world,
+                    series,
+                    title,
                     description,
                     image,
                     new_image)
 
-    base_path = (path_name_for author) + 
-      (path_name_for world) + 
-      (path_name_for series) + 
+    base_path = (path_name_for author) +
+      (path_name_for world) +
+      (path_name_for series) +
       (path_name_for title)
 
     title_path = base_path + path_name_for(title, '.md')
@@ -83,14 +85,14 @@ class BookCollection
   def path_name_for(line, extension = '/')
     if line && (non_blank? line)
       name = (name_from line).gsub(' ', '_')
-    else 
+    else
       name = ''
       extension = ''
     end
-    name + extension 
+    name + extension
   end
-  
-  def description_from(line) 
+
+  def description_from(line)
     index = @source_file.find_index(line) + 1
     description = ''
     if @source_file[index]
@@ -111,11 +113,11 @@ class BookCollection
   end
 
   def non_blank?(line)
-    line.match?(/\w/) && 
+    line.match?(/\w/) &&
       line.length() > 4
   end
 
-  def header?(line) 
+  def header?(line)
     author? line or
       series? line or
       world? line or
@@ -128,11 +130,11 @@ class BookCollection
   end
 
   def world?(line)
-    line.match? /^[\#][\#][\s](.+)/ 
+    line.match? /^[\#][\#][\s](.+)/
   end
 
   def series?(line)
-    line.match? /^[\#][\#][\#][\s](.+)/ 
+    line.match? /^[\#][\#][\#][\s](.+)/
   end
 
   def image?(line)

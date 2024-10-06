@@ -2,10 +2,12 @@ require 'fileutils'
 require './book_collection'
 
 class Writer
-  def initialize()
-    @target_path = "./data/books/"
-    book_collection = BookCollection.new('./data/index.md')
-    @collection = book_collection.the_tree
+  def initialize(tree, path)
+    @target_path = path
+    @collection = tree
+  end
+
+  def write
     write_directories
     write_descriptions
     move_images
@@ -20,7 +22,7 @@ class Writer
     end
   end
 
-  def write_descriptions 
+  def write_descriptions
     @collection.keys.each do |title_path|
       filename = title_path.split('/').last + ('.md')
       description_path = @target_path + title_path + filename
@@ -45,7 +47,7 @@ class Writer
     @collection.keys.each do |title_path|
       image = image_filename_for(@collection[title_path][1])
       source = './data/images/' + image
-      image_path = @target_path + title_path + image 
+      image_path = @target_path + title_path + image
       if File.exist?(source)
         FileUtils.copy_file(source, image_path)
       else
@@ -53,6 +55,4 @@ class Writer
       end
     end
   end
-
-  writer = Writer.new
 end

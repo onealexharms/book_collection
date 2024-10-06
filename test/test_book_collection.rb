@@ -6,8 +6,8 @@ require 'fileutils'
 
 class TestBookCollection < Minitest::Spec
   before do
-    data = 'test/test_data/normalized_index.md'
-    book_collection = BookCollection.new data
+    location = 'test/test_data/normalized_index.md'
+    book_collection = BookCollection.new location 
     @tree = book_collection.the_tree
   end
 

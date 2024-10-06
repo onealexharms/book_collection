@@ -64,7 +64,7 @@ class BookCollection
 
     title_path = base_path + path_name_for(title, '.md')
     unless image == ''
-      image_path = path_name_for(image, '')
+      image_path = "data/images/" + path_name_for(image, '')
     end
     [base_path, [description, image_path, new_image]]
   end

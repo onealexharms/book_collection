@@ -16,7 +16,7 @@ class TestBookCollection < Minitest::Spec
       mini_data = 'test/test_data/mini_index.md'
       mini_collection = BookCollection.new mini_data
       tree = mini_collection.the_tree
-      _(tree["William_Gibson/Sprawl_Trilogy/Neuromancer/"]).must_equal ["Case was the sharpest.", "Image%2008-20-24,%2021-23.jpeg", "cover.jpeg"]
+      _(tree["William_Gibson/Sprawl_Trilogy/Neuromancer/"]).must_equal ["Case was the sharpest.", "data/images/Image%2008-20-24,%2021-23.jpeg", "cover.jpeg"]
   end
 
     it 'has a title path for All Tomorrow\'s Parties without apostrophe' do 
@@ -29,7 +29,7 @@ class TestBookCollection < Minitest::Spec
 
     it 'has images' do
       title = 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/'
-      _(@tree[title][1]).must_equal '1_too_like_the_lightning.jpg'
+      _(@tree[title][1]).must_equal 'data/images/1_too_like_the_lightning.jpg'
     end
 
     it 'has descriptions' do

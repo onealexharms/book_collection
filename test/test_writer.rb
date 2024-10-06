@@ -35,8 +35,17 @@ class TestWriter < Minitest::Spec
 
     it 'finds images' do
       @writer.write
-        image = "data/images/Image%20of%20a,%20like,%20whale.xyz"
+      image = "data/images/Image%20of%20a,%20like,%20whale.xyz"
       _(File.exist? image).must_equal true
     end
-  end 
+
+    it 'copies images' do
+      @writer.write
+      image = "data/images/Image%20of%20a,%20like,%20whale.xyz"
+      new_image = @target_path 
+      + "Herman_Melville/Moby_Dick/Image%20of%20a,%20like,%20whale.xyz"
+      _(File.exist? new_image).must_equal true
+    end
+#      _(File.size(image)).must_equal(File.size(@target_path + "Herman_Melville/Moby_Dick/cover.jpg")) 
+  end
 end

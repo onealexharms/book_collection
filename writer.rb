@@ -10,7 +10,7 @@ class Writer
   def write
     write_directories
     write_descriptions
-#   move_images
+    move_images
   end
 
   def write_directories
@@ -31,13 +31,14 @@ class Writer
     end
   end
 
-#  def move_images
-#    @collection.keys.each do |title_path|
-#      source = @collection[title_path][1]
-#      image_path = @target_path + title_path + source
-#      if File.exist?(source)
-#        FileUtils.copy_file(source, image_path)
-#      else 
-#      end
-#    end
+  def move_images
+    @collection.keys.each do |title_path|
+      source = @collection[title_path][1]
+      image_name = File.basename(source)
+      image_full_path = @target_path + title_path + image_name
+      if File.exist?(source)
+        FileUtils.copy_file(source, image_full_path)
+      end
+    end
+  end
 end

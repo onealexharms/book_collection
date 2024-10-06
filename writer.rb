@@ -10,7 +10,7 @@ class Writer
   def write
     write_directories
     write_descriptions
-    move_images
+#   move_images
   end
 
   def write_directories
@@ -31,28 +31,13 @@ class Writer
     end
   end
 
-  def image_filename_for image_reference
-    if image_reference
-      if image_reference.start_with?('http')
-        image_filename = 'placeholder.jpg'
-      else
-        image_filename = image_reference
-      end
-    else
-      image_filename= 'placeholder.jpg'
-    end
-  end
-
-  def move_images
-    @collection.keys.each do |title_path|
-      image = image_filename_for(@collection[title_path][1])
-      source = './data/images/' + image
-      image_path = @target_path + title_path + image
-      if File.exist?(source)
-        FileUtils.copy_file(source, image_path)
-      else
-        FileUtils.touch(image_path)
-      end
-    end
-  end
+#  def move_images
+#    @collection.keys.each do |title_path|
+#      source = @collection[title_path][1]
+#      image_path = @target_path + title_path + source
+#      if File.exist?(source)
+#        FileUtils.copy_file(source, image_path)
+#      else 
+#      end
+#    end
 end

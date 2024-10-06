@@ -8,7 +8,7 @@ class TestWriter < Minitest::Spec
   before do
     @tree = {"Herman_Melville/Moby_Dick/" =>
             ["There's this whale, see, and...",
-             "Image%20of%20,a%20whale.xyz",
+             "data/images/Image%20of%20a,%20like,%20whale.xyz",
              "cover.xyz"]}
     @target_path = "test/test_data/temp/"
     FileUtils.rm_rf @target_path
@@ -33,6 +33,10 @@ class TestWriter < Minitest::Spec
       _(File.readlines(description).first).must_include "There's this whale, see, and..."
     end
 
-  end
+    it 'finds images' do
+      @writer.write
+        image = "data/images/Image%20of%20a,%20like,%20whale.xyz"
+      _(File.exist? image).must_equal true
+    end
+  end 
 end
-

@@ -5,10 +5,11 @@ require 'minitest/pride'
 require 'fileutils'
 
 class TestWriter < Minitest::Spec
+
   before do
     @tree = {"Herman_Melville/Moby_Dick/" =>
             ["There's this whale, see, and...",
-             "data/images/Image%20of%20a,%20like,%20whale.xyz",
+             "data/images/Image%20of%20a,%20like,%20whale.jpeg",
              "cover.xyz"]}
     @target_path = "test/test_data/temp/"
     FileUtils.rm_rf @target_path
@@ -23,7 +24,7 @@ class TestWriter < Minitest::Spec
 
     it 'writes directories' do
       @writer.write_directories
-      _(Dir.exist? "test/test_data/temp/Herman_Melville/Moby_Dick/").must_equal true
+      _(Dir.exist? @target_path + "Herman_Melville/Moby_Dick/").must_equal true
     end
 
     it 'writes descriptions' do
@@ -35,17 +36,17 @@ class TestWriter < Minitest::Spec
 
     it 'finds images' do
       @writer.write
-      image = "data/images/Image%20of%20a,%20like,%20whale.xyz"
+      image = "data/images/Image%20of%20a,%20like,%20whale.jpeg"
       _(File.exist? image).must_equal true
+      _(File.exist? image + "blergh").must_equal false
     end
 
     it 'copies images' do
       @writer.write
-      image = "data/images/Image%20of%20a,%20like,%20whale.xyz"
-      new_image = @target_path 
-      + "Herman_Melville/Moby_Dick/Image%20of%20a,%20like,%20whale.xyz"
+      image = "data/images/Image%20of%20a,%20like,%20whale.jpeg"
+      new_image = @target_path
+      + "COPIED_IMAGE.jpeg"
       _(File.exist? new_image).must_equal true
     end
-#      _(File.size(image)).must_equal(File.size(@target_path + "Herman_Melville/Moby_Dick/cover.jpg")) 
   end
 end

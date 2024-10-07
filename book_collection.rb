@@ -1,8 +1,8 @@
 require './writer'
 
 class BookCollection
-  def initialize(source_path)
-    @source_file = File.readlines(source_path)
+  def initialize(source_file)
+    @source_file = File.readlines(source_file)
     @the_tree = tree
   end
 

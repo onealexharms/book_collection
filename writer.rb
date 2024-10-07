@@ -34,10 +34,12 @@ class Writer
   def move_images
     @collection.keys.each do |title_path|
       source = @collection[title_path][1]
-      image_name = File.basename(source)
-      image_full_path = @target_path + title_path + image_name
-      if File.exist?(source)
-        FileUtils.copy_file(source, image_full_path)
+      if source
+        image_name = File.basename(source)
+        image_full_path = @target_path + title_path + image_name
+        if File.exist?(source)
+          FileUtils.copy_file(source, image_full_path)
+        end
       end
     end
   end

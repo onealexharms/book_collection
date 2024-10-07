@@ -7,6 +7,7 @@ require 'fileutils'
 class TestBookCollection < Minitest::Spec
   before do
     source_file = 'test/test_data/mini_index.md'
+    
     book_collection = BookCollection.new source_file
     @tree = book_collection.the_tree
   end

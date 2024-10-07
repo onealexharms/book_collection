@@ -45,7 +45,6 @@ class TestWriter < Minitest::Spec
 #      _(File.exist? image).must_equal true
 #      _(File.exist? image + "blergh").must_equal false
 #end
-
 #    it 'copies images' do
 #      @writer.write
 #      new_image = 

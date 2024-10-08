@@ -2,7 +2,8 @@ require './writer'
 
 class BookCollection
   def initialize(source_file)
-    @source_file = File.readlines(source_file)
+    @image_source = image_path_from source_file
+    @lines = File.readlines(source_file)
     @the_tree = tree
   end
 
@@ -16,7 +17,7 @@ class BookCollection
     series = ''
     title = ''
     image = ''
-    @source_file.each do |line|
+    @lines.each do |line|
       if image? line
         image = line
       elsif author? line
@@ -59,9 +60,15 @@ class BookCollection
 
     title_path = base_path + path_name_for(title, '.md')
     unless image == ''
-      image_path = "images/" + path_name_for(image, '')
+      image_path = @image_source + path_name_for(image, '')
     end
     [base_path, [description, image_path]]
+  end
+
+  def image_path_from source_file
+    parts = source_file.split('/')
+    parts.reject! {|part| part == File.basename(source_file)}
+    parts.join('/') + '/images/'
   end
 
   def name_from(line)
@@ -83,10 +90,10 @@ class BookCollection
   end
 
   def description_from(line)
-    index = @source_file.find_index(line) + 1
+    index = @lines.find_index(line) + 1
     description = ''
-    if @source_file[index]
-      until @source_file[index].nil? or header?(@source_file[index])
+    if @lines[index]
+      until @lines[index].nil? or header?(@lines[index])
         description = (description.concat(non_blank_line(index)).strip)
           index += 1
       end
@@ -95,8 +102,8 @@ class BookCollection
   end
 
   def non_blank_line(index)
-    if non_blank? @source_file[index]
-      @source_file[index]
+    if non_blank? @lines[index]
+      @lines[index]
     else
       ''
     end

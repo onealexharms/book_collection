@@ -5,13 +5,23 @@ require 'minitest/autorun'
 require 'minitest/pride'
 require 'fileutils'
 
+module Minitest::Expectations
+  def look_for file
+    if File.exist? file
+      'found'
+    else
+      'not found: ' + file
+    end
+  end
+end
+
 class TestWriter < Minitest::Spec
 
   before do
     source_file = "test/test_data/mini_index.md"
     @tree = BookCollection.new(source_file).the_tree
 
-    @target_path = "test/test_data/temp/"
+    @target_path = "test/test_data/results/"
     FileUtils.rm_rf @target_path
     Dir.mkdir @target_path
     @writer = Writer.new(@tree, @target_path)
@@ -36,18 +46,12 @@ class TestWriter < Minitest::Spec
       _(File.readlines(description).first).must_include "Case was the sharpest."
     end
 
-#    it 'finds images' do
-#      @writer.write
-#      image = 
-#        @target_path + "Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/1_too_like_the_lightning.jpg"
-#      puts image
-#      _(File.exist? image).must_equal true
-#      _(File.exist? image + "blergh").must_equal false
-#end
-#    it 'copies images' do
-#      @writer.write
-#      new_image = 
-#        @target_path + "William_Gibson/Sprawl_Trilogy/Neuromancer/Image 08-20-24, 21-23.jpeg"
-#      _(File.exist? new_image).must_equal true
+    it 'moves images' do
+      @writer.write
+      book_path = @target_path + 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/'
+      image = book_path + '1_too_like_the_lightning.jpg'
+      _(look_for image).must_equal ('found')
+      _(look_for (image + 'blergh')).must_equal ('not found: ' + image + 'blergh')
     end
   end
+end

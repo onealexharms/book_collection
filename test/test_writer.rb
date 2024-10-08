@@ -25,7 +25,6 @@ class TestWriter < Minitest::Spec
     it 'writes directories' do
       @writer.write_directories
       path = @target_path + "Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/"
-      puts path
       _(Dir.exist? path).must_equal true
 
     end
@@ -49,7 +48,6 @@ class TestWriter < Minitest::Spec
 #      @writer.write
 #      new_image = 
 #        @target_path + "William_Gibson/Sprawl_Trilogy/Neuromancer/Image 08-20-24, 21-23.jpeg"
-#      puts new_image
 #      _(File.exist? new_image).must_equal true
     end
   end

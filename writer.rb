@@ -10,7 +10,7 @@ class Writer
   def write
     write_directories
     write_descriptions
-#move_images
+    #move_images
   end
 
   def write_directories

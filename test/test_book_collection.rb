@@ -7,9 +7,15 @@ require 'fileutils'
 class TestBookCollection < Minitest::Spec
   before do
     source_file = 'test/test_data/mini_index.md'
-    
+    filename = File.basename(source_file)
     book_collection = BookCollection.new source_file
     @tree = book_collection.the_tree
+  end
+
+  def just_path source_file
+    parts = source_file.split('/')
+    parts.reject! {|part| part == File.basename(source_file)}
+    parts.join('/')
   end
 
   describe "book collection" do
@@ -20,7 +26,7 @@ class TestBookCollection < Minitest::Spec
 
     it 'has images' do
       title = 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/'
-      _(@tree[title][1]).must_equal 'data/images/1_too_like_the_lightning.jpg'
+      _(@tree[title][1]).must_equal('images/1_too_like_the_lightning.jpg')
     end
 
     it 'has descriptions' do

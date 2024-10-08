@@ -16,11 +16,9 @@ class BookCollection
     series = ''
     title = ''
     image = ''
-    new_image = ''
     @source_file.each do |line|
       if image? line
         image = line
-        new_image = new_image_from line
       elsif author? line
         author = line
         world, series, title = '', '', ''
@@ -38,12 +36,10 @@ class BookCollection
                               series,
                               title,
                               description,
-                              image,
-                              new_image)
+                              image)
 
         tree[paths.first] = paths.last
         image = ''
-        new_image = ''
       end
     end
     tree
@@ -54,8 +50,7 @@ class BookCollection
                     series,
                     title,
                     description,
-                    image,
-                    new_image)
+                    image)
 
     base_path = (path_name_for author) +
       (path_name_for world) +
@@ -64,9 +59,9 @@ class BookCollection
 
     title_path = base_path + path_name_for(title, '.md')
     unless image == ''
-      image_path = "data/images/" + path_name_for(image, '')
+      image_path = "images/" + path_name_for(image, '')
     end
-    [base_path, [description, image_path, new_image]]
+    [base_path, [description, image_path]]
   end
 
   def name_from(line)
@@ -75,11 +70,6 @@ class BookCollection
     content.gsub!(punctuation, '')
     content.gsub!("\n", '')
     content.strip
-  end
-
-  def new_image_from(image)
-    extension = (image.partition(".").last).partition(")").first
-    "cover."+extension
   end
 
   def path_name_for(line, extension = '/')

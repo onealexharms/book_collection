@@ -46,12 +46,22 @@ class TestWriter < Minitest::Spec
       _(File.readlines(description).first).must_include "Case was the sharpest."
     end
 
-    it 'moves images' do
+    it 'moves image' do
       @writer.write
-      book_path = @target_path + 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/'
-      image = book_path + '1_too_like_the_lightning.jpg'
+      image = @target_path +
+        'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/' +
+        '1_too_like_the_lightning.jpg'
       _(look_for image).must_equal ('found')
       _(look_for (image + 'blergh')).must_equal ('not found: ' + image + 'blergh')
     end
+
+    it 'moves images' do
+      @writer.write
+      image = @target_path +
+        'William_Gibson/Sprawl_Trilogy/Neuromancer/' +
+        'Image%2008-20-24,%2021-23.jpeg'
+      _(look_for image).must_equal ('found')
+    end
+
   end
 end

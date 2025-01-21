@@ -1,4 +1,5 @@
 */
+.DS_Store
 !test/
 book_collection_rb_stash
 $stdout

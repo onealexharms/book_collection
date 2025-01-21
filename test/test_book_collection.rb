@@ -25,6 +25,12 @@ class TestBookCollection < Minitest::Spec
       _(@tree.keys).must_include 'William_Gibson/Bridge_Trilogy/All_Tomorrows_Parties/'
     end
 
+    it 'has an image path for Neuromancer with escaped spaces instead of %20' do
+      title = 'William_Gibson/Sprawl_Trilogy/Neuromancer/'
+      image_path = @image_source + "Image 2008-20-24, 21-23.jpeg"
+      _(@tree[title][1]).must_equal(image_path)
+    end
+
     it 'has images' do
       title = 'Ada_Palmer/Terra_Ignota/Too_Like_the_Lightning/'
       image_path = @image_source + '1_too_like_the_lightning.jpg'
